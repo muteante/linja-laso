@@ -5,7 +5,7 @@
 
 this is a little font i'm making, based on a grid and with sharp edges! More about [how](https://github.com/cvni1981/linja-laso/wiki). (under construction!)
 
-any and all quibbles may be sent to cvni1981@gmail.com
+any and all quibbles may be sent to muteante@gmail.com
 
 ### currently has:
 - nimi pu ale, nimi ku suli ale
