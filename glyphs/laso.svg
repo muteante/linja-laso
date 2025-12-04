@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="110mm"
-   height="130mm"
-   viewBox="0 0 110 130"
+   width="672"
+   height="1024"
+   viewBox="0 0 177.8 270.93333"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="laso.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -24,57 +24,54 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.61103017"
-     inkscape:cx="351.86479"
-     inkscape:cy="211.11887"
-     inkscape:window-width="1366"
-     inkscape:window-height="768"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="0.5"
+     inkscape:cx="321"
+     inkscape:cy="709"
+     inkscape:window-width="950"
+     inkscape:window-height="1039"
+     inkscape:window-x="962"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
-       units="mm"
+       units="px"
        originx="0"
        originy="0"
-       spacingx="2.5000001"
-       spacingy="2.5000001"
+       spacingx="7.9375"
+       spacingy="7.9375"
+       empcolor="#ffffff"
+       empopacity="0.54509804"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="3.96875"
+       spacingy="3.96875"
        empcolor="#ffffff"
        empopacity="0.30196078"
        color="#ffffff"
        opacity="0.14901961"
        empspacing="4"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
+       enabled="false"
        visible="true" />
   </sodipodi:namedview>
   <defs
-     id="defs1">
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect11"
-       is_visible="true"
-       lpeversion="1" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect11-1"
-       is_visible="true"
-       lpeversion="1" />
-  </defs>
+     id="defs1" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect3"
-       style="fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-miterlimit:100;stroke-opacity:1"
-       d="M 54.99974,54.999648 19.999809,109.99991 H 31.852832 78.147164 90.000187 Z M 55.000256,73.625385 71.783728,100 h -33.56746 z"
-       sodipodi:nodetypes="cccccccccc" />
-    <path
-       id="path5-8"
-       style="fill:#020202;fill-opacity:1;stroke:none;stroke-width:0.132292;stroke-miterlimit:100;stroke-opacity:1"
-       d="M 25.000024 19.999813 L 25.000024 29.999719 A 25 25 0 0 0 50.000049 54.999744 L 50.000049 67.574687 L 59.999955 67.574687 L 59.999955 54.999744 A 25 25 0 0 0 84.99998 29.999719 L 84.99998 19.999813 L 75.000073 19.999813 A 25 25 0 0 0 55.008012 30.016772 A 25 25 0 0 0 34.999931 19.999813 L 25.000024 19.999813 z M 34.999931 29.999719 A 15.000001 15.000001 0 0 1 50.000049 44.999837 A 15.000001 15.000001 0 0 1 34.999931 29.999719 z M 75.000073 29.999719 A 15.000001 15.000001 0 0 1 59.999955 44.999837 A 15.000001 15.000001 0 0 1 75.000073 29.999719 z " />
+       id="rect105"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:7.9;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="m 38.098298,67.732529 c 0,0 -16.9318,0.2463 -16.9317,5e-4 v 8.4667 c 0,32.732501 26.5315,59.268901 59.264,59.270301 v 8.4594 l -59.264,59.2703 H 156.6291 l -59.264102,-59.2703 v -8.4589 c 32.729102,0 59.258802,-26.5403 59.256802,-59.270301 l 0.01,-8.4672 h -16.9379 c -21.5581,0 -40.428502,11.5087 -50.800602,28.7176 -10.3707,-17.2079 -29.2372,-28.717 -50.7932,-28.7181 z m 0.8512,16.9437 c 19.7892,0.3999 36.6599,14.458 40.6223,33.850601 -19.7892,-0.3999 -36.6599,-14.458 -40.6223,-33.850601 z m 99.889002,0 C 134.8761,104.06883 118.0053,118.12743 98.216098,118.52733 102.1785,99.134729 119.0493,85.076129 138.8385,84.676229 Z M 88.897798,159.41733 115.752,186.27203 H 62.043698 Z"
+       sodipodi:nodetypes="scsccccccccscsscccccccccc" />
   </g>
 </svg>

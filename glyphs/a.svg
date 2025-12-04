@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="110mm"
-   height="130mm"
-   viewBox="0 0 110 130"
+   width="672"
+   height="1024"
+   viewBox="0 0 177.8 270.93333"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="a.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -15,7 +15,7 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -24,30 +24,42 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="1.3578781"
-     inkscape:cx="214.30495"
-     inkscape:cy="202.89009"
-     inkscape:window-width="1354"
-     inkscape:window-height="733"
-     inkscape:window-x="5"
-     inkscape:window-y="5"
+     inkscape:zoom="0.5"
+     inkscape:cx="546"
+     inkscape:cy="699"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
-       units="mm"
+       units="px"
        originx="0"
        originy="0"
-       spacingx="2.5"
-       spacingy="2.5"
+       spacingx="7.9375"
+       spacingy="7.9375"
+       empcolor="#ffffff"
+       empopacity="0.54509804"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="3.96875"
+       spacingy="3.96875"
        empcolor="#ffffff"
        empopacity="0.30196078"
        color="#ffffff"
        opacity="0.14901961"
        empspacing="4"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
+       enabled="false"
        visible="true" />
   </sodipodi:namedview>
   <defs
@@ -57,15 +69,15 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="path1"
-       style="font-variation-settings:'wght' 700;fill:#000000;stroke-width:0.264582"
-       d="M 54.999777,79.999811 A 14.999982,14.999982 0 0 0 40.000195,94.999909 14.999982,14.999982 0 0 0 54.999777,110 14.999982,14.999982 0 0 0 64.03875,106.96743 l 0.961231,3.03247 h 9.999997 l -5.600115,-19.200195 -0.0029,8.01e-4 A 14.999982,14.999982 0 0 0 54.999854,79.999811 Z m 0,9.999894 a 4.9999933,4.9999933 0 0 1 5.000205,5.000204 4.9999933,4.9999933 0 0 1 -5.000205,5.000211 4.9999933,4.9999933 0 0 1 -4.999688,-5.000211 4.9999933,4.9999933 0 0 1 4.999688,-5.000204 z" />
+       id="path4-8"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:7.9;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="m 82.553874,137.58007 c -18.7008,0 -33.8624,15.1616 -33.8624,33.8688 0,18.7008 15.1616,33.8688 33.8624,33.8688 10.1184,0 19.193596,-4.416 25.401596,-11.4688 6.208,7.0336 15.2832,11.4688 25.4016,11.4688 v -16.9344 c -9.3504,0 -16.9344,-7.584 -16.9344,-16.9344 0,-18.7072 -15.1616,-33.8688 -33.868796,-33.8688 z m 0,16.9344 c 9.3568,0 16.9344,7.584 16.9344,16.9344 0,9.3504 -7.5776,16.9344 -16.9344,16.9344 -9.3504,0 -16.928,-7.584 -16.928,-16.9344 0,-9.3504 7.5776,-16.9344 16.928,-16.9344 z" />
     <rect
-       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
-       id="rect1"
-       width="9.999999"
-       height="52.5"
-       x="49.999996"
-       y="20" />
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:7.9;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect3-0"
+       width="16.933334"
+       height="55.033333"
+       x="74.084595"
+       y="67.734741" />
   </g>
 </svg>

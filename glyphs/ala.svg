@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1100mm"
-   height="1300mm"
-   viewBox="0 0 1100 1300"
+   width="672"
+   height="1024"
+   viewBox="0 0 177.8 270.93333"
    version="1.1"
    id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
    sodipodi:docname="ala.svg"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <sodipodi:namedview
      id="namedview1"
-     pagecolor="#505050"
+     pagecolor="#ffffff"
      bordercolor="#eeeeee"
      borderopacity="1"
      inkscape:showpageshadow="0"
@@ -24,41 +24,53 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="0.099343679"
-     inkscape:cx="3211.075"
-     inkscape:cy="2622.2101"
-     inkscape:window-width="1354"
-     inkscape:window-height="733"
-     inkscape:window-x="5"
-     inkscape:window-y="5"
+     inkscape:zoom="0.5"
+     inkscape:cx="545"
+     inkscape:cy="697"
+     inkscape:window-width="950"
+     inkscape:window-height="1039"
+     inkscape:window-x="962"
+     inkscape:window-y="33"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
-       units="mm"
+       units="px"
        originx="0"
        originy="0"
-       spacingx="25"
-       spacingy="25"
+       spacingx="7.9375"
+       spacingy="7.9375"
+       empcolor="#ffffff"
+       empopacity="0.54509804"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid2"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="3.96875"
+       spacingy="3.96875"
        empcolor="#ffffff"
        empopacity="0.30196078"
        color="#ffffff"
        opacity="0.14901961"
        empspacing="4"
-       dotted="false"
-       gridanglex="30"
-       gridanglez="30"
+       enabled="false"
        visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
      id="layer1">
     <path
-       id="rect1"
-       style="fill:#000000;stroke-width:0.264583"
-       d="m 403.55436,120.71261 394.97341,2.1e-4 1.6e-4,394.97524 100.00036,-0.002 -1.6e-4,-394.97378 394.97557,2e-4 -0,-99.999986 -394.97374,1.58e-4 -5.2e-4,-394.976332 -99.99999,0.002 -2.1e-4,394.97414 -394.97597,1.59e-4 z"
-       transform="rotate(44.999864)"
-       sodipodi:nodetypes="ccccccccccccc" />
+       id="rect4-6-8"
+       style="fill:#000000;stroke:none;stroke-width:2.64583;stroke-linecap:square;stroke-miterlimit:180;paint-order:fill markers stroke"
+       d="m 41.003346,75.59816 -11.9744,11.9744 47.8976,47.8912 -47.8976,47.8976 11.9744,11.9744 47.8976,-47.8976 47.891204,47.8976 11.9744,-11.9744 -47.8976,-47.8976 47.8976,-47.8912 -11.9744,-11.9744 -47.891204,47.8976 z" />
   </g>
 </svg>
