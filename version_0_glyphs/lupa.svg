@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="lupa.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.89540759"
+     inkscape:cx="86.552762"
+     inkscape:cy="294.27939"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="5.0000002"
+       spacingy="5.0000002"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="2"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect4"
+       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.458271;stroke-miterlimit:100;-inkscape-stroke:hairline"
+       transform="scale(1,-1)"
+       d="m 24.999996,-79.999924 h 9.999999 v 59.999855 h -9.999999 z" />
+    <path
+       id="rect5"
+       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.458271;stroke-miterlimit:100;-inkscape-stroke:hairline"
+       transform="scale(1,-1)"
+       d="m 75,-79.999855 h 9.999999 V -20 H 75 Z" />
+    <path
+       id="path6"
+       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.264583;stroke-miterlimit:100;-inkscape-stroke:hairline"
+       d="M 54.999665,110.00016 A 30.000002,30.000002 0 0 1 24.999945,79.999925 h 9.999907 A 20.000002,20.000002 0 0 0 54.999665,100.00025 20.000002,20.000002 0 0 0 74.999994,79.999925 h 9.999907 A 30.000002,30.000002 0 0 1 54.999665,110.00016 Z" />
+  </g>
+</svg>

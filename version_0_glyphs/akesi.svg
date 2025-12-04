@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="akesi.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.73359285"
+     inkscape:cx="205.15467"
+     inkscape:cy="299.89387"
+     inkscape:window-width="674"
+     inkscape:window-height="735"
+     inkscape:window-x="685"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5"
+       spacingy="2.5"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <path
+     id="path2"
+     style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke-width:0.264583;stroke-linecap:round;stroke-miterlimit:180;-inkscape-stroke:hairline;paint-order:fill markers stroke"
+     d="m 42.499989,19.999998 a 7.5000005,7.5000005 0 0 0 -7.499994,7.5 7.5000005,7.5000005 0 0 0 7.499994,7.500001 7.5000005,7.5000005 0 0 0 7.500007,-7.500001 7.5000005,7.5000005 0 0 0 -7.500007,-7.5 z m 25.000001,0 a 7.5000005,7.5000005 0 0 0 -7.499994,7.5 7.5000005,7.5000005 0 0 0 7.499994,7.500001 7.5000005,7.5000005 0 0 0 7.500007,-7.500001 7.5000005,7.5000005 0 0 0 -7.500007,-7.5 z M 54.999996,39.999999 A 20.000001,20.000001 0 0 0 34.999995,60.000001 H 24.999994 v 10 H 34.999995 V 80.000002 H 24.999994 v 10 H 34.999995 A 20.000001,20.000001 0 0 0 54.999996,110.00001 20.000001,20.000001 0 0 0 74.999997,90.000002 h 10.000001 v -10 H 74.999997 V 70.000001 h 10.000001 v -10 H 74.999997 A 20.000001,20.000001 0 0 0 54.999996,39.999999 Z m 0,10.000001 a 10.000001,10.000001 0 0 1 10,10.000001 H 44.999995 A 10.000001,10.000001 0 0 1 54.999996,50 Z M 44.999995,70.000001 H 64.999996 V 80.000002 H 44.999995 Z m 0,20.000001 h 20.000001 a 10.000001,10.000001 0 0 1 -10,10.000008 10.000001,10.000001 0 0 1 -10.000001,-10.000008 z" />
+</svg>

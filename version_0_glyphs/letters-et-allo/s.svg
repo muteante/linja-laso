@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="s.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1940259"
+     inkscape:cx="31.825106"
+     inkscape:cy="250.83209"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path24"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;stroke-miterlimit:40;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       d="M 22.499919 50.000049 A 17.500002 17.500002 0 0 0 5.0002116 67.499756 A 17.500002 17.500002 0 0 0 22.499919 84.99998 L 32.499825 84.99998 A 7.5000005 7.5000005 0 0 1 39.999626 92.49978 A 7.5000005 7.5000005 0 0 1 32.499825 100.0001 L 22.499919 100.0001 A 9.999999 9.999999 0 0 1 13.856002 94.939425 L 5.1759115 99.899329 A 19.999998 19.999998 0 0 0 22.499919 110 L 32.499825 110 A 17.500002 17.500002 0 0 0 49.999532 92.49978 A 17.500002 17.500002 0 0 0 32.499825 75.000073 L 22.499919 75.000073 A 7.5000005 7.5000005 0 0 1 15.000118 67.499756 A 7.5000005 7.5000005 0 0 1 22.499919 59.999955 L 32.499825 59.999955 A 9.999999 9.999999 0 0 1 41.143742 65.060628 L 49.823832 60.100724 A 19.999998 19.999998 0 0 0 32.499825 50.000049 L 22.499919 50.000049 z " />
+  </g>
+</svg>

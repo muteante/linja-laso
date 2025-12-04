@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="misikeke.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.124312"
+     inkscape:cx="157.42962"
+     inkscape:cy="247.70705"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5"
+       spacingy="2.5"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="matrix(0.10000113,0,0,0.10000113,-6.2550274e-4,-0.001238)">
+    <path
+       id="path2"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:2.6458;-inkscape-stroke:hairline"
+       d="M 549.99748 200.01342 C 439.54133 200.01142 349.99748 289.55313 349.99644 400.00928 L 349.99644 900.00412 C 349.99744 1010.4603 439.54133 1100.0018 549.99748 1100 C 660.45161 1099.999 749.99231 1010.4583 749.99334 900.00412 L 749.99334 400.00928 C 749.99234 289.55516 660.4516 200.01446 549.99748 200.01342 z M 549.99748 300.01135 C 605.22454 300.01187 649.99489 344.78222 649.99541 400.00928 L 649.99541 600.00515 L 449.99437 600.00515 L 449.99437 400.00928 C 449.99489 344.7802 494.76839 300.009 549.99748 300.01135 z M 449.99437 700.00309 L 649.99541 700.00309 L 649.99541 900.00412 C 649.99492 955.23121 605.22456 1000.0016 549.99748 1000.0021 C 494.76837 1000.0021 449.99486 955.23323 449.99437 900.00412 L 449.99437 700.00309 z " />
+  </g>
+</svg>

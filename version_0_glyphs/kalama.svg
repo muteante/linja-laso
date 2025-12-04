@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   sodipodi:docname="kalama.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="-2998.1327"
+     inkscape:cy="469.5189"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect2"
+       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.233342;stroke-miterlimit:100;-inkscape-stroke:hairline"
+       d="m 19.999813,65.000001 v 5.000212 A 35,35 0 0 0 54.999744,105.00015 35,35 0 0 0 90.000191,70.000213 V 65.000001 Z M 30.56971,75.000424 H 79.490238 A 25.000002,25.000002 0 0 1 54.999744,95.00024 25.000002,25.000002 0 0 1 30.56971,75.000424 Z" />
+    <path
+       id="rect15"
+       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
+       d="m 49.999998,25.000001 h 9.999999 v 22.5001 h -9.999999 z"
+       inkscape:transform-center-x="7.4972839e-06"
+       inkscape:transform-center-y="-48.750051" />
+    <path
+       id="rect15-36"
+       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
+       d="m 81.408588,30.892905 8.59142,5.117372 -11.51414,19.330781 -8.591423,-5.117372 z"
+       inkscape:transform-center-x="-24.947213"
+       inkscape:transform-center-y="-41.883219" />
+    <path
+       id="rect15-3"
+       style="fill:#0a0a0a;stroke-width:0.2514;stroke-miterlimit:100"
+       d="m 20.000006,36.010286 8.591419,-5.117373 11.514141,19.330781 -8.591419,5.117372 z"
+       inkscape:transform-center-x="24.947226"
+       inkscape:transform-center-y="-41.883211" />
+  </g>
+</svg>

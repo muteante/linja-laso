@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1100mm"
+   height="1300mm"
+   viewBox="0 0 1100 1300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="tonsi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.07650889"
+     inkscape:cx="2849.3421"
+     inkscape:cy="3156.4959"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="24.999999"
+       spacingy="25"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 1245 : 1"
+       inkscape:vp_y="0 : 999.99998 : 0"
+       inkscape:vp_z="109.99999 : 1245 : 1"
+       inkscape:persp3d-origin="54.999996 : 1226.6667 : 1"
+       id="perspective27" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect6-2"
+       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.587961"
+       d="M 170.71413 200.00123 L 100.0001 270.71474 L 250.08758 420.80067 A 350 350 0 0 0 200.0002 600.00007 A 350 350 0 0 0 500.00514 946.39701 C 500.00342 946.39677 500.00169 946.39674 499.99997 946.3965 L 499.99997 1100 L 600.00007 1100 L 600.00007 946.3965 C 599.99869 946.3967 599.99731 946.39681 599.99594 946.39701 A 350 350 0 0 0 899.99985 600.00007 A 350 350 0 0 0 850.36618 420.3485 L 999.99994 270.71474 L 929.28591 200.00123 L 786.87755 342.41114 A 350 350 0 0 0 550.00002 249.99973 A 350 350 0 0 0 313.49973 342.78683 A 350 350 0 0 0 294.27713 362.00943 C 300.44385 355.37572 306.82301 348.9344 313.49973 342.78683 L 170.71413 200.00123 z M 550.00002 349.99983 A 250 250 0 0 1 799.99975 600.00007 A 250 250 0 0 1 550.00002 849.9998 A 250 250 0 0 1 299.99978 599.99955 A 250 250 0 0 1 550.00002 349.99983 z M 803.49721 358.82461 C 804.2479 359.61296 805.00454 360.3931 805.74772 361.18829 A 350 350 0 0 0 803.49721 358.82461 z M 821.41705 379.06833 C 821.4438 379.10118 821.46833 379.13573 821.49508 379.16859 A 350 350 0 0 0 821.41705 379.06833 z M 278.06675 380.71216 A 350 350 0 0 0 263.06043 400.75797 C 267.82264 393.89513 272.82973 387.21227 278.06675 380.71216 z M 835.12525 397.18868 C 836.04059 398.47427 836.95207 399.759 837.85015 401.05717 A 350 350 0 0 0 835.12525 397.18868 z M 500.74205 946.4766 A 350 350 0 0 0 550.00002 949.99989 A 350 350 0 0 0 599.25696 946.47711 C 582.94022 948.80133 566.48209 949.99582 550.00002 950.00041 C 533.51759 949.99549 517.05914 948.80091 500.74205 946.4766 z " />
+  </g>
+</svg>

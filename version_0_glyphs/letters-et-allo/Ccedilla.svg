@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="Ccedilla.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.84488483"
+     inkscape:cx="176.3554"
+     inkscape:cy="263.3495"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.226785;-inkscape-stroke:hairline"
+       d="M 55.00026 19.999813 C 38.431786 19.999967 25.00041 33.431572 25.000541 50.000049 L 25.000024 79.999768 C 24.999904 95.222764 36.341092 107.7887 51.033577 109.73077 C 51.947673 110.81761 52.500217 112.21887 52.500155 113.75016 C 52.500015 117.20194 49.701667 120.00006 46.24989 119.99991 L 42.500248 119.99991 L 42.500248 129.99982 L 46.24989 129.99982 C 55.224441 129.99992 62.499871 122.72471 62.500061 113.75016 C 62.500016 112.20486 62.279276 110.67554 61.851522 109.20677 C 73.391028 106.50259 82.528865 97.115487 84.57675 84.99998 L 74.281771 84.99998 C 72.009411 93.80036 64.088689 99.961941 54.999744 99.999581 C 43.954229 99.999476 34.999518 91.045283 34.999414 79.999768 L 34.999931 50.000049 C 35.000035 38.954534 43.954745 30.000341 55.00026 30.000236 C 64.089205 30.037876 72.009928 36.199457 74.282288 44.999837 L 84.577266 44.999837 C 82.137651 30.566794 69.638039 20.00147 55.00026 19.999813 z " />
+  </g>
+</svg>

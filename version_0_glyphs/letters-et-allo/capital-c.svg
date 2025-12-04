@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="capital-c.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.83531592"
+     inkscape:cx="262.17625"
+     inkscape:cy="304.67514"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.226785;-inkscape-stroke:hairline"
+       d="M 25.000024,79.999768 C 24.999893,96.568276 38.431235,109.99985 54.999744,110 69.63755,109.99835 82.137128,99.433053 84.57675,84.99998 H 74.281771 C 72.009407,93.800378 64.088707,99.961941 54.999744,99.999581 43.954207,99.999476 34.999518,91.045305 34.999414,79.999768 l 5.17e-4,-29.999719 c 1.04e-4,-11.045537 8.954792,-19.999708 20.000329,-19.999813 9.088963,0.03764 17.009664,6.199203 19.282028,14.999601 H 84.577266 C 82.137645,30.566764 69.638067,20.00147 55.00026,19.999813 38.431752,19.999967 25.00041,33.43154 25.000541,50.000049 Z"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

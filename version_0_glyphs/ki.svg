@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="ki.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.4165629"
+     inkscape:cx="230.84043"
+     inkscape:cy="228.36966"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5"
+       spacingy="2.5"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect14"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect13-9"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect15-2"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect1"
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke-width:0.264583;stroke-linecap:square;stroke-miterlimit:2.2;-inkscape-stroke:hairline;paint-order:stroke markers fill"
+       d="m 54.999744,19.999813 c -12.427132,1.3e-5 -22.501811,10.073305 -22.503536,22.500435 h 10.00404 c -7e-6,-6.90336 5.596136,-12.499734 12.499496,-12.500012 6.903562,-7e-6 12.500019,5.59645 12.500012,12.500012 -0.01746,2.698846 -0.90795,5.31956 -2.538346,7.470345 l -11.930538,16.05225 c -1.953666,2.586349 -3.017015,5.735961 -3.030823,8.97723 V 90.858537 L 37.070885,77.929116 29.999999,85.000002 54.999744,110 79.999997,85.000002 72.929111,77.929115 59.999955,90.85802 V 75.000073 c 0.0052,-1.080305 0.360224,-2.129862 1.011825,-2.991548 L 72.958854,55.969194 C 75.888666,52.089384 77.4832,47.365066 77.503796,42.503349 77.503783,30.074805 67.428287,19.999541 54.999744,19.999813 Z"
+       sodipodi:nodetypes="cccccccccccccccccccc" />
+  </g>
+</svg>

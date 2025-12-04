@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="kasi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0159501"
+     inkscape:cx="269.69828"
+     inkscape:cy="242.63002"
+     inkscape:window-width="674"
+     inkscape:window-height="733"
+     inkscape:window-x="685"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect2"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke-width:0.181503;-inkscape-stroke:hairline"
+       d="M 25.000024 67.499756 L 25.000024 75.000073 A 25 25 0 0 0 50.000049 100.0001 L 50.000049 110 L 59.999955 110 L 59.999955 100.0001 A 25 25 0 0 0 84.99998 75.000073 L 84.99998 67.499756 L 75.000073 67.499756 L 75.000073 67.500273 A 25 25 0 0 0 55.024032 77.534802 A 25 25 0 0 0 34.999931 67.500273 L 34.999931 67.499756 L 25.000024 67.499756 z M 35.237126 77.505347 A 14.999999 14.999999 0 0 1 49.785075 89.986239 A 14.999999 14.999999 0 0 1 35.237126 77.505347 z M 74.762878 77.505347 A 14.999999 14.999999 0 0 1 60.214929 89.986239 A 14.999999 14.999999 0 0 1 74.762878 77.505347 z " />
+  </g>
+</svg>

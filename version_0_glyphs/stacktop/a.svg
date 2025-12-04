@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="a.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.0702107"
+     inkscape:cx="205.567"
+     inkscape:cy="192.48546"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5"
+       spacingy="2.5"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path1"
+       style="font-variation-settings:'wght' 700;fill:#000000;stroke-width:0.264582"
+       d="m 34.999581,32.499906 a 14.999982,14.999982 0 0 0 -14.999582,15.000098 14.999982,14.999982 0 0 0 14.999582,15.000091 14.999982,14.999982 0 0 0 9.038973,-3.03257 l 0.961231,3.03247 h 9.999997 L 49.399667,43.2998 l -0.0029,8.01e-4 A 14.999982,14.999982 0 0 0 34.999658,32.499906 Z m 0,9.999894 a 4.9999933,4.9999933 0 0 1 5.000205,5.000204 4.9999933,4.9999933 0 0 1 -5.000205,5.000211 4.9999933,4.9999933 0 0 1 -4.999688,-5.000211 4.9999933,4.9999933 0 0 1 4.999688,-5.000204 z" />
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#000000;stroke:none;stroke-width:0.264583;-inkscape-stroke:hairline;paint-order:stroke fill markers"
+       id="rect2"
+       width="9.999999"
+       height="37.5"
+       x="52.513107"
+       y="-70.671677"
+       inkscape:transform-center-x="-35.540153"
+       inkscape:transform-center-y="-15.442162"
+       transform="rotate(66.515095)" />
+  </g>
+</svg>

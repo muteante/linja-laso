@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="awen.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.72876816"
+     inkscape:cx="69.295014"
+     inkscape:cy="260.02782"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect3"
+       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:10.5833;stroke-miterlimit:100"
+       d="M 25.715225,105.96469 34.999997,110 55.000263,51.201107 75.000008,110 84.284789,105.96469 C 74.510754,77.313903 64.63327,48.698479 54.999997,20.000003 45.380462,48.702942 35.505493,77.319659 25.715221,105.96469 Z"
+       sodipodi:nodetypes="ccccccc" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:10.5833;stroke-miterlimit:100"
+       id="rect1"
+       width="24.999998"
+       height="9.999999"
+       x="9.9999971"
+       y="100" />
+    <rect
+       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:10.5833;stroke-miterlimit:100"
+       id="rect2"
+       width="24.999998"
+       height="9.999999"
+       x="75"
+       y="100" />
+  </g>
+</svg>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="kijetesantakalu1.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.77636284"
+     inkscape:cx="229.27424"
+     inkscape:cy="302.04949"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path15"
+       style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       d="M 34.999931 19.999813 L 34.999931 69.999862 L 30.000236 69.999862 C 18.954551 69.999679 10.000009 78.953995 9.9999064 89.999674 C 9.9997203 101.04557 18.954347 110.00018 30.000236 110 L 62.500061 110 L 60.048014 84.99998 L 50.000049 84.99998 L 51.471277 100.0001 L 44.999837 100.0001 L 44.999837 37.895361 L 67.500273 51.742061 L 90.000191 37.895361 L 90.000191 100.0001 L 83.528752 100.0001 L 84.99998 84.99998 L 74.952014 84.99998 L 72.499967 110 L 100.0001 110 L 100.0001 19.999813 L 67.499756 39.999626 L 34.999931 19.999813 z M 31.249772 79.999768 L 34.999931 79.999768 L 34.999931 100.0001 L 31.249772 100.0001 L 31.249772 79.999768 z M 23.749972 82.200151 L 23.749972 97.799715 C 21.465619 95.966928 19.999679 93.156283 19.999813 89.999674 C 19.999842 86.843187 21.465651 84.032828 23.749972 82.200151 z " />
+    <path
+       id="path24"
+       style="font-variation-settings:'wght' 700;stroke-width:0.295855"
+       inkscape:transform-center-x="4.9600136"
+       inkscape:transform-center-y="2.5801288"
+       d="m 82.460014,59.91987 a 5.5909615,5.5909615 0 0 1 -2.379887,7.540149 5.5909615,5.5909615 0 0 1 -7.540148,-2.379888 5.5909615,5.5909615 0 0 1 2.379886,-7.540147 5.5909615,5.5909615 0 0 1 7.540149,2.379886 z" />
+    <path
+       id="path24-1"
+       style="font-variation-settings:'wght' 700;stroke-width:0.295855"
+       inkscape:transform-center-x="4.9600136"
+       inkscape:transform-center-y="2.5801288"
+       d="m 62.500001,59.999999 a 5.5909615,5.5909615 0 0 1 -2.379886,7.540149 5.5909615,5.5909615 0 0 1 -7.540149,-2.379887 5.5909615,5.5909615 0 0 1 2.379888,-7.540149 5.5909615,5.5909615 0 0 1 7.540147,2.379887 z" />
+  </g>
+</svg>

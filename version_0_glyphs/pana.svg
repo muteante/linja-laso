@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="pana.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.3812435"
+     inkscape:cx="165.79264"
+     inkscape:cy="271.1325"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3"
+       style="vector-effect:non-scaling-stroke;fill:#020202;stroke-width:0.220484;stroke-miterlimit:100;-inkscape-stroke:hairline"
+       d="M 24.459489 19.999813 L 31.959806 42.500248 L 42.500248 42.500248 L 35.000448 19.999813 L 24.459489 19.999813 z M 50.000049 19.999813 L 50.000049 42.500248 L 59.999955 42.500248 L 59.999955 19.999813 L 50.000049 19.999813 z M 75.000073 19.999813 L 67.500273 42.500248 L 78.040715 42.500248 L 85.541032 19.999813 L 75.000073 19.999813 z M 54.999744 50.000049 A 24.999771 24.999771 0 0 0 30.000236 75.000073 L 30.000236 90.000708 L 23.660055 79.019466 L 15.000118 84.019161 L 30.000236 110 L 40.000142 110 L 40.000142 75.000073 A 15 15 0 0 1 54.999744 60.000472 A 15 15 0 0 1 69.999862 75.000073 L 69.999862 110 L 79.999768 110 L 79.999768 75.000073 A 24.999771 24.999771 0 0 0 54.999744 50.000049 z " />
+  </g>
+</svg>

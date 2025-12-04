@@ -1,0 +1,755 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+
+
+# GSUB 
+
+
+lookup LIGAspaces {
+  lookupflag 0;
+    sub \space \space  by \wide.space;
+} LIGAspaces;
+
+lookup LIGAsitelen {
+  lookupflag 0;
+    sub \a \space  by \a.t;
+    sub \a \k \e \s \i \space  by \akesi.t;
+    sub \a \l \a \space  by \ala.t;
+    sub \a \l \a \s \a \space  by \alasa.t;
+    sub \a \l \i \space  by \ale.t;
+    sub \a \l \e \space  by \ale.t;
+    sub \a \n \p \a \space  by \anpa.t;
+    sub \a \n \t \e \space  by \ante.t;
+    sub \a \n \u \space  by \anu.t;
+    sub \a \w \e \n \space  by \awen.t;
+    sub \e \space  by \e.t;
+    sub \e \n \space  by \en.t;
+    sub \e \s \u \n \space  by \esun.t;
+    sub \i \j \o \space  by \ijo.t;
+    sub \i \k \e \space  by \ike.t;
+    sub \i \l \o \space  by \ilo.t;
+    sub \i \n \s \a \space  by \insa.t;
+    sub \j \a \k \i \space  by \jaki.t;
+    sub \j \a \n \space  by \jan.t;
+    sub \j \e \l \o \space  by \jelo.t;
+    sub \j \o \space  by \jo.t;
+    sub \k \a \l \a \space  by \kala.t;
+    sub \k \a \l \a \m \a \space  by \kalama.t;
+    sub \k \a \m \a \space  by \kama.t;
+    sub \k \a \s \i \space  by \kasi.t;
+    sub \k \e \n \space  by \ken.t;
+    sub \k \e \p \e \k \e \n \space  by \kepeken.t;
+    sub \k \i \l \i \space  by \kili.t;
+    sub \k \i \w \e \n \space  by \kiwen.t;
+    sub \k \o \space  by \ko.t;
+    sub \k \o \n \space  by \kon.t;
+    sub \k \u \l \e \space  by \kule.t;
+    sub \k \u \l \u \p \u \space  by \kulupu.t;
+    sub \k \u \t \e \space  by \kute.t;
+    sub \l \a \space  by \la.t;
+    sub \l \a \p \e \space  by \lape.t;
+    sub \l \a \s \o \space  by \laso.t;
+    sub \l \a \w \a \space  by \lawa.t;
+    sub \l \e \n \space  by \len.t;
+    sub \l \e \t \e \space  by \lete.t;
+    sub \l \i \space  by \li.t;
+    sub \l \i \l \i \space  by \lili.t;
+    sub \l \i \n \j \a \space  by \linja.t;
+    sub \l \i \p \u \space  by \lipu.t;
+    sub \l \o \j \e \space  by \loje.t;
+    sub \l \o \n \space  by \lon.t;
+    sub \l \u \k \a \space  by \luka.t;
+    sub \l \u \k \i \n \space  by \lukin.t;
+    sub \l \u \p \a \space  by \lupa.t;
+    sub \m \a \space  by \ma.t;
+    sub \m \a \m \a \space  by \mama.t;
+    sub \m \a \n \i \space  by \mani.t;
+    sub \m \e \l \i \space  by \meli.t;
+    sub \m \i \j \e \space  by \mije.t;
+    sub \m \o \k \u \space  by \moku.t;
+    sub \m \o \l \i \space  by \moli.t;
+    sub \m \o \n \s \i \space  by \monsi.t;
+    sub \m \u \space  by \mu.t;
+    sub \m \u \n \space  by \mun.t;
+    sub \m \u \s \i \space  by \musi.t;
+    sub \m \u \t \e \space  by \mute.t;
+    sub \n \a \n \p \a \space  by \nanpa.t;
+    sub \n \a \s \a \space  by \nasa.t;
+    sub \n \a \s \i \n \space  by \nasin.t;
+    sub \n \e \n \a \space  by \nena.t;
+    sub \n \i \space  by \ni.t;
+    sub \n \i \m \i \space  by \nimi.t;
+    sub \n \o \k \a \space  by \noka.t;
+    sub \o \space  by \o.t;
+    sub \o \l \i \n \space  by \olin.t;
+    sub \o \n \a \space  by \ona.t;
+    sub \o \p \e \n \space  by \open.t;
+    sub \p \a \k \a \l \a \space  by \pakala.t;
+    sub \p \a \l \i \space  by \pali.t;
+    sub \p \a \l \i \s \a \space  by \palisa.t;
+    sub \p \a \n \space  by \pan.t;
+    sub \p \a \n \a \space  by \pana.t;
+    sub \p \i \space  by \pi.t;
+    sub \p \i \l \i \n \space  by \pilin.t;
+    sub \p \i \m \e \j \a \space  by \pimeja.t;
+    sub \p \i \n \i \space  by \pini.t;
+    sub \p \i \p \i \space  by \pipi.t;
+    sub \p \o \k \a \space  by \poka.t;
+    sub \p \o \k \i \space  by \poki.t;
+    sub \p \o \n \a \space  by \pona.t;
+    sub \p \u \space  by \pu.t;
+    sub \s \a \m \a \space  by \sama.t;
+    sub \s \e \l \i \space  by \seli.t;
+    sub \s \e \l \o \space  by \selo.t;
+    sub \s \e \m \e \space  by \seme.t;
+    sub \s \e \w \i \space  by \sewi.t;
+    sub \s \i \j \e \l \o \space  by \sijelo.t;
+    sub \s \i \k \e \space  by \sike.t;
+    sub \s \i \n \space  by \sin.t;
+    sub \s \i \n \a \space  by \sina.t;
+    sub \s \i \n \p \i \n \space  by \sinpin.t;
+    sub \s \i \t \e \l \e \n \space  by \sitelen.t;
+    sub \s \o \n \a \space  by \sona.t;
+    sub \s \o \w \e \l \i \space  by \soweli.t;
+    sub \s \u \l \i \space  by \suli.t;
+    sub \s \u \n \o \space  by \suno.t;
+    sub \s \u \p \a \space  by \supa.t;
+    sub \s \u \w \i \space  by \suwi.t;
+    sub \t \a \n \space  by \tan.t;
+    sub \t \a \s \o \space  by \taso.t;
+    sub \t \a \w \a \space  by \tawa.t;
+    sub \t \e \l \o \space  by \telo.t;
+    sub \t \e \n \p \o \space  by \tenpo.t;
+    sub \t \o \k \i \space  by \toki.t;
+    sub \t \o \m \o \space  by \tomo.t;
+    sub \t \u \space  by \tu.t;
+    sub \u \n \p \a \space  by \unpa.t;
+    sub \u \t \a \space  by \uta.t;
+    sub \u \t \a \l \a \space  by \utala.t;
+    sub \w \a \l \o \space  by \walo.t;
+    sub \w \a \n \space  by \wan.t;
+    sub \w \a \s \o \space  by \waso.t;
+    sub \w \a \w \a \space  by \wawa.t;
+    sub \w \e \k \a \space  by \weka.t;
+    sub \w \i \l \e \space  by \wile.t;
+    sub \n \a \m \a \k \o \space  by \namako.t;
+    sub \k \i \n \space  by \kin.t;
+    sub \o \k \o \space  by \oko.t;
+    sub \k \i \p \i \s \i \space  by \kipisi.t;
+    sub \l \e \k \o \space  by \leko.t;
+    sub \m \o \n \s \u \t \a \space  by \monsuta.t;
+    sub \t \o \n \s \i \space  by \tonsi.t;
+    sub \j \a \s \i \m \a \space  by \jasima.t;
+    sub \k \i \j \e \t \e \s \a \n \t \a \k \a \l \u \space  by \kijetesantakalu.t;
+    sub \bracketleft \space  by \cartouche.start;
+    sub \period \space  by \period;
+    sub \periodcentered \periodcentered \space  by \dotdot;
+    sub \dot \dot \space  by \dotdot;
+    sub \period \period \space  by \dotdot;
+    sub \periodcentered \periodcentered \periodcentered \space  by \dotdotdot;
+    sub \dot \dot \dot \space  by \dotdotdot;
+    sub \period \period \period \space  by \dotdotdot;
+    sub \n \space  by \n.t;
+    sub \k \u \space  by \ku.t;
+    sub \m \i \s \i \k \e \k \e \space  by \misikeke.t;
+    sub \k \o \k \o \s \i \l \a \space  by \kokosila.t;
+    sub \e \p \i \k \u \space  by \epiku.t;
+    sub \m \e \s \o \space  by \meso.t;
+    sub \s \o \k \o \space  by \soko.t;
+    sub \l \a \n \p \a \n \space  by \lanpan.t;
+    sub \p \a \k \e \space  by \pake.t;
+    sub \a \p \e \j \a \space  by \apeja.t;
+    sub \m \a \j \u \n \a \space  by \majuna.t;
+    sub \p \o \w \e \space  by \powe.t;
+    sub \a  by \a.t;
+    sub \a \k \e \s \i  by \akesi.t;
+    sub \a \l \a  by \ala.t;
+    sub \a \l \a \s \a  by \alasa.t;
+    sub \a \l \e  by \ale.t;
+    sub \a \l \i  by \ale.t;
+    sub \a \n \p \a  by \anpa.t;
+    sub \a \n \t \e  by \ante.t;
+    sub \a \n \u  by \anu.t;
+    sub \a \w \e \n  by \awen.t;
+    sub \e  by \e.t;
+    sub \e \n  by \en.t;
+    sub \e \s \u \n  by \esun.t;
+    sub \i \j \o  by \ijo.t;
+    sub \i \k \e  by \ike.t;
+    sub \i \l \o  by \ilo.t;
+    sub \i \n \s \a  by \insa.t;
+    sub \j \a \k \i  by \jaki.t;
+    sub \j \a \n  by \jan.t;
+    sub \j \e \l \o  by \jelo.t;
+    sub \j \o  by \jo.t;
+    sub \k \a \l \a  by \kala.t;
+    sub \k \a \l \a \m \a  by \kalama.t;
+    sub \k \a \m \a  by \kama.t;
+    sub \k \a \s \i  by \kasi.t;
+    sub \k \e \n  by \ken.t;
+    sub \k \e \p \e \k \e \n  by \kepeken.t;
+    sub \k \i \l \i  by \kili.t;
+    sub \k \i \w \e \n  by \kiwen.t;
+    sub \k \o  by \ko.t;
+    sub \k \o \n  by \kon.t;
+    sub \k \u \l \e  by \kule.t;
+    sub \k \u \l \u \p \u  by \kulupu.t;
+    sub \k \u \t \e  by \kute.t;
+    sub \l \a  by \la.t;
+    sub \l \a \p \e  by \lape.t;
+    sub \l \a \s \o  by \laso.t;
+    sub \l \a \w \a  by \lawa.t;
+    sub \l \e \n  by \len.t;
+    sub \l \e \t \e  by \lete.t;
+    sub \l \i  by \li.t;
+    sub \l \i \l \i  by \lili.t;
+    sub \l \i \n \j \a  by \linja.t;
+    sub \l \i \p \u  by \lipu.t;
+    sub \l \o \j \e  by \loje.t;
+    sub \l \o \n  by \lon.t;
+    sub \l \u \k \a  by \luka.t;
+    sub \l \u \k \i \n  by \lukin.t;
+    sub \l \u \p \a  by \lupa.t;
+    sub \m \a  by \ma.t;
+    sub \m \a \m \a  by \mama.t;
+    sub \m \a \n \i  by \mani.t;
+    sub \m \e \l \i  by \meli.t;
+    sub \m \i  by \mi.t;
+    sub \m \i \j \e  by \mije.t;
+    sub \m \o \k \u  by \moku.t;
+    sub \m \o \l \i  by \moli.t;
+    sub \m \o \n \s \i  by \monsi.t;
+    sub \m \u  by \mu.t;
+    sub \m \u \n  by \mun.t;
+    sub \m \u \s \i  by \musi.t;
+    sub \m \u \t \e  by \mute.t;
+    sub \n \a \n \p \a  by \nanpa.t;
+    sub \n \a \s \a  by \nasa.t;
+    sub \n \a \s \i \n  by \nasin.t;
+    sub \n \e \n \a  by \nena.t;
+    sub \n \i  by \ni.t;
+    sub \n \i \m \i  by \nimi.t;
+    sub \n \o \k \a  by \noka.t;
+    sub \o  by \o.t;
+    sub \o \l \i \n  by \olin.t;
+    sub \o \n \a  by \ona.t;
+    sub \o \p \e \n  by \open.t;
+    sub \p \a \k \a \l \a  by \pakala.t;
+    sub \p \a \l \i  by \pali.t;
+    sub \p \a \l \i \s \a  by \palisa.t;
+    sub \p \a \n  by \pan.t;
+    sub \p \a \n \a  by \pana.t;
+    sub \p \i  by \pi.t;
+    sub \p \i \l \i \n  by \pilin.t;
+    sub \p \i \m \e \j \a  by \pimeja.t;
+    sub \p \i \n \i  by \pini.t;
+    sub \p \i \p \i  by \pipi.t;
+    sub \p \o \k \a  by \poka.t;
+    sub \p \o \k \i  by \poki.t;
+    sub \p \o \n \a  by \pona.t;
+    sub \p \u  by \pu.t;
+    sub \s \a \m \a  by \sama.t;
+    sub \s \e \l \i  by \seli.t;
+    sub \s \e \l \o  by \selo.t;
+    sub \s \e \m \e  by \seme.t;
+    sub \s \e \w \i  by \sewi.t;
+    sub \s \i \j \e \l \o  by \sijelo.t;
+    sub \s \i \k \e  by \sike.t;
+    sub \s \i \n  by \sin.t;
+    sub \s \i \n \a  by \sina.t;
+    sub \s \i \n \p \i \n  by \sinpin.t;
+    sub \s \i \t \e \l \e \n  by \sitelen.t;
+    sub \s \o \n \a  by \sona.t;
+    sub \s \o \w \e \l \i  by \soweli.t;
+    sub \s \u \l \i  by \suli.t;
+    sub \s \u \n \o  by \suno.t;
+    sub \s \u \p \a  by \supa.t;
+    sub \s \u \w \i  by \suwi.t;
+    sub \t \a \n  by \tan.t;
+    sub \t \a \s \o  by \taso.t;
+    sub \t \a \w \a  by \tawa.t;
+    sub \t \e \l \o  by \telo.t;
+    sub \t \e \n \p \o  by \tenpo.t;
+    sub \t \o \k \i  by \toki.t;
+    sub \t \o \m \o  by \tomo.t;
+    sub \t \u  by \tu.t;
+    sub \u \n \p \a  by \unpa.t;
+    sub \u \t \a  by \uta.t;
+    sub \u \t \a \l \a  by \utala.t;
+    sub \w \a \l \o  by \walo.t;
+    sub \w \a \n  by \wan.t;
+    sub \w \a \s \o  by \waso.t;
+    sub \w \a \w \a  by \wawa.t;
+    sub \w \e \k \a  by \weka.t;
+    sub \w \i \l \e  by \wile.t;
+    sub \n \a \m \a \k \o  by \namako.t;
+    sub \k \i \n  by \kin.t;
+    sub \o \k \o  by \oko.t;
+    sub \k \i \p \i \s \i  by \kipisi.t;
+    sub \l \e \k \o  by \leko.t;
+    sub \m \o \n \s \u \t \a  by \monsuta.t;
+    sub \t \o \n \s \i  by \tonsi.t;
+    sub \j \a \s \i \m \a  by \jasima.t;
+    sub \k \i \j \e \t \e \s \a \n \t \a \k \a \l \u  by \kijetesantakalu.t;
+    sub \bracketleft  by \cartouche.start;
+    sub \bracketright  by \cartouche.end;
+    sub \periodcentered \periodcentered  by \dotdot;
+    sub \dot \dot  by \dotdot;
+    sub \period \period  by \dotdot;
+    sub \periodcentered \periodcentered \periodcentered  by \dotdotdot;
+    sub \dot \dot \dot  by \dotdotdot;
+    sub \period \period \period  by \dotdotdot;
+    sub \n  by \n.t;
+    sub \hyphen  by \stackjoiner;
+    sub \k \u  by \ku.t;
+    sub \m \i \s \i \k \e \k \e  by \misikeke.t;
+    sub \k \o \k \o \s \i \l \a  by \kokosila.t;
+    sub \e \p \i \k \u  by \epiku.t;
+    sub \m \e \s \o  by \meso.t;
+    sub \s \o \k \o  by \soko.t;
+    sub \l \a \n \p \a \n  by \lanpan.t;
+    sub \p \a \k \e  by \pake.t;
+    sub \a \p \e \j \a  by \apeja.t;
+    sub \m \a \j \u \n \a  by \majuna.t;
+    sub \p \o \w \e  by \powe.t;
+    sub \bar  by \zwnj;
+} LIGAsitelen;
+
+lookup LIGAzwj {
+  lookupflag 0;
+    sub \zwj  by \stackjoiner;
+} LIGAzwj;
+
+lookup CALTcartouches {
+  lookupflag 0;
+    @cc6_match_1 = [\period \colon \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\periodcentered \a.t \akesi.t \ala.t \alasa.t \ale.t \anpa.t \ante.t 
+	\anu.t \awen.t \e.t \en.t \esun.t \ijo.t \ike.t \ilo.t \insa.t \jaki.t 
+	\jan.t \jelo.t \jo.t \kala.t \kalama.t \kama.t \kasi.t \ken.t \kepeken.t 
+	\kili.t \kiwen.t \ko.t \kon.t \kule.t \kulupu.t \kute.t \la.t \lape.t 
+	\laso.t \lawa.t \len.t \lete.t \li.t \lili.t \linja.t \lipu.t \loje.t 
+	\lon.t \luka.t \lukin.t \lupa.t \ma.t \mama.t \mani.t \meli.t \mi.t 
+	\mije.t \moku.t \moli.t \monsi.t \mu.t \mun.t \musi.t \mute.t \nanpa.t 
+	\nasa.t \nasin.t \nena.t \ni.t \nimi.t \noka.t \o.t \olin.t \ona.t 
+	\open.t \pakala.t \pali.t \palisa.t \pan.t \pana.t \pi.t \pilin.t 
+	\pimeja.t \pini.t \pipi.t \poka.t \poki.t \pona.t \pu.t \sama.t \seli.t 
+	\selo.t \seme.t \sewi.t \sijelo.t \sike.t \sin.t \sina.t \sinpin.t 
+	\sitelen.t \sona.t \soweli.t \suli.t \suno.t \supa.t \suwi.t \tan.t 
+	\taso.t \tawa.t \telo.t \tenpo.t \toki.t \tomo.t \tu.t \unpa.t \uta.t 
+	\utala.t \walo.t \wan.t \waso.t \wawa.t \weka.t \wile.t \namako.t \kin.t 
+	\oko.t \kipisi.t \leko.t \monsuta.t \tonsi.t \jasima.t 
+	\kijetesantakalu.t \soko.t \meso.t \epiku.t \kokosila.t \lanpan.t \n.t 
+	\misikeke.t \ku.t \wide.space \dot \colon.t \pake.t \apeja.t \majuna.t 
+	\powe.t \dotdot \dotdotdot \akesi.anpa \alasa.anpa \ala.anpa \ale.anpa 
+	\anpa.anpa \awen.anpa \jaki.anpa \ike.anpa \ilo.anpa \insa.anpa 
+	\kalama.anpa \kala.anpa \kama.anpa \kasi.anpa \kiwen.anpa \ko.anpa 
+	\kule.anpa \kulupu.anpa \lape.anpa \lawa.anpa \leko.anpa \len.anpa 
+	\lete.anpa \linja.anpa \lon.anpa \luka.anpa \lukin.anpa \mani.anpa 
+	\ma.anpa \meli.anpa \mije.anpa \moli.anpa \nanpa.anpa \nasin.anpa 
+	\pakala.anpa \pimeja.anpa \pipi.anpa \poka.anpa \pona.anpa \sama.anpa 
+	\selo.anpa \sewi.anpa \sijelo.anpa \sitelen.anpa \soweli.anpa 
+	\suno.anpa \supa.anpa \suwi.anpa \tan.anpa \tawa.anpa \tenpo.anpa 
+	\tomo.anpa \utala.anpa \uta.anpa \walo.anpa \waso.anpa \wawa.anpa 
+	\wile.anpa \akesi.sewi \alasa.sewi \ala.sewi \ale.sewi \anpa.sewi 
+	\awen.sewi \ike.sewi \ilo.sewi \insa.sewi \jaki.sewi \kalama.sewi 
+	\kala.sewi \kama.sewi \kasi.sewi \kiwen.sewi \ko.sewi \kule.sewi 
+	\kulupu.sewi \lape.sewi \lawa.sewi \leko.sewi \len.sewi \lete.sewi 
+	\linja.sewi \lon.sewi \luka.sewi \lukin.sewi \mani.sewi \ma.sewi 
+	\meli.sewi \mije.sewi \moli.sewi \nanpa.sewi \nasin.sewi \pakala.sewi 
+	\pimeja.sewi \pipi.sewi \poka.sewi \pona.sewi \sama.sewi \selo.sewi 
+	\sewi.sewi \sijelo.sewi \sitelen.sewi \soweli.sewi \suno.sewi 
+	\supa.sewi \suwi.sewi \tan.sewi \tawa.sewi \tenpo.sewi \tomo.sewi 
+	\utala.sewi \uta.sewi \walo.sewi \waso.sewi \wawa.sewi \wile.sewi 
+	\lipamanka.t \ni.t.dr \ni.t.r \ni.t.ur \ni.t.u \ni.t.ul \ni.t.l 
+	\ni.t.dl \sewi.a.t \ijo.sewi \ken.sewi \lili.sewi \lipu.sewi 
+	\monsi.sewi \mun.sewi \mute.sewi \ni.sewi \nimi.sewi \noka.sewi 
+	\ona.sewi \open.sewi \pini.sewi \poki.sewi \sin.sewi \sinpin.sewi 
+	\suli.sewi \ijo.anpa \ken.anpa \lili.anpa \lipu.anpa \monsi.anpa 
+	\mun.anpa \mute.anpa \ni.anpa \nimi.anpa \noka.anpa \ona.anpa 
+	\open.anpa \pini.anpa \poki.anpa \sin.anpa \sinpin.anpa \suli.anpa 
+	\a.t1 \aa.t \aaa.t \akesi.t1 \akesi.t2 \akesi.t3 \esun.t1 \kala.t1 
+	\kasi.t1 \kin.t1 \lanpan.t1 \lape.t1 \majuna.t1 \meli.t1 \meli.t2 
+	\meso.t1 \mi.t1 \mije.t1 \mije.t2 \misikeke.t1 \moli.t1 \mu.t1 \mute.t1 
+	\n.t1 \namako.t1 \o.t1 \olin.t1 \sewi.t1 \soko.t1 \soko.t2 \tenpo.t1 
+	\tonsi.t1 \tonsi.t2 \tonsi.t3 \tonsi.t4 \uta.t1 \wile.t1 \sina.t1 
+	\ona.t1 \linluwi.t \kijesankalu.t \kijetesantakalu.t1 ];
+    @cc6_match_2 = [\cartouche.start \cartouche.body \tick1 \tick2 \tick3 \tick4 \tick5 ];
+    @cc6_back_1 = [\period \colon \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\periodcentered \a.t \akesi.t \ala.t \alasa.t \ale.t \anpa.t \ante.t 
+	\anu.t \awen.t \e.t \en.t \esun.t \ijo.t \ike.t \ilo.t \insa.t \jaki.t 
+	\jan.t \jelo.t \jo.t \kala.t \kalama.t \kama.t \kasi.t \ken.t \kepeken.t 
+	\kili.t \kiwen.t \ko.t \kon.t \kule.t \kulupu.t \kute.t \la.t \lape.t 
+	\laso.t \lawa.t \len.t \lete.t \li.t \lili.t \linja.t \lipu.t \loje.t 
+	\lon.t \luka.t \lukin.t \lupa.t \ma.t \mama.t \mani.t \meli.t \mi.t 
+	\mije.t \moku.t \moli.t \monsi.t \mu.t \mun.t \musi.t \mute.t \nanpa.t 
+	\nasa.t \nasin.t \nena.t \ni.t \nimi.t \noka.t \o.t \olin.t \ona.t 
+	\open.t \pakala.t \pali.t \palisa.t \pan.t \pana.t \pi.t \pilin.t 
+	\pimeja.t \pini.t \pipi.t \poka.t \poki.t \pona.t \pu.t \sama.t \seli.t 
+	\selo.t \seme.t \sewi.t \sijelo.t \sike.t \sin.t \sina.t \sinpin.t 
+	\sitelen.t \sona.t \soweli.t \suli.t \suno.t \supa.t \suwi.t \tan.t 
+	\taso.t \tawa.t \telo.t \tenpo.t \toki.t \tomo.t \tu.t \unpa.t \uta.t 
+	\utala.t \walo.t \wan.t \waso.t \wawa.t \weka.t \wile.t \namako.t \kin.t 
+	\oko.t \kipisi.t \leko.t \monsuta.t \tonsi.t \jasima.t 
+	\kijetesantakalu.t \soko.t \meso.t \epiku.t \kokosila.t \lanpan.t \n.t 
+	\misikeke.t \ku.t \wide.space \dot \colon.t \pake.t \apeja.t \majuna.t 
+	\powe.t \dotdot \dotdotdot \akesi.anpa \alasa.anpa \ala.anpa \ale.anpa 
+	\anpa.anpa \awen.anpa \jaki.anpa \ike.anpa \ilo.anpa \insa.anpa 
+	\kalama.anpa \kala.anpa \kama.anpa \kasi.anpa \kiwen.anpa \ko.anpa 
+	\kule.anpa \kulupu.anpa \lape.anpa \lawa.anpa \leko.anpa \len.anpa 
+	\lete.anpa \linja.anpa \lon.anpa \luka.anpa \lukin.anpa \mani.anpa 
+	\ma.anpa \meli.anpa \mije.anpa \moli.anpa \nanpa.anpa \nasin.anpa 
+	\pakala.anpa \pimeja.anpa \pipi.anpa \poka.anpa \pona.anpa \sama.anpa 
+	\selo.anpa \sewi.anpa \sijelo.anpa \sitelen.anpa \soweli.anpa 
+	\suno.anpa \supa.anpa \suwi.anpa \tan.anpa \tawa.anpa \tenpo.anpa 
+	\tomo.anpa \utala.anpa \uta.anpa \walo.anpa \waso.anpa \wawa.anpa 
+	\wile.anpa \akesi.sewi \alasa.sewi \ala.sewi \ale.sewi \anpa.sewi 
+	\awen.sewi \ike.sewi \ilo.sewi \insa.sewi \jaki.sewi \kalama.sewi 
+	\kala.sewi \kama.sewi \kasi.sewi \kiwen.sewi \ko.sewi \kule.sewi 
+	\kulupu.sewi \lape.sewi \lawa.sewi \leko.sewi \len.sewi \lete.sewi 
+	\linja.sewi \lon.sewi \luka.sewi \lukin.sewi \mani.sewi \ma.sewi 
+	\meli.sewi \mije.sewi \moli.sewi \nanpa.sewi \nasin.sewi \pakala.sewi 
+	\pimeja.sewi \pipi.sewi \poka.sewi \pona.sewi \sama.sewi \selo.sewi 
+	\sewi.sewi \sijelo.sewi \sitelen.sewi \soweli.sewi \suno.sewi 
+	\supa.sewi \suwi.sewi \tan.sewi \tawa.sewi \tenpo.sewi \tomo.sewi 
+	\utala.sewi \uta.sewi \walo.sewi \waso.sewi \wawa.sewi \wile.sewi 
+	\lipamanka.t \ni.t.dr \ni.t.r \ni.t.ur \ni.t.u \ni.t.ul \ni.t.l 
+	\ni.t.dl \sewi.a.t \ijo.sewi \ken.sewi \lili.sewi \lipu.sewi 
+	\monsi.sewi \mun.sewi \mute.sewi \ni.sewi \nimi.sewi \noka.sewi 
+	\ona.sewi \open.sewi \pini.sewi \poki.sewi \sin.sewi \sinpin.sewi 
+	\suli.sewi \ijo.anpa \ken.anpa \lili.anpa \lipu.anpa \monsi.anpa 
+	\mun.anpa \mute.anpa \ni.anpa \nimi.anpa \noka.anpa \ona.anpa 
+	\open.anpa \pini.anpa \poki.anpa \sin.anpa \sinpin.anpa \suli.anpa 
+	\a.t1 \aa.t \aaa.t \akesi.t1 \akesi.t2 \akesi.t3 \esun.t1 \kala.t1 
+	\kasi.t1 \kin.t1 \lanpan.t1 \lape.t1 \majuna.t1 \meli.t1 \meli.t2 
+	\meso.t1 \mi.t1 \mije.t1 \mije.t2 \misikeke.t1 \moli.t1 \mu.t1 \mute.t1 
+	\n.t1 \namako.t1 \o.t1 \olin.t1 \sewi.t1 \soko.t1 \soko.t2 \tenpo.t1 
+	\tonsi.t1 \tonsi.t2 \tonsi.t3 \tonsi.t4 \uta.t1 \wile.t1 \sina.t1 
+	\ona.t1 \linluwi.t \kijesankalu.t \kijetesantakalu.t1 ];
+    @cc6_back_2 = [\cartouche.start \cartouche.body \tick1 \tick2 \tick3 \tick4 \tick5 ];
+    @cc6_ahead_1 = [\period \colon \A \B \C \D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z 
+	\periodcentered \a.t \akesi.t \ala.t \alasa.t \ale.t \anpa.t \ante.t 
+	\anu.t \awen.t \e.t \en.t \esun.t \ijo.t \ike.t \ilo.t \insa.t \jaki.t 
+	\jan.t \jelo.t \jo.t \kala.t \kalama.t \kama.t \kasi.t \ken.t \kepeken.t 
+	\kili.t \kiwen.t \ko.t \kon.t \kule.t \kulupu.t \kute.t \la.t \lape.t 
+	\laso.t \lawa.t \len.t \lete.t \li.t \lili.t \linja.t \lipu.t \loje.t 
+	\lon.t \luka.t \lukin.t \lupa.t \ma.t \mama.t \mani.t \meli.t \mi.t 
+	\mije.t \moku.t \moli.t \monsi.t \mu.t \mun.t \musi.t \mute.t \nanpa.t 
+	\nasa.t \nasin.t \nena.t \ni.t \nimi.t \noka.t \o.t \olin.t \ona.t 
+	\open.t \pakala.t \pali.t \palisa.t \pan.t \pana.t \pi.t \pilin.t 
+	\pimeja.t \pini.t \pipi.t \poka.t \poki.t \pona.t \pu.t \sama.t \seli.t 
+	\selo.t \seme.t \sewi.t \sijelo.t \sike.t \sin.t \sina.t \sinpin.t 
+	\sitelen.t \sona.t \soweli.t \suli.t \suno.t \supa.t \suwi.t \tan.t 
+	\taso.t \tawa.t \telo.t \tenpo.t \toki.t \tomo.t \tu.t \unpa.t \uta.t 
+	\utala.t \walo.t \wan.t \waso.t \wawa.t \weka.t \wile.t \namako.t \kin.t 
+	\oko.t \kipisi.t \leko.t \monsuta.t \tonsi.t \jasima.t 
+	\kijetesantakalu.t \soko.t \meso.t \epiku.t \kokosila.t \lanpan.t \n.t 
+	\misikeke.t \ku.t \wide.space \dot \colon.t \pake.t \apeja.t \majuna.t 
+	\powe.t \dotdot \dotdotdot \akesi.anpa \alasa.anpa \ala.anpa \ale.anpa 
+	\anpa.anpa \awen.anpa \jaki.anpa \ike.anpa \ilo.anpa \insa.anpa 
+	\kalama.anpa \kala.anpa \kama.anpa \kasi.anpa \kiwen.anpa \ko.anpa 
+	\kule.anpa \kulupu.anpa \lape.anpa \lawa.anpa \leko.anpa \len.anpa 
+	\lete.anpa \linja.anpa \lon.anpa \luka.anpa \lukin.anpa \mani.anpa 
+	\ma.anpa \meli.anpa \mije.anpa \moli.anpa \nanpa.anpa \nasin.anpa 
+	\pakala.anpa \pimeja.anpa \pipi.anpa \poka.anpa \pona.anpa \sama.anpa 
+	\selo.anpa \sewi.anpa \sijelo.anpa \sitelen.anpa \soweli.anpa 
+	\suno.anpa \supa.anpa \suwi.anpa \tan.anpa \tawa.anpa \tenpo.anpa 
+	\tomo.anpa \utala.anpa \uta.anpa \walo.anpa \waso.anpa \wawa.anpa 
+	\wile.anpa \akesi.sewi \alasa.sewi \ala.sewi \ale.sewi \anpa.sewi 
+	\awen.sewi \ike.sewi \ilo.sewi \insa.sewi \jaki.sewi \kalama.sewi 
+	\kala.sewi \kama.sewi \kasi.sewi \kiwen.sewi \ko.sewi \kule.sewi 
+	\kulupu.sewi \lape.sewi \lawa.sewi \leko.sewi \len.sewi \lete.sewi 
+	\linja.sewi \lon.sewi \luka.sewi \lukin.sewi \mani.sewi \ma.sewi 
+	\meli.sewi \mije.sewi \moli.sewi \nanpa.sewi \nasin.sewi \pakala.sewi 
+	\pimeja.sewi \pipi.sewi \poka.sewi \pona.sewi \sama.sewi \selo.sewi 
+	\sewi.sewi \sijelo.sewi \sitelen.sewi \soweli.sewi \suno.sewi 
+	\supa.sewi \suwi.sewi \tan.sewi \tawa.sewi \tenpo.sewi \tomo.sewi 
+	\utala.sewi \uta.sewi \walo.sewi \waso.sewi \wawa.sewi \wile.sewi 
+	\lipamanka.t \ni.t.dr \ni.t.r \ni.t.ur \ni.t.u \ni.t.ul \ni.t.l 
+	\ni.t.dl \sewi.a.t \ijo.sewi \ken.sewi \lili.sewi \lipu.sewi 
+	\monsi.sewi \mun.sewi \mute.sewi \ni.sewi \nimi.sewi \noka.sewi 
+	\ona.sewi \open.sewi \pini.sewi \poki.sewi \sin.sewi \sinpin.sewi 
+	\suli.sewi \ijo.anpa \ken.anpa \lili.anpa \lipu.anpa \monsi.anpa 
+	\mun.anpa \mute.anpa \ni.anpa \nimi.anpa \noka.anpa \ona.anpa 
+	\open.anpa \pini.anpa \poki.anpa \sin.anpa \sinpin.anpa \suli.anpa 
+	\a.t1 \aa.t \aaa.t \akesi.t1 \akesi.t2 \akesi.t3 \esun.t1 \kala.t1 
+	\kasi.t1 \kin.t1 \lanpan.t1 \lape.t1 \majuna.t1 \meli.t1 \meli.t2 
+	\meso.t1 \mi.t1 \mije.t1 \mije.t2 \misikeke.t1 \moli.t1 \mu.t1 \mute.t1 
+	\n.t1 \namako.t1 \o.t1 \olin.t1 \sewi.t1 \soko.t1 \soko.t2 \tenpo.t1 
+	\tonsi.t1 \tonsi.t2 \tonsi.t3 \tonsi.t4 \uta.t1 \wile.t1 \sina.t1 
+	\ona.t1 \linluwi.t \kijesankalu.t \kijetesantakalu.t1 ];
+    @cc6_ahead_2 = [\cartouche.start \cartouche.body \tick1 \tick2 \tick3 \tick4 \tick5 ];
+    sub @cc6_back_2 @cc6_match_1'  by  ;
+} CALTcartouches;
+
+lookup CC01cartouchedsitelen {
+  lookupflag IgnoreBaseGlyphs;
+    sub \a.t by \a.t \cartouche.body ;
+    sub \akesi.t by \akesi.t \cartouche.body ;
+    sub \ala.t by \ala.t \cartouche.body ;
+    sub \alasa.t by \alasa.t \cartouche.body ;
+    sub \ale.t by \ale.t \cartouche.body ;
+    sub \anpa.t by \anpa.t \cartouche.body ;
+    sub \ante.t by \ante.t \cartouche.body ;
+    sub \anu.t by \anu.t \cartouche.body ;
+    sub \awen.t by \awen.t \cartouche.body ;
+    sub \e.t by \e.t \cartouche.body ;
+    sub \en.t by \en.t \cartouche.body ;
+    sub \esun.t by \esun.t \cartouche.body ;
+    sub \ijo.t by \ijo.t \cartouche.body ;
+    sub \ike.t by \ike.t \cartouche.body ;
+    sub \ilo.t by \ilo.t \cartouche.body ;
+    sub \insa.t by \insa.t \cartouche.body ;
+    sub \jaki.t by \jaki.t \cartouche.body ;
+    sub \jan.t by \jan.t \cartouche.body ;
+    sub \jelo.t by \jelo.t \cartouche.body ;
+    sub \jo.t by \jo.t \cartouche.body ;
+    sub \kala.t by \kala.t \cartouche.body ;
+    sub \kalama.t by \kalama.t \cartouche.body ;
+    sub \kama.t by \kama.t \cartouche.body ;
+    sub \kasi.t by \kasi.t \cartouche.body ;
+    sub \ken.t by \ken.t \cartouche.body ;
+    sub \kepeken.t by \kepeken.t \cartouche.body ;
+    sub \kili.t by \kili.t \cartouche.body ;
+    sub \kiwen.t by \kiwen.t \cartouche.body ;
+    sub \ko.t by \ko.t \cartouche.body ;
+    sub \kon.t by \kon.t \cartouche.body ;
+    sub \kule.t by \kule.t \cartouche.body ;
+    sub \kulupu.t by \kulupu.t \cartouche.body ;
+    sub \kute.t by \kute.t \cartouche.body ;
+    sub \la.t by \la.t \cartouche.body ;
+    sub \lape.t by \lape.t \cartouche.body ;
+    sub \laso.t by \laso.t \cartouche.body ;
+    sub \lawa.t by \lawa.t \cartouche.body ;
+    sub \len.t by \len.t \cartouche.body ;
+    sub \lete.t by \lete.t \cartouche.body ;
+    sub \li.t by \li.t \cartouche.body ;
+    sub \lili.t by \lili.t \cartouche.body ;
+    sub \linja.t by \linja.t \cartouche.body ;
+    sub \lipu.t by \lipu.t \cartouche.body ;
+    sub \loje.t by \loje.t \cartouche.body ;
+    sub \lon.t by \lon.t \cartouche.body ;
+    sub \luka.t by \luka.t \cartouche.body ;
+    sub \lukin.t by \lukin.t \cartouche.body ;
+    sub \lupa.t by \lupa.t \cartouche.body ;
+    sub \ma.t by \ma.t \cartouche.body ;
+    sub \mama.t by \mama.t \cartouche.body ;
+    sub \mani.t by \mani.t \cartouche.body ;
+    sub \meli.t by \meli.t \cartouche.body ;
+    sub \mi.t by \mi.t \cartouche.body ;
+    sub \mije.t by \mije.t \cartouche.body ;
+    sub \moku.t by \moku.t \cartouche.body ;
+    sub \moli.t by \moli.t \cartouche.body ;
+    sub \monsi.t by \monsi.t \cartouche.body ;
+    sub \mu.t by \mu.t \cartouche.body ;
+    sub \mun.t by \mun.t \cartouche.body ;
+    sub \musi.t by \musi.t \cartouche.body ;
+    sub \mute.t by \mute.t \cartouche.body ;
+    sub \nanpa.t by \nanpa.t \cartouche.body ;
+    sub \nasa.t by \nasa.t \cartouche.body ;
+    sub \nasin.t by \nasin.t \cartouche.body ;
+    sub \nena.t by \nena.t \cartouche.body ;
+    sub \ni.t by \ni.t \cartouche.body ;
+    sub \nimi.t by \nimi.t \cartouche.body ;
+    sub \noka.t by \noka.t \cartouche.body ;
+    sub \o.t by \o.t \cartouche.body ;
+    sub \olin.t by \olin.t \cartouche.body ;
+    sub \ona.t by \ona.t \cartouche.body ;
+    sub \open.t by \open.t \cartouche.body ;
+    sub \pakala.t by \pakala.t \cartouche.body ;
+    sub \pali.t by \pali.t \cartouche.body ;
+    sub \palisa.t by \palisa.t \cartouche.body ;
+    sub \pan.t by \pan.t \cartouche.body ;
+    sub \pana.t by \pana.t \cartouche.body ;
+    sub \pi.t by \pi.t \cartouche.body ;
+    sub \pilin.t by \pilin.t \cartouche.body ;
+    sub \pimeja.t by \pimeja.t \cartouche.body ;
+    sub \pini.t by \pini.t \cartouche.body ;
+    sub \pipi.t by \pipi.t \cartouche.body ;
+    sub \poka.t by \poka.t \cartouche.body ;
+    sub \poki.t by \poki.t \cartouche.body ;
+    sub \pona.t by \pona.t \cartouche.body ;
+    sub \pu.t by \pu.t \cartouche.body ;
+    sub \sama.t by \sama.t \cartouche.body ;
+    sub \seli.t by \seli.t \cartouche.body ;
+    sub \selo.t by \selo.t \cartouche.body ;
+    sub \seme.t by \seme.t \cartouche.body ;
+    sub \sewi.t by \sewi.t \cartouche.body ;
+    sub \sijelo.t by \sijelo.t \cartouche.body ;
+    sub \sike.t by \sike.t \cartouche.body ;
+    sub \sin.t by \sin.t \cartouche.body ;
+    sub \sina.t by \sina.t \cartouche.body ;
+    sub \sinpin.t by \sinpin.t \cartouche.body ;
+    sub \sitelen.t by \sitelen.t \cartouche.body ;
+    sub \sona.t by \sona.t \cartouche.body ;
+    sub \soweli.t by \soweli.t \cartouche.body ;
+    sub \suli.t by \suli.t \cartouche.body ;
+    sub \suno.t by \suno.t \cartouche.body ;
+    sub \supa.t by \supa.t \cartouche.body ;
+    sub \suwi.t by \suwi.t \cartouche.body ;
+    sub \tan.t by \tan.t \cartouche.body ;
+    sub \taso.t by \taso.t \cartouche.body ;
+    sub \tawa.t by \tawa.t \cartouche.body ;
+    sub \telo.t by \telo.t \cartouche.body ;
+    sub \tenpo.t by \tenpo.t \cartouche.body ;
+    sub \toki.t by \toki.t \cartouche.body ;
+    sub \tomo.t by \tomo.t \cartouche.body ;
+    sub \tu.t by \tu.t \cartouche.body ;
+    sub \unpa.t by \unpa.t \cartouche.body ;
+    sub \uta.t by \uta.t \cartouche.body ;
+    sub \utala.t by \utala.t \cartouche.body ;
+    sub \walo.t by \walo.t \cartouche.body ;
+    sub \wan.t by \wan.t \cartouche.body ;
+    sub \waso.t by \waso.t \cartouche.body ;
+    sub \wawa.t by \wawa.t \cartouche.body ;
+    sub \weka.t by \weka.t \cartouche.body ;
+    sub \wile.t by \wile.t \cartouche.body ;
+    sub \namako.t by \namako.t \cartouche.body ;
+    sub \kin.t by \kin.t \cartouche.body ;
+    sub \oko.t by \oko.t \cartouche.body ;
+    sub \kipisi.t by \kipisi.t \cartouche.body ;
+    sub \leko.t by \leko.t \cartouche.body ;
+    sub \monsuta.t by \monsuta.t \cartouche.body ;
+    sub \tonsi.t by \tonsi.t \cartouche.body ;
+    sub \jasima.t by \jasima.t \cartouche.body ;
+    sub \kijetesantakalu.t by \kijetesantakalu.t \cartouche.body ;
+    sub \wide.space by \wide.space \cartouche.body ;
+    sub \period by \period \cartouche.body ;
+    sub \colon by \colon \cartouche.body ;
+    sub \periodcentered by \periodcentered \cartouche.body ;
+    sub \dotdot by \dotdot \cartouche.body ;
+    sub \dotdotdot by \dotdotdot \cartouche.body ;
+    sub \n.t by \n.t \cartouche.body ;
+    sub \dot by \dot \cartouche.body ;
+    sub \colon.t by \colon.t \cartouche.body ;
+    sub \stackjoiner by \stackjoiner ;
+    sub \A by \A \cartouche.body ;
+    sub \B by \B \cartouche.body ;
+    sub \C by \C \cartouche.body ;
+    sub \D by \D \cartouche.body ;
+    sub \E by \E \cartouche.body ;
+    sub \F by \F \cartouche.body ;
+    sub \G by \G \cartouche.body ;
+    sub \H by \H \cartouche.body ;
+    sub \I by \I \cartouche.body ;
+    sub \J by \J \cartouche.body ;
+    sub \K by \K \cartouche.body ;
+    sub \L by \L \cartouche.body ;
+    sub \M by \M \cartouche.body ;
+    sub \N by \N \cartouche.body ;
+    sub \O by \O \cartouche.body ;
+    sub \P by \P \cartouche.body ;
+    sub \Q by \Q \cartouche.body ;
+    sub \R by \R \cartouche.body ;
+    sub \S by \S \cartouche.body ;
+    sub \T by \T \cartouche.body ;
+    sub \U by \U \cartouche.body ;
+    sub \V by \V \cartouche.body ;
+    sub \W by \W \cartouche.body ;
+    sub \X by \X \cartouche.body ;
+    sub \Y by \Y \cartouche.body ;
+    sub \Z by \Z \cartouche.body ;
+    sub \ku.t by \ku.t \cartouche.body ;
+    sub \misikeke.t by \misikeke.t \cartouche.body ;
+    sub \kokosila.t by \kokosila.t \cartouche.body ;
+    sub \epiku.t by \epiku.t \cartouche.body ;
+    sub \meso.t by \meso.t \cartouche.body ;
+    sub \soko.t by \soko.t \cartouche.body ;
+    sub \lanpan.t by \lanpan.t \cartouche.body ;
+    sub \pake.t by \pake.t \cartouche.body ;
+    sub \apeja.t by \apeja.t \cartouche.body ;
+    sub \majuna.t by \majuna.t \cartouche.body ;
+    sub \powe.t by \powe.t \cartouche.body ;
+} CC01cartouchedsitelen;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup LIGAni;
+      lookup LIGAspaces;
+      lookup LIGAsitelen;
+      lookup LIGAalts;
+      lookup LIGAzwj;
+
+ script cyrl;
+     language dflt ;
+      lookup LIGAni;
+      lookup LIGAspaces;
+      lookup LIGAalts;
+      lookup LIGAzwj;
+
+ script grek;
+     language dflt ;
+      lookup LIGAni;
+      lookup LIGAspaces;
+      lookup LIGAalts;
+      lookup LIGAzwj;
+
+ script latn;
+     language dflt ;
+      lookup LIGAni;
+      lookup LIGAspaces;
+      lookup LIGAsitelen;
+      lookup LIGAalts;
+      lookup LIGAzwj;
+} liga;
+
+feature calt {
+
+ script DFLT;
+     language dflt ;
+      lookup CALTcartouches;
+
+ script cyrl;
+     language dflt ;
+      lookup CALTcartouches;
+
+ script grek;
+     language dflt ;
+      lookup CALTcartouches;
+
+ script latn;
+     language dflt ;
+      lookup CALTcartouches;
+} calt;
+
+feature cc01 {
+
+ script DFLT;
+     language dflt ;
+      lookup CC01cartouchedsitelen;
+
+ script cyrl;
+     language dflt ;
+      lookup CC01cartouchedsitelen;
+
+ script grek;
+     language dflt ;
+      lookup CC01cartouchedsitelen;
+
+ script latn;
+     language dflt ;
+      lookup CC01cartouchedsitelen;
+} cc01;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\bracketleft \bracketright \cartouche.start \cartouche.end 
+	\cartouche.body \comma \colon \periodcentered \dot \colon.t \hyphen \zwj \A \B \C 
+	\D \E \F \G \H \I \J \K \L \M \N \O \P \Q \R \S \T \U \V \W \X \Y \Z \zero \one \two \three \four 
+	\five \six \seven \eight \nine \less \greater \v \asciicircum \uF1993 \uF1994 
+	\uF1996 \uF1997 \uF1998 \uF1999 \uF199A \uF199B \bar \b \c \d \f \g \h \q \r \x \y \z 
+	\Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Egrave 
+	\Eacute \Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Eth 
+	\Ntilde \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Ugrave \Uacute 
+	\Ucircumflex \Udieresis \Yacute \Thorn \multiply \uni1E9E ];
+@GDEF_Ligature = [\wide.space \period \dotdot \dotdotdot \n.t \stackjoiner \ku.t 
+	\misikeke.t \kokosila.t \epiku.t \meso.t \soko.t \lanpan.t \pake.t \apeja.t 
+	\majuna.t \powe.t \zwnj ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+

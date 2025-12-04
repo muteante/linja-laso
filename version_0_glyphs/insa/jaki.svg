@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="jaki.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.3240948"
+     inkscape:cx="98.180282"
+     inkscape:cy="278.68095"
+     inkscape:window-width="1366"
+     inkscape:window-height="768"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect5"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect26"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect25"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect22"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2-7"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2-0"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none;paint-order:stroke fill markers"
+       d="m 63.505859,46.773437 c -1.842868,-0.06578 -3.660847,0.33625 -5.304687,1.171875 l 3.568359,7.019532 c -1.744846,-1.219301 -3.714282,-2.034779 -5.80664,-2.226563 -0.339552,-0.03112 -0.666226,0.05426 -1.003907,0.05078 -1.656504,-1.445049 -3.560378,-2.639034 -5.865234,-3.074218 -3.123409,-0.589735 -6.460808,0.0647 -9.095703,2.205078 -2.441446,1.983243 -3.782034,4.848454 -3.958985,7.845703 -0.147157,2.492632 0.517265,4.945821 1.902344,7.023437 0.386387,0.579581 0.922877,1.01195 1.400391,1.50586 -0.0206,0.02663 -0.0499,0.03951 -0.07031,0.06641 -1.497058,1.972895 -2.348516,4.51493 -1.925781,7.246094 0.277709,1.794188 1.07731,3.395671 2.236328,4.689453 1.152672,1.286698 2.590915,2.191254 4.152344,2.71875 2.825274,0.95446 5.6651,0.474373 8.126953,-0.693359 1.01711,0.504742 1.991321,1.121237 3.060547,1.460937 2.800776,0.889825 6.162136,1.368428 9.564453,0.181641 1.717246,-0.599005 3.355799,-1.608843 4.65625,-3.113282 1.315959,-1.522379 2.197121,-3.452326 2.320313,-5.626953 0.139993,-2.471366 -0.721371,-4.696129 -2.076172,-6.447265 -0.721476,-0.932537 -1.564731,-1.673022 -2.455078,-2.300782 0.690676,-0.102921 1.358753,-0.292531 1.986328,-0.570312 1.202895,-0.532433 2.195561,-1.325586 2.974609,-2.267578 1.556593,-1.882166 2.112025,-4.121001 2.076172,-6.207031 -0.03169,-1.843772 -0.529848,-3.636986 -1.451172,-5.234375 -0.921324,-1.59739 -2.224613,-2.926245 -3.804687,-3.876954 -1.580078,-0.950707 -3.364171,-1.481089 -5.207032,-1.546875 z m -0.283203,7.933594 c 0.477183,0.01703 0.989308,0.167896 1.398438,0.414063 0.409132,0.246169 0.782925,0.627403 1.021484,1.041015 0.238559,0.413613 0.380467,0.928846 0.388672,1.40625 0.0082,0.477862 -0.15435,0.849671 -0.246094,0.97461 -0.124718,-0.07947 -0.303772,-0.208939 -0.550781,-0.447266 -0.546718,-0.527501 -1.303251,-1.529454 -2.621094,-2.625 -0.233861,-0.194413 -0.521996,-0.284588 -0.767578,-0.458984 0.417602,-0.202802 0.915448,-0.321162 1.376953,-0.304688 z M 51.84375,61.84375 c 0.146741,0.42275 0.317323,0.830106 0.408203,1.285156 0.01944,0.09733 -0.01113,0.221495 0.0059,0.320313 -0.64744,-0.02082 -1.212051,-0.07776 -1.90039,-0.05469 0.06099,-0.102645 0.06083,-0.244322 0.126953,-0.341797 0.349547,-0.515247 0.875583,-0.835563 1.359375,-1.208984 z m -0.982422,9.537109 c 0.173436,-0.0044 0.398399,0.01272 0.578125,0.01172 -0.08357,0.225786 -0.103554,0.523616 -0.199219,0.734375 -0.171192,-0.223185 -0.229146,-0.507282 -0.378906,-0.746094 z m 8.800781,0.615235 c 0.616423,0.122878 1.286416,0.212263 1.767578,0.421875 0.752098,0.327641 1.342176,0.78112 1.677735,1.214843 0.310779,0.401696 0.443633,0.896382 0.429687,1.142579 -0.01226,0.216462 -0.150178,0.595305 -0.40039,0.884765 -0.265721,0.307402 -0.719616,0.620771 -1.263672,0.810547 -0.964587,0.336465 -2.362058,0.249388 -3.84961,-0.119141 0.06178,-0.116655 0.165963,-0.216538 0.22461,-0.333984 0.664671,-1.331062 1.089943,-2.680212 1.414062,-4.021484 z"
+       id="path2" />
+  </g>
+</svg>

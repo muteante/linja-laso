@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110mm"
+   height="130mm"
+   viewBox="0 0 110 130"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   sodipodi:docname="jan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.1772825"
+     inkscape:cx="228.49231"
+     inkscape:cy="259.49591"
+     inkscape:window-width="1354"
+     inkscape:window-height="733"
+     inkscape:window-x="5"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="2.5000001"
+       spacingy="2.5000001"
+       empcolor="#ffffff"
+       empopacity="0.30196078"
+       color="#ffffff"
+       opacity="0.14901961"
+       empspacing="4"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect4"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect11-1"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3"
+       style="fill:#000000;stroke:none;stroke-width:7.9375;paint-order:stroke fill markers"
+       d="M 54.999744 42.500248 A 17.500002 17.500002 0 0 0 37.500037 59.999955 A 17.500002 17.500002 0 0 0 41.751457 71.429749 L 36.643241 77.814889 L 42.500248 82.499874 L 47.757292 75.929215 A 17.500002 17.500002 0 0 0 54.999744 77.500179 A 17.500002 17.500002 0 0 0 62.241679 75.926632 L 67.499756 82.499874 L 73.356763 77.814889 L 68.24648 71.427681 A 17.500002 17.500002 0 0 0 72.499967 59.999955 A 17.500002 17.500002 0 0 0 54.999744 42.500248 z M 54.999744 50.000049 A 9.999999 9.999999 0 0 1 65.000167 59.999955 A 9.999999 9.999999 0 0 1 54.999744 69.999862 A 9.999999 9.999999 0 0 1 44.999837 59.999955 A 9.999999 9.999999 0 0 1 54.999744 50.000049 z " />
+  </g>
+</svg>
