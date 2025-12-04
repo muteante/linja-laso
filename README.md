@@ -18,3 +18,4 @@ any and all quibbles may be sent to muteante@gmail.com
 - personal glyphs (priority on those who Need them to be identified)
 - toki pona radicals
 - tuki tiki
+- vertical version
