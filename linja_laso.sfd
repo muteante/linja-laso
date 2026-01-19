@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759787008
-ModificationTime: 1768146574
+ModificationTime: 1768826019
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -62,12 +62,12 @@ Lookup: 2 0 0 "CCMP cartouches" { "CCMP cartouches"  } ['stch' ('DFLT' <'dflt' >
 MarkAttachClasses: 1
 DEI: 91125
 ChainSub2: class "CALT cartouches" 3 3 3 1
-  Class: 1063 space zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
-  Class: 42 cart.start cart.body cart.zwsp cart.hwbody
-  BClass: 1063 space zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
-  BClass: 42 cart.start cart.body cart.zwsp cart.hwbody
-  FClass: 1063 space zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
-  FClass: 42 cart.start cart.body cart.zwsp cart.hwbody
+  Class: 1078 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
+  Class: 89 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.2ticks cart.3ticks cart.4ticks
+  BClass: 1078 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
+  BClass: 89 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.2ticks cart.3ticks cart.4ticks
+  FClass: 1078 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile morae.dot morae.colon t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.soko t.kijetesantakalu t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.pake t.apeja t.majuna t.powe morae.dotdot morae.dotdotdot
+  FClass: 89 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.2ticks cart.3ticks cart.4ticks
  1 1 0
   ClsList: 1
   BClsList: 2
@@ -80,12 +80,13 @@ ChainSub2: class "CALT cartouches" 3 3 3 1
 EndFPST
 LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.0" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 12 10
+WinInfo: 144 12 10
 BeginPrivate: 5
 BlueShift 1 6
 StdHW 4 [64]
@@ -94,7 +95,7 @@ StemSnapH 32 [7 31 47 54 60 64 80 96 160 191]
 StemSnapV 33 [47 48 62 63 64 66 80 96 159 160]
 EndPrivate
 TeXData: 1 0 0 1048576 524288 349525 838861 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65688 249
+BeginChars: 65693 254
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -120,7 +121,7 @@ Encoding: 32 32 1
 GlifName: space
 Width: 320
 GlyphClass: 1
-Flags: W
+Flags: HW
 LayerCount: 2
 MultipleSubs2: "CCMP cartouches" space cart.hwbody
 EndChar
@@ -2619,52 +2620,50 @@ GlifName: t.olin
 Width: 640
 GlyphClass: 1
 Flags: HW
-HStem: 288.006 63.9941<200.293 260.33 379.711 439.928> 488 64<185.228 260.226 379.056 454.876>
-VStem: 96 64.2334<184.251 263.491 383.932 462.772> 480.01 63.9902<184.259 263.51 384.297 462.773>
+HStem: 192 63.999<219.692 288.244 350.243 422.308> 488.003 63.999<219.693 288.245 350.244 422.309>
+VStem: 145 64<122.105 181.039 418.108 477.042> 433 64<122.103 181.038 418.106 477.041>
 LayerCount: 2
 Fore
 SplineSet
-224 552 m 0
- 262 552 297 523 320 496 c 1
- 344 523 378 552 416 552 c 0
- 487 552 544 495 544 424 c 0
- 544 387 529 354 503 330 c 2
- 496 324 l 1
- 525 300 544 264 544 224 c 0
- 544 187 528 154 503 130 c 2
- 320 -40 l 1
- 137 130 l 2
- 112 154 96 187 96 224 c 0
- 96 264 115 300 144 324 c 1
- 137 330 l 2
- 112 354 96 387 96 424 c 0
- 96 495 153 552 224 552 c 0
-224 488 m 0
- 189 488 160 459 160 424 c 0
- 160 405 168 389 180 377 c 2
- 208 351 l 1
- 214 352 219 352 224 352 c 0
- 262 352 297 323 320 296 c 1
- 343 323 378 352 416 352 c 0
- 421 352 426.575195312 351.682617188 431.727539062 351.052734375 c 2
- 432 351 l 1
- 459.790039062 377.1484375 l 2
- 472.368164062 388.831054688 480 406 480 424 c 0
- 480 459 451.444335938 488.005859375 416.104492188 488.005859375 c 0
- 380.763671875 488.005859375 336.0625 440.015625 320.09765625 408.013671875 c 1
- 304.109375 440.015625 259 488 224 488 c 0
-224.114257812 288.005859375 m 0
- 188.805664062 287.939453125 160.233398438 259.30078125 160.233398438 224.001953125 c 0
- 160.233398438 205.497070312 167.973632812 188.733398438 180.551757812 177.123046875 c 2
- 320.12109375 47.373046875 l 1
- 459.69140625 177.123046875 l 2
- 472.270507812 188.805664062 480.009765625 205.375976562 480.009765625 224.001953125 c 0
- 480.009765625 259.341796875 451.346679688 288.005859375 416.006835938 288.005859375 c 0
- 380.666015625 288.005859375 335.96484375 240.013671875 320.000976562 208.01171875 c 1
- 304.026367188 239.984375 259.438476562 287.919921875 224.114257812 288.005859375 c 0
+247.000976562 551.998046875 m 0
+ 274.944335938 551.998046875 302.999023438 535.995117188 318.999023438 511.99609375 c 1
+ 334.998046875 535.995117188 363.052734375 551.998046875 390.99609375 551.998046875 c 0
+ 448.43359375 551.998046875 494.99609375 505.435546875 494.99609375 447.998046875 c 0
+ 494.99609375 415.341796875 479.956054688 386.186523438 456.400390625 367.134765625 c 2
+ 318.999023438 256 l 1
+ 181.595703125 367.134765625 l 2
+ 158.041015625 386.186523438 143 415.341796875 143 447.998046875 c 0
+ 143 505.435546875 189.563476562 551.998046875 247.000976562 551.998046875 c 0
+247.00390625 487.998046875 m 0
+ 223.00390625 487.99609375 207 471.99609375 207.000976562 447.998046875 c 0
+ 207.000976562 431.780273438 215.149414062 417.921875 227.450195312 407.271484375 c 2
+ 318.999023438 327.99609375 l 1
+ 410.549804688 407.26953125 l 2
+ 422.849609375 417.919921875 430.99609375 431.780273438 430.997070312 447.998046875 c 0
+ 430.998046875 471.99609375 414.994140625 487.99609375 390.994140625 487.998046875 c 0
+ 351 488 334.999023438 456 318.999023438 424.001953125 c 1
+ 303 456 286.999023438 488 247.00390625 487.998046875 c 0
+247.000976562 263.998046875 m 0
+ 274.9453125 263.998046875 303 247.99609375 318.999023438 223.99609375 c 1
+ 334.999023438 247.995117188 363.053710938 263.998046875 390.997070312 263.998046875 c 0
+ 448.434570312 263.998046875 494.997070312 217.435546875 494.997070312 159.998046875 c 0
+ 494.997070312 127.341796875 479.95703125 98.1865234375 456.401367188 79.134765625 c 2
+ 318.999023438 -32 l 1
+ 181.596679688 79.134765625 l 2
+ 158.041015625 98.1865234375 143.000976562 127.341796875 143.000976562 159.998046875 c 0
+ 143.000976562 217.435546875 189.563476562 263.998046875 247.000976562 263.998046875 c 0
+247.004882812 199.998046875 m 0
+ 223.004882812 199.997070312 207 183.99609375 207.000976562 159.998046875 c 0
+ 207.001953125 143.78125 215.150390625 129.921875 227.450195312 119.271484375 c 2
+ 318.999023438 39.99609375 l 1
+ 410.549804688 119.26953125 l 2
+ 422.850585938 129.919921875 430.997070312 143.78125 430.997070312 159.998046875 c 0
+ 430.998046875 183.99609375 414.995117188 199.997070312 390.995117188 199.998046875 c 0
+ 351 200 335 168 318.999023438 136.001953125 c 1
+ 303 168 287 200 247.004882812 199.998046875 c 0
 EndSplineSet
 MultipleSubs2: "CCMP cartouches" t.olin cart.body
-LCarets2: 3 -48 -48 -48
+LCarets2: 3 -47 -47 -47
 Ligature2: "LIGA basics" o l i n
 EndChar
 
@@ -4434,7 +4433,7 @@ Encoding: 105 105 122
 GlifName: glyph122
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<128.001 192.001> 288 64<55.999 128.001> 400 96<126.066 193.935>
 VStem: 112.001 96<414.065 481.934> 128.001 64<0 288>
 LayerCount: 2
@@ -4462,7 +4461,7 @@ Encoding: 106 106 123
 GlifName: glyph123
 Width: 320
 VWidth: -64
-Flags: W
+Flags: HW
 HStem: -64.3535 64<100.606 163.972> 288 64<103.998 176> 400 96<174.065 241.934>
 VStem: 160 96<414.065 481.934> 176 64<11.8022 288>
 LayerCount: 2
@@ -4495,7 +4494,7 @@ Encoding: 111 111 124
 GlifName: glyph124
 Width: 320
 VWidth: -64
-Flags: W
+Flags: HW
 HStem: -8.00098 64<121.148 198.852> 295.999 64<121.148 198.852>
 VStem: 32 64<81.8542 270.144> 223.998 64.002<81.8542 270.144>
 LayerCount: 2
@@ -4523,7 +4522,7 @@ Encoding: 97 97 125
 GlifName: glyph125
 Width: 320
 VWidth: -64
-Flags: W
+Flags: HW
 HStem: -8.00098 64.001<100.027 180.085> -0.000976562 21G<224 287.998> 144 64<101.229 223.914> 296 64<110.158 198.045>
 VStem: 24 64<68.0269 131.275> 224 63.998<0.0149232 22.0146 100.067 144 208.017 270.046>
 LayerCount: 2
@@ -4557,7 +4556,7 @@ StartChar: A
 Encoding: 65 65 126
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.015625 21G<28.0098 97.3804 230.618 299.99> 96.0176 64<125.814 202.184> 492 20G<127.936 200.064> 492 20G<127.936 200.064>
 LayerCount: 2
 Fore
@@ -4582,7 +4581,7 @@ StartChar: B
 Encoding: 66 66 127
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0078125 64.001<99.9814 198.822> 224.005 64<99.9814 199.869> 448.001 63.999<99.9814 198.822>
 VStem: 35.9814 64<64.0088 224.005 288.005 448.001> 236.015 64.0039<100.219 188.176 324.032 411.771>
 LayerCount: 2
@@ -4617,7 +4616,7 @@ StartChar: C
 Encoding: 67 67 128
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -7.99609 64.0039<125.941 202.066> 455.996 64.0039<125.933 202.062>
 VStem: 35.9883 64.002<81.933 430.074> 228.01 64.002<81.9272 119.988 391.992 430.059>
 LayerCount: 2
@@ -4644,7 +4643,7 @@ StartChar: D
 Encoding: 68 68 129
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.00292969 64.0107<99.998 198.804> 447.999 64.001<99.998 198.813>
 VStem: 35.9824 64.0156<64.0078 447.999> 236.014 64.0039<101.173 410.808>
 LayerCount: 2
@@ -4677,7 +4676,7 @@ StartChar: E
 Encoding: 69 69 130
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64.0078<99.9932 291.978> 224.004 64<99.9932 235.978> 448.003 63.9971<99.9561 292.008>
 VStem: 35.9922 64.001<64.0078 224.004 288.004 448.003>
 LayerCount: 2
@@ -4704,7 +4703,7 @@ StartChar: F
 Encoding: 70 70 131
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 21G<36.0215 100.021> 224.004 64<100.021 236.006> 448 64<100.021 291.979>
 VStem: 36.0215 64<0 224.004 288.004 448>
 LayerCount: 2
@@ -4730,7 +4729,7 @@ StartChar: G
 Encoding: 71 71 132
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -7.99609 64.0039<125.225 202.775> 224.016 64<155.985 227.974> 455.996 64.0039<125.23 202.774>
 VStem: 35.9844 64.0195<81.9634 430.059> 227.974 63.9883<81.9651 224.016 392.018 430.059>
 LayerCount: 2
@@ -4763,7 +4762,7 @@ StartChar: H
 Encoding: 72 72 133
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 21G<36.0059 100.006 227.994 291.994> 224.004 64<100.006 227.994> 492 20G<36.0059 100.006 227.994 291.994> 492 20G<36.0059 100.006 227.994 291.994>
 VStem: 36.0059 64<0 224.004 288.004 512> 227.994 64<0 224.004 288.004 512>
 LayerCount: 2
@@ -4789,7 +4788,7 @@ StartChar: I
 Encoding: 73 73 134
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.00488281 64<64.002 128.026 192.026 256.042> 447.997 64<64.002 128.026 192.026 256.042>
 VStem: 64.002 192.04<0.00488281 64.0049 448 511.997> 128.026 64<64.0049 447.997>
 LayerCount: 2
@@ -4817,7 +4816,7 @@ StartChar: J
 Encoding: 74 74 135
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8.01074 64.0039<125.934 202.067> 447.998 64<100.001 227.967>
 VStem: 35.9912 64.0029<81.9301 119.997> 227.967 64.0039<81.9306 447.99>
 LayerCount: 2
@@ -4843,7 +4842,7 @@ StartChar: K
 Encoding: 75 75 136
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.00195312 21G<35.9912 99.9912 220.797 300.009> 224.004 64<99.9912 128.847> 492 19.9824G<35.9912 99.9912 220.797 300.009> 492 19.9824G<35.9912 99.9912 220.797 300.009>
 VStem: 35.9912 64<0 224.004 288.004 512>
 LayerCount: 2
@@ -4870,7 +4869,7 @@ StartChar: L
 Encoding: 76 76 137
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.00195312 63.9766<100 292> 492 20G<36 100> 492 20G<36 100>
 VStem: 36 64<63.9785 512>
 LayerCount: 2
@@ -4890,7 +4889,7 @@ StartChar: M
 Encoding: 77 77 138
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0166016 21G<27.998 92.002 235.998 300.002> 492 20G<27.998 98.7227 229.279 300.002> 492 20G<27.998 98.7227 229.279 300.002>
 VStem: 27.998 64.0039<0.0166016 311.062> 235.998 64.0039<0.0166016 311.062>
 LayerCount: 2
@@ -4917,7 +4916,7 @@ StartChar: N
 Encoding: 78 78 139
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 20.9512G<36.0059 100.006 220.304 228.109> 492 20G<36.0059 100.006 227.994 291.994> 492 20G<36.0059 100.006 227.994 291.994>
 VStem: 36.0059 64<0 333.295 511.896 512> 227.994 64<178.521 512>
 LayerCount: 2
@@ -4943,7 +4942,7 @@ StartChar: O
 Encoding: 79 79 140
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -15.9961 64.0039<125.225 202.775> 447.996 64.0039<125.226 202.773>
 VStem: 35.9922 64.0039<73.9634 422.054> 227.967 64.0039<73.9651 422.039>
 LayerCount: 2
@@ -4974,7 +4973,7 @@ StartChar: P
 Encoding: 80 80 141
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 21G<36.0039 100.004> 224.004 63.999<100.004 198.814> 447.999 64.001<100.004 198.832>
 VStem: 36.0039 64<0 224.004 288.003 447.999> 235.992 64.0039<324.213 411.754>
 LayerCount: 2
@@ -5004,7 +5003,7 @@ StartChar: Q
 Encoding: 81 81 142
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: 40.0078 64.0039<121.234 171.066> 455.996 64.0039<121.234 198.779>
 VStem: 32.001 64.0039<129.969 430.039> 223.976 64.0156<150.713 430.037>
 LayerCount: 2
@@ -5041,7 +5040,7 @@ StartChar: R
 Encoding: 82 82 143
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.00195312 21G<35.9805 99.9805 220.806 300.02> 224.004 63.998<99.9805 128.836> 447.996 64.0039<99.9805 198.785>
 VStem: 35.9805 64<0 224.004 288.002 447.996> 236 64.0039<323.659 411.76>
 LayerCount: 2
@@ -5074,7 +5073,7 @@ StartChar: S
 Encoding: 83 83 144
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -15.9961 64.0039<125.223 202.78> 216 64.0039<125.923 202.049> 447.996 64.0039<125.228 202.786>
 VStem: 36.0068 64.0039<73.9419 112.012 305.946 422.06> 227.989 64.0039<73.9465 190.076 383.992 422.057>
 LayerCount: 2
@@ -5106,7 +5105,7 @@ StartChar: T
 Encoding: 84 84 145
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 21G<132.025 196.024> 448 64<36 132.025 196.024 292>
 VStem: 132.025 63.999<0 448>
 LayerCount: 2
@@ -5130,7 +5129,7 @@ StartChar: U
 Encoding: 85 85 146
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.00195344 63.9805<125.212 202.785> 492 20G<36.0039 100.004 227.996 291.996> 492 20G<36.0039 100.004 227.996 291.996>
 VStem: 36.0039 63.9961<89.9275 512> 227.996 63.998<89.9267 512>
 LayerCount: 2
@@ -5154,7 +5153,7 @@ StartChar: V
 Encoding: 86 86 147
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0166016 21G<127.947 200.076> 492 20G<27.998 97.3701 230.629 300.002> 492 20G<27.998 97.3701 230.629 300.002>
 LayerCount: 2
 Fore
@@ -5174,7 +5173,7 @@ StartChar: W
 Encoding: 87 87 148
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0166016 21G<27.998 98.7205 229.277 300.002> 492 20G<27.998 92.002 235.998 300.002> 492 20G<27.998 92.002 235.998 300.002>
 VStem: 27.998 64.0039<200.954 512> 235.998 64.0039<200.954 512>
 LayerCount: 2
@@ -5201,7 +5200,7 @@ StartChar: X
 Encoding: 88 88 149
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0166016 21G<27.998 104.776 223.201 300.002> 492 20G<27.998 104.776 223.201 300.002> 492 20G<27.998 104.776 223.201 300.002>
 LayerCount: 2
 Fore
@@ -5226,7 +5225,7 @@ StartChar: Y
 Encoding: 89 89 150
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0.0166016 21G<132.01 196.014> 492 20G<27.998 104.799 223.224 300.002> 492 20G<27.998 104.799 223.224 300.002>
 VStem: 132.01 64.0039<0.0166016 249.889>
 LayerCount: 2
@@ -5249,7 +5248,7 @@ StartChar: Z
 Encoding: 90 90 151
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.0078125 64.0039<107.047 291.996> 447.996 64.0039<36.0039 220.978>
 LayerCount: 2
 Fore
@@ -5272,7 +5271,7 @@ StartChar: b
 Encoding: 98 98 152
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8.00098 64<121.805 199.091> -0.000976562 21G<31.998 95.9961> 295.999 64<121.805 199.091> 491.999 20G<31.998 95.9961>
 VStem: 31.998 63.998<-0.000976562 25.4717 80.4398 271.558 326.526 511.999> 223.998 64<81.372 270.626>
 LayerCount: 2
@@ -5303,7 +5302,7 @@ StartChar: c
 Encoding: 99 99 153
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -8.00098 64<123.963 204.286> 295.999 64<123.963 204.286>
 VStem: 31.999 64<84.6622 267.336> 231.901 61<84.3989 97.1589 254.839 267.599>
 LayerCount: 2
@@ -5330,7 +5329,7 @@ StartChar: d
 Encoding: 100 100 154
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8.00098 64<120.906 198.193> -0.000976562 21G<224.001 287.999> 295.999 64<120.906 198.193> 491.999 20G<224.001 287.999>
 VStem: 31.999 64<81.372 270.626> 224.001 63.998<-0.000976562 25.4717 80.4402 271.558 326.526 511.999>
 LayerCount: 2
@@ -5361,7 +5360,7 @@ StartChar: e
 Encoding: 101 101 155
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8 64<123.966 204.289> 160 64<96.002 224> 296 64<121.226 198.774>
 VStem: 32.002 64<84.6628 160 224 270.045> 224 64<232 270.045>
 LayerCount: 2
@@ -5393,7 +5392,7 @@ StartChar: f
 Encoding: 102 102 156
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<87.9971 151.999> 288 64<39.9971 87.9971 151.999 263.999> 456 64<164.023 227.389>
 VStem: 87.9971 64.002<0 288 352 443.844>
 LayerCount: 2
@@ -5424,7 +5423,7 @@ StartChar: g
 Encoding: 103 103 157
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -64 64<115.715 196.038> 80 64<120.909 198.195> 296 64<120.909 198.195> 332 20G<224.004 288.002>
 VStem: 32.002 64<169.373 270.627> 224.002 64<28.6628 113.471 168.441 271.559 326.527 352>
 LayerCount: 2
@@ -5462,7 +5461,7 @@ StartChar: h
 Encoding: 104 104 158
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.000976562 21G<31.999 95.9982 223.999 287.998> 295.999 64<121.807 199.094> 491.999 20G<32.0009 95.998>
 VStem: 32.001 63.9971<-0.000976562 271.558 326.526 511.999> 223.999 63.999<-0.000976562 270.626>
 LayerCount: 2
@@ -5488,7 +5487,7 @@ StartChar: k
 Encoding: 107 107 159
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<31.998 95.998 194.318 287.998> 332 20G<194.318 287.998> 492 20G<31.998 95.998>
 VStem: 31.998 64<0 155.189 196.811 512>
 LayerCount: 2
@@ -5513,7 +5512,7 @@ StartChar: l
 Encoding: 108 108 160
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 64<181.901 271.997> 448 64<63.9971 111.997>
 VStem: 63.9971 111.998<448 512> 111.999 63.9961<69.9036 448>
 LayerCount: 2
@@ -5540,7 +5539,7 @@ StartChar: m
 Encoding: 109 109 161
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<24 88 128 192 232 296> 296 64<105.152 127.042 209.15 231.089> 332 20G<24 88>
 VStem: 24 64<0 294.962 308.332 352> 128 64<0 294.966> 232 64<0 295.103>
 CounterMasks: 1 1c
@@ -5576,7 +5575,7 @@ StartChar: n
 Encoding: 110 110 162
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.000976562 21G<32 95.9992 224 287.999> 295.999 64<121.808 199.095> 331.999 20G<32 95.9988>
 VStem: 32 63.999<-0.000976562 271.558 326.526 351.999> 224 63.999<-0.000976562 270.626>
 LayerCount: 2
@@ -5602,7 +5601,7 @@ StartChar: p
 Encoding: 112 112 163
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 47.999 64<121.805 199.092> 295.999 64.001<121.805 199.092> 331.999 20G<31.999 95.9971>
 VStem: 31.999 63.998<-64.001 81.4717 136.44 271.558 326.527 351.999> 223.999 64<137.372 270.626>
 LayerCount: 2
@@ -5633,7 +5632,7 @@ StartChar: q
 Encoding: 113 113 164
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: 47.999 64<120.907 198.193> 295.999 64.001<120.907 198.193> 331.999 20G<224.002 288>
 VStem: 32 64<137.372 270.626> 224.002 63.9971<-64.001 81.4717 136.44 271.558 326.527 351.999>
 LayerCount: 2
@@ -5664,7 +5663,7 @@ StartChar: r
 Encoding: 114 114 165
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<31.998 95.998> 296 64<125.169 204.866> 332 20G<31.998 95.998>
 VStem: 31.998 64<0 268.675 336.441 351.98>
 LayerCount: 2
@@ -5691,7 +5690,7 @@ StartChar: s
 Encoding: 115 115 166
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 64<97.379 128 191.998 220.457> 144 64<99.5403 127.998 191.998 220.455> 288 64<99.5406 222.62>
 VStem: 23.998 64<74.5157 89.2812 218.651 277.349> 232 64<74.6506 133.349 262.719 277.484>
 CounterMasks: 1 e0
@@ -5729,7 +5728,7 @@ StartChar: t
 Encoding: 116 116 167
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8 64<164.022 227.388> 288 64<39.9951 87.9971 151.997 263.997>
 VStem: 87.9971 64<68.1561 288 352 448>
 LayerCount: 2
@@ -5761,7 +5760,7 @@ StartChar: u
 Encoding: 117 117 168
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -8 64<120.907 198.194> 0 21G<224.002 288.002> 332 20G<32.0018 96.002 224.002 288.002>
 VStem: 32 64<81.373 352> 224 64.002<0 25.4727 80.4408 352>
 LayerCount: 2
@@ -5787,7 +5786,7 @@ StartChar: v
 Encoding: 118 118 169
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<122.544 197.454> 332 20G<32 102.689 217.309 287.998>
 LayerCount: 2
 Fore
@@ -5807,7 +5806,7 @@ StartChar: w
 Encoding: 119 119 170
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<53.021 131.999 187.999 266.979> 332 20G<16.001 80.001 239.999 303.999>
 VStem: 16.001 64<182.67 352> 239.999 64<183.075 352>
 LayerCount: 2
@@ -5836,7 +5835,7 @@ StartChar: x
 Encoding: 120 120 171
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 21G<23.998 108.754 211.242 295.998> 332 20G<23.998 108.754 211.242 295.998>
 LayerCount: 2
 Fore
@@ -5861,7 +5860,7 @@ StartChar: y
 Encoding: 121 121 172
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -64 64<39.8359 89.014> 332 20G<24 101.003 218.995 296>
 LayerCount: 2
 Fore
@@ -5886,7 +5885,7 @@ StartChar: z
 Encoding: 122 122 173
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0 64<113.184 288.002> 288 64<32.002 206.816 288 288.002>
 LayerCount: 2
 Fore
@@ -5912,33 +5911,33 @@ StartChar: zero
 Encoding: 48 48 174
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -8 64<121.148 198.852> 472 64<121.148 198.852>
 VStem: 32 64<81.8551 282.746 373.258 446.145> 223.998 64.002<81.8551 154.748 245.258 446.145>
 LayerCount: 2
 Fore
 SplineSet
-160 536 m 0
- 230.912109375 536 288 478.912109375 288 408 c 2
- 288 120 l 2
- 288 49.087890625 230.912109375 -8 160 -8 c 0
- 89.087890625 -8 32 49.087890625 32 120 c 2
- 32 408 l 2
- 32 478.912109375 89.087890625 536 160 536 c 0
-160 472 m 0
- 124.544921875 472 96 443.456054688 96 408 c 2
- 96 373.2578125 l 1
- 182.626953125 286.62890625 l 1
- 223.998046875 245.2578125 l 1
- 223.998046875 408 l 2
- 223.998046875 443.456054688 195.456054688 472 160 472 c 0
-96 282.74609375 m 1
- 96 120 l 2
- 96 84.5439453125 124.544921875 56 160 56 c 0
- 195.456054688 56 223.998046875 84.5439453125 223.998046875 120 c 2
- 223.998046875 154.748046875 l 1
- 137.373046875 241.373046875 l 1
- 96 282.74609375 l 1
+160.000976562 528.000976562 m 0
+ 230.913085938 528.000976562 288.000976562 470.913085938 288.000976562 400.000976562 c 2
+ 288.000976562 112.000976562 l 2
+ 288.000976562 41.0888671875 230.913085938 -15.9990234375 160.000976562 -15.9990234375 c 0
+ 89.0888671875 -15.9990234375 32.0009765625 41.0888671875 32.0009765625 112.000976562 c 2
+ 32.0009765625 400.000976562 l 2
+ 32.0009765625 470.913085938 89.0888671875 528.000976562 160.000976562 528.000976562 c 0
+160.000976562 464.000976562 m 0
+ 124.545898438 464.000976562 96.0009765625 435.456054688 96.0009765625 400.000976562 c 2
+ 96.0009765625 365.258789062 l 1
+ 182.627929688 278.629882812 l 1
+ 223.999023438 237.258789062 l 1
+ 223.999023438 400.000976562 l 2
+ 223.999023438 435.456054688 195.45703125 464.000976562 160.000976562 464.000976562 c 0
+96.0009765625 274.747070312 m 1
+ 96.0009765625 112.000976562 l 2
+ 96.0009765625 76.544921875 124.545898438 48.0009765625 160.000976562 48.0009765625 c 0
+ 195.45703125 48.0009765625 223.999023438 76.544921875 223.999023438 112.000976562 c 2
+ 223.999023438 146.749023438 l 1
+ 137.374023438 233.374023438 l 1
+ 96.0009765625 274.747070312 l 1
 EndSplineSet
 EndChar
 
@@ -5946,7 +5945,7 @@ StartChar: one
 Encoding: 49 49 175
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.0078125 64.0039<36.0098 131.992 195.996 291.99> 492 20G<111.997 195.996> 492 20G<111.997 195.996>
 VStem: 131.992 64.0039<63.9961 421.484>
 LayerCount: 2
@@ -5973,7 +5972,7 @@ StartChar: two
 Encoding: 50 50 176
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -0.00976562 64.002<114.055 292> 455.996 64.0039<125.22 202.775>
 VStem: 36.0078 64<359.992 430.058> 227.996 64.0039<323.445 430.063>
 LayerCount: 2
@@ -6004,7 +6003,7 @@ StartChar: three
 Encoding: 51 51 177
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -8 64<125.212 202.788> 224 64<140 203.513> 456 64<125.212 202.788>
 VStem: 36.002 63.998<81.9367 151.998 360 430.063> 228.038 63.9619<81.9367 198.507 313.493 430.063>
 CounterMasks: 1 e0
@@ -6046,7 +6045,7 @@ StartChar: four
 Encoding: 52 52 178
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.000976562 21G<228.004 292.004> 128.001 63.999<36.0059 36.1348 101.229 228.004> 492 20G<94.8613 164.004 228.004 292.004> 492 20G<94.8613 164.004 228.004 292.004>
 VStem: 228.004 64.002<-0.000976562 128.001 192 511.998>
 LayerCount: 2
@@ -6075,7 +6074,7 @@ StartChar: five
 Encoding: 53 53 179
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -7.98047 64.0039<125.223 202.762> 256 64.0078<100.001 202.042> 448.002 63.998<100.001 292.001>
 VStem: 35.9971 64.0039<81.965 120.004 320.008 448.002> 227.993 64.0076<81.9624 120.004 120.027 191.998 192.004 230.05>
 LayerCount: 2
@@ -6109,7 +6108,7 @@ StartChar: six
 Encoding: 54 54 180
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -7.98926 64.0039<125.944 202.069> 256.008 63.8838<169.595 203.38> 492 20G<203.39 292.015> 492 20G<203.39 292.015>
 VStem: 35.999 64.002<81.9341 232.141> 227.866 64.1484<81.9341 119.995 120.018 231.519>
 LayerCount: 2
@@ -6142,7 +6141,7 @@ StartChar: seven
 Encoding: 55 55 181
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: -0.00585938 21G<36.0088 113.667> 448 64<36 222.673>
 LayerCount: 2
 Fore
@@ -6162,7 +6161,7 @@ StartChar: eight
 Encoding: 56 56 182
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -8.00098 64.0186<125.243 202.786> 263.998 64.002<124.512 203.088> 455.982 64.0176<125.24 202.789>
 VStem: 36.0127 64.001<81.9633 239.414 352.586 430.764> 228.015 64<81.9691 239.422 352.82 430.763>
 LayerCount: 2
@@ -6200,7 +6199,7 @@ StartChar: nine
 Encoding: 57 57 183
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -0.0146484 21G<35.999 124.622> 192.118 63.8838<124.622 158.396> 455.996 64.0039<125.216 202.783>
 VStem: 35.999 64.1338<280.488 430.057> 228.024 63.9756<280.754 430.057>
 LayerCount: 2
@@ -6277,7 +6276,7 @@ EndChar
 StartChar: cart.body
 Encoding: 65659 989586 186
 Width: 0
-Flags: W
+Flags: HW
 HStem: -160 64<-639.965 0.0351562> 608 64<-639.965 0.0351562>
 LayerCount: 2
 Fore
@@ -6312,8 +6311,6 @@ SplineSet
  224.015625 220.650390625 195.35546875 191.989257812 160 191.989257812 c 0
  124.645507812 191.989257812 95.984375 220.650390625 95.984375 256.004882812 c 0
 EndSplineSet
-MultipleSubs2: "CCMP cartouches" morae.dot cart.hwbody
-Ligature2: "LIGA basics" glyph192
 EndChar
 
 StartChar: morae.colon
@@ -6344,7 +6341,7 @@ StartChar: bracketleft
 Encoding: 91 91 189
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64<95.9971 288.001> 447.999 64.001<95.998 287.997>
 VStem: 31.999 63.998<64 447.999>
 LayerCount: 2
@@ -6367,7 +6364,7 @@ StartChar: bracketright
 Encoding: 93 93 190
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64<31.999 224.003> 448 64<32.0029 224.002>
 VStem: 224.003 63.998<64 447.999>
 LayerCount: 2
@@ -6389,7 +6386,7 @@ EndChar
 StartChar: zwsp
 Encoding: 8203 8203 191
 Width: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 Ligature2: "LIGA basics" space
 Substitution2: "SS01 allow half spaces" space
@@ -6400,7 +6397,7 @@ StartChar: glyph192
 Encoding: 46 46 192
 Width: 320
 VWidth: 0
-Flags: W
+Flags: HW
 HStem: -8 96<126.059 193.941>
 VStem: 112 96<6.05884 73.9412>
 LayerCount: 2
@@ -6417,7 +6414,7 @@ EndChar
 StartChar: colon
 Encoding: 58 58 193
 Width: 320
-Flags: W
+Flags: HW
 HStem: -8 96<126.059 193.941> 208 96<126.059 193.941>
 VStem: 112 96<6.05884 73.9412 222.059 289.941>
 LayerCount: 2
@@ -6439,7 +6436,7 @@ EndChar
 StartChar: t.namako
 Encoding: 65662 989560 194
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0.0234375 63.9805<193.183 279.908> 492.009 20G<304 368> 492.009 20G<304 368>
 VStem: 175.984 63.9561<173.679 288.018> 304 64<368.009 512.009> 431.928 64.0049<216.039 288.018>
 LayerCount: 2
@@ -6480,7 +6477,7 @@ EndChar
 StartChar: t.kin
 Encoding: 65663 989561 195
 Width: 640
-Flags: W
+Flags: HW
 VStem: 288.013 64<-16 56.5615 167.408 240 296 528>
 LayerCount: 2
 Fore
@@ -6518,7 +6515,7 @@ EndChar
 StartChar: t.oko
 Encoding: 65664 989562 196
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0.0136719 21G<489.249 538.321> 491.998 20G<489.249 538.321> 491.998 20G<489.249 538.321>
 VStem: 383.981 64.0039<215.166 294.389> 511.989 64.0039<192.324 316.908>
 LayerCount: 2
@@ -6553,7 +6550,7 @@ EndChar
 StartChar: t.kipisi
 Encoding: 65665 989563 197
 Width: 640
-Flags: W
+Flags: HW
 HStem: 64 96<430.059 497.94> 352 96<142.059 209.941>
 VStem: 128 96<366.059 433.941> 416 95.999<78.0588 145.941>
 LayerCount: 2
@@ -6583,7 +6580,7 @@ EndChar
 StartChar: t.leko
 Encoding: 65666 989564 198
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0.0146484 64.0039<127.99 511.99> 128.015 64.0039<255.966 383.974> 320.026 64.0039<255.966 383.974> 448.019 63.9795<127.99 511.99>
 VStem: 63.9854 64.0049<64.0186 448.019> 191.985 63.9805<192.019 320.026> 383.974 64.0039<192.019 320.026> 511.99 64.0039<64.0186 448.019>
 LayerCount: 2
@@ -6617,7 +6614,7 @@ EndChar
 StartChar: t.monsuta
 Encoding: 65667 989565 199
 Width: 640
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -6646,7 +6643,7 @@ EndChar
 StartChar: t.tonsi
 Encoding: 65668 989566 200
 Width: 640
-Flags: W
+Flags: HW
 HStem: 82.6855 61.3145<263.101 288 352 376.899> 400 64<262.27 377.73>
 VStem: 128 64<215.119 329.59> 288 64<-31.998 85.2555> 448 64<215.119 329.59>
 CounterMasks: 1 38
@@ -6683,7 +6680,7 @@ EndChar
 StartChar: t.jasima
 Encoding: 65669 989567 201
 Width: 640
-Flags: W
+Flags: HW
 HStem: 45.9688 64<382.73 480.679> 178.031 64<159.322 257.295> 269.969 64<382.917 480.679> 402.031 64<159.322 257.295>
 VStem: 48.001 64<82.0312 129.61 306.031 353.61> 288.017 64<-15.9961 67.3955 136.937 151.031 220.586 291.396 360.937 375.031 444.585 528> 527.999 64<158.389 205.969 382.39 429.969>
 LayerCount: 2
@@ -6727,7 +6724,7 @@ EndChar
 StartChar: t.soko
 Encoding: 65670 989569 202
 Width: 640
-Flags: W
+Flags: HW
 HStem: 96.0107 64<192.007 288.008 352.008 448.007> 256 64<130.686 288.008 352.008 509.313> 480 64<249.263 390.735>
 VStem: 288.008 64<-16 96.0107 160.011 256>
 LayerCount: 2
@@ -6764,7 +6761,7 @@ EndChar
 StartChar: t.kijetesantakalu
 Encoding: 65671 989568 203
 Width: 640
-Flags: W
+Flags: HW
 HStem: -32.001 64.0039<122.002 160.121 224.004 282.469> 160.011 64.0039<122.002 160.049> 267.962 72.0146<327.791 360.632> 299.964 72.042<415.791 433.698 433.747 448.632> 480.007 64.0039<345.993 448.019>
 VStem: 32.04 64.0771<57.2315 134.782> 160.121 63.8828<32.0029 160.011 224.015 358.044> 308.202 72.0186<287.551 320.392> 384.111 64.0039<-32.001 160.011> 396.201 72.0283<319.553 352.418> 448.019 64.0039<448.005 480.007> 480.021 64.0039<-32.001 256.017>
 LayerCount: 2
@@ -6839,7 +6836,7 @@ EndChar
 StartChar: t.meso
 Encoding: 65672 989570 204
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0.0195312 21G<128.001 192.001 448 512> 208.01 96<286.073 353.955> 492 20G<128.001 192.001 448 512> 492 20G<128.001 192.001 448 512>
 VStem: 128.001 64<0.0195312 512> 272.014 96<222.069 289.951> 448 64<0.0195312 512>
 LayerCount: 2
@@ -6869,7 +6866,7 @@ EndChar
 StartChar: t.epiku
 Encoding: 65673 989571 205
 Width: 640
-Flags: W
+Flags: HW
 HStem: 15.9902 64.0039<258.243 381.788>
 VStem: 96.0039 64.0039<178.711 240.006> 288.009 64<352.005 496.005> 480.004 64.0039<178.712 240.006>
 LayerCount: 2
@@ -6908,7 +6905,7 @@ EndChar
 StartChar: t.kokosila
 Encoding: 65674 989572 206
 Width: 640
-Flags: W
+Flags: HW
 HStem: -16.001 64.001<261.747 377.67> 303.999 64<262.35 376.961>
 VStem: 128.01 64<148.986 233.659> 288 64<400.002 528> 448.01 64<118.339 216.37>
 LayerCount: 2
@@ -6961,7 +6958,7 @@ EndChar
 StartChar: t.lanpan
 Encoding: 65675 989573 207
 Width: 640
-Flags: W
+Flags: HW
 HStem: -31.9834 64.0039<153.212 230.787> 48.082 96.0059<381.003 448.879> 192.006 64.0039<368.423 463.583> 288.012 64.0771<279.274 358.258> 480.072 64.0049<280.876 358.076>
 VStem: 64.0078 64.0039<57.2204 191.812> 190.928 64.0039<389.67 454.873> 255.996 64.0039<57.943 143.583> 366.927 96.0059<62.1543 130.022> 382.939 65.0684<377.261 454.84> 512.013 63.9795<47.4557 144.683>
 LayerCount: 2
@@ -7006,7 +7003,7 @@ EndChar
 StartChar: t.n
 Encoding: 65676 989574 208
 Width: 640
-Flags: W
+Flags: HW
 HStem: 167.981 64.0039<281.207 358.783>
 VStem: 191.984 64.0049<-16 142.046> 288.001 64<288 528> 383.997 64.0039<-16 142.046>
 LayerCount: 2
@@ -7036,7 +7033,7 @@ EndChar
 StartChar: t.misikeke
 Encoding: 65677 989575 209
 Width: 640
-Flags: W
+Flags: HW
 HStem: -16 64<276.241 363.758> 224 64<240 400> 464 64<276.241 363.758>
 VStem: 176 64<85.1983 224 288 426.801> 400 64<85.1983 224 288 426.801>
 CounterMasks: 1 e0
@@ -7071,7 +7068,7 @@ EndChar
 StartChar: t.ku
 Encoding: 65678 989576 210
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0.015625 63.9844<176 288 353.971 464> 111.983 96<366.065 433.935> 448.021 63.9785<176.004 328.041>
 VStem: 112 64<64 448.021> 352 96<126.049 193.918> 464 64<63.9834 240.013 305.983 447.983>
 LayerCount: 2
@@ -7112,7 +7109,7 @@ EndChar
 StartChar: t.pake
 Encoding: 65679 989600 211
 Width: 640
-Flags: W
+Flags: HW
 HStem: 0 21G<287.988 351.988> 448.008 64<96 287.988 351.988 544>
 VStem: 287.988 64<0 448.008>
 LayerCount: 2
@@ -7136,7 +7133,7 @@ EndChar
 StartChar: t.apeja
 Encoding: 65680 989601 212
 Width: 640
-Flags: W
+Flags: HW
 HStem: -31.9893 64.0039<286.393 353.607> 128.021 63.9795<286.392 353.608> 320.011 64.0039<110.393 177.607 462.393 529.606> 480.021 63.9795<110.392 177.608 462.392 529.608>
 VStem: 32.0049 64.0039<398.399 465.623> 191.991 64.0039<398.399 465.622> 208.005 64.0039<46.3997 113.623> 367.991 64.0039<46.3987 113.622> 384.005 64.0039<398.399 465.623> 543.99 64.0049<398.399 465.622>
 LayerCount: 2
@@ -7187,7 +7184,7 @@ EndChar
 StartChar: t.majuna
 Encoding: 65681 989602 213
 Width: 640
-Flags: W
+Flags: HW
 HStem: 128 64<64 223.998 416 575.998>
 VStem: 288 64<256.002 416>
 LayerCount: 2
@@ -7227,7 +7224,7 @@ EndChar
 StartChar: t.powe
 Encoding: 65682 989603 214
 Width: 640
-Flags: W
+Flags: HW
 HStem: 96 64<64 576>
 LayerCount: 2
 Fore
@@ -7259,7 +7256,7 @@ EndChar
 StartChar: morae.dotdot
 Encoding: 65683 -1 215
 Width: 640
-Flags: W
+Flags: HW
 HStem: 191.984 128.03<168.465 247.509 392.496 471.54>
 VStem: 143.972 128.03<216.478 295.522> 368.003 128.03<216.478 295.522>
 LayerCount: 2
@@ -7283,7 +7280,7 @@ EndChar
 StartChar: morae.dotdotdot
 Encoding: 65684 -1 216
 Width: 640
-Flags: W
+Flags: HW
 HStem: 191.984 128.03<88.4787 167.523 280.478 359.522 472.477 551.521>
 VStem: 63.9854 128.03<216.478 295.522> 255.984 128.03<216.478 295.522> 447.984 128.03<216.478 295.522>
 LayerCount: 2
@@ -7312,7 +7309,7 @@ EndChar
 StartChar: exclam
 Encoding: 33 33 217
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 96<126.059 193.941>
 VStem: 112 96<14.0588 81.9412> 128.002 64<136 520>
 LayerCount: 2
@@ -7334,7 +7331,7 @@ EndChar
 StartChar: quotedbl
 Encoding: 34 34 218
 Width: 320
-Flags: W
+Flags: HW
 HStem: 392 128<63.9961 127.996 191.996 255.996>
 VStem: 63.9961 64<392 520> 191.996 64<392 520>
 LayerCount: 2
@@ -7356,7 +7353,7 @@ EndChar
 StartChar: numbersign
 Encoding: 35 35 219
 Width: 320
-Flags: W
+Flags: HW
 HStem: 136 64<24 64.002 128.002 192.002 256.002 296> 328 64<24 64.002 128.002 192.002 256.002 296>
 VStem: 64.002 64<8 136 200 328 392 520> 192.002 64<8 136 200 328 392 520>
 LayerCount: 2
@@ -7402,7 +7399,7 @@ EndChar
 StartChar: dollar
 Encoding: 36 36 220
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 21G<127.995 191.994>
 VStem: 31.9902 64.0039<128.729 168.001 320.344 399.654> 127.995 63.999<0 47.999 112.57 223.442 304.562 415.439 480 528> 224.003 64.002<128.344 207.659 359.999 399.279>
 LayerCount: 2
@@ -7441,7 +7438,7 @@ EndChar
 StartChar: percent
 Encoding: 37 37 221
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 120<197.835 274.165> 408 120<45.8361 122.167>
 VStem: 24.002 120<429.835 506.165> 176 120<21.8346 98.1654>
 LayerCount: 2
@@ -7468,7 +7465,7 @@ EndChar
 StartChar: ampersand
 Encoding: 38 38 222
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 64<118.94 186.773> 464 64<96.1527 151.851>
 VStem: 24 64.002<94.939 179.933 391.709 455.376> 160.002 64<393.488 455.849> 232.002 63.998<125.654 272>
 LayerCount: 2
@@ -7513,7 +7510,7 @@ EndChar
 StartChar: quotesingle
 Encoding: 39 39 223
 Width: 320
-Flags: W
+Flags: HW
 HStem: 392 128<128.002 192.002>
 VStem: 128.002 64<392 520>
 LayerCount: 2
@@ -7530,7 +7527,7 @@ EndChar
 StartChar: parenleft
 Encoding: 40 40 224
 Width: 320
-Flags: W
+Flags: HW
 HStem: -8.52441 21G<170.515 216.284>
 VStem: 64.001 63.9912<181.179 346.827>
 LayerCount: 2
@@ -7549,7 +7546,7 @@ EndChar
 StartChar: parenright
 Encoding: 41 41 225
 Width: 320
-Flags: W
+Flags: HW
 HStem: -8.52441 21G<99.4171 157.494>
 VStem: 200.016 63.9922<181.179 346.827>
 LayerCount: 2
@@ -7568,7 +7565,7 @@ EndChar
 StartChar: asterisk
 Encoding: 42 42 226
 Width: 320
-Flags: W
+Flags: HW
 VStem: 128.001 64<264 344 440 520>
 LayerCount: 2
 Fore
@@ -7598,7 +7595,7 @@ EndChar
 StartChar: plus
 Encoding: 43 43 227
 Width: 320
-Flags: W
+Flags: HW
 HStem: 231.998 64.0039<32.0078 127.99 191.994 288>
 VStem: 127.99 64.0039<135.991 231.998 296.002 392.008>
 LayerCount: 2
@@ -7623,7 +7620,7 @@ EndChar
 StartChar: comma
 Encoding: 44 44 228
 Width: 320
-Flags: W
+Flags: HW
 HStem: -24 112<119.999 152>
 VStem: 119.999 80.001<-34.4533 -24>
 LayerCount: 2
@@ -7640,7 +7637,7 @@ EndChar
 StartChar: hyphen
 Encoding: 45 45 229
 Width: 320
-Flags: W
+Flags: HW
 HStem: 232 64<32 288>
 LayerCount: 2
 Fore
@@ -7656,7 +7653,7 @@ EndChar
 StartChar: slash
 Encoding: 47 47 230
 Width: 320
-Flags: W
+Flags: HW
 HStem: 0 21G<24 100.789> 492 20G<219.354 296> 492 20G<219.354 296>
 LayerCount: 2
 Fore
@@ -7672,7 +7669,7 @@ EndChar
 StartChar: less
 Encoding: 60 60 231
 Width: 320
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7692,7 +7689,7 @@ StartChar: equal
 Encoding: 61 61 232
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 160 64<32 288> 288 64<32 288>
 LayerCount: 2
 Fore
@@ -7714,7 +7711,7 @@ StartChar: greater
 Encoding: 62 62 233
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7734,7 +7731,7 @@ StartChar: question
 Encoding: 63 63 234
 Width: 320
 VWidth: 592
-Flags: W
+Flags: HW
 HStem: 0.0371094 96.0059<118.05 185.933> 464 64<110.939 193.061>
 VStem: 16 64<392 432.442> 103.984 96.0078<14.0961 81.978> 120 64<136 239.865> 224 64<327.731 432.442>
 LayerCount: 2
@@ -7766,7 +7763,7 @@ StartChar: at
 Encoding: 64 64 235
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: -8 392<56.4408 135.559> -8 48<165.711 218.138> 455.998 64.002<37.9734 153.66>
 VStem: 32 128<46.2281 359.559> 224 64<46.3531 72 328 385.069>
 LayerCount: 2
@@ -7797,7 +7794,7 @@ StartChar: semicolon
 Encoding: 59 59 236
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 208 96<126.057 193.939>
 VStem: 111.998 96<222.059 289.941>
 LayerCount: 2
@@ -7819,7 +7816,7 @@ EndChar
 StartChar: backslash
 Encoding: 92 92 237
 Width: 320
-Flags: W
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -7835,7 +7832,7 @@ StartChar: asciicircum
 Encoding: 94 94 238
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 492 20G<120.5 196.943> 492 20G<120.5 196.943>
 LayerCount: 2
 Fore
@@ -7856,7 +7853,7 @@ StartChar: underscore
 Encoding: 95 95 239
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64<32 288>
 LayerCount: 2
 Fore
@@ -7873,7 +7870,7 @@ StartChar: grave
 Encoding: 96 96 240
 Width: 320
 VWidth: 584
-Flags: W
+Flags: HW
 HStem: 338.98 181.02
 VStem: 69.4902 181.019
 LayerCount: 2
@@ -7891,7 +7888,7 @@ StartChar: braceleft
 Encoding: 123 123 241
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64<181.904 287.999> 224 64<32 138.096> 448 64<181.904 288>
 VStem: 111.999 64.001<69.8113 132.298 379.876 442.096> 144 64<155.876 217.519 294.192 356.298>
 CounterMasks: 1 e0
@@ -7936,7 +7933,7 @@ StartChar: bar
 Encoding: 124 124 242
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 21G<128.002 192.002> 492 20G<128.002 192.002> 492 20G<128.002 192.002>
 VStem: 128.002 64<0 512>
 LayerCount: 2
@@ -7954,7 +7951,7 @@ StartChar: braceright
 Encoding: 125 125 243
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 0 64<32.001 138.096> 224 64<181.904 288> 448 64<32 138.096>
 VStem: 112 64<155.876 217.519 294.192 356.298> 144 64.001<69.8113 132.298 379.876 442.096>
 CounterMasks: 1 e0
@@ -7999,7 +7996,7 @@ StartChar: asciitilde
 Encoding: 126 126 244
 Width: 320
 VWidth: 576
-Flags: W
+Flags: HW
 HStem: 178 64<200.847 238.968> 254 64<97.0295 135.15>
 VStem: 32 63.999<194 252.971> 239.998 64.002<243.03 298>
 LayerCount: 2
@@ -8071,6 +8068,7 @@ Encoding: 12288 12288 246
 Width: 640
 Flags: HW
 LayerCount: 2
+Ligature2: "LIGA basics" bar
 MultipleSubs2: "CCMP cartouches" fwsp cart.body
 Ligature2: "LIGA basics" space space
 EndChar
@@ -8102,6 +8100,117 @@ SplineSet
  -384 -128.000976562 l 1
  -320.000976562 -96 l 1
 EndSplineSet
+EndChar
+
+StartChar: cart.1tick
+Encoding: 65688 989598 249
+Width: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+-352 -286.586914062 m 1
+ -352 -126.5859375 l 1
+ -288 -126.5859375 l 1
+ -288 -286.586914062 l 1
+ -352 -286.586914062 l 1
+EndSplineSet
+Ligature2: "LIGA basics" comma
+EndChar
+
+StartChar: cart.4ticks
+Encoding: 65689 -1 250
+Width: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+-567.969726562 -128 m 1
+ -503.990234375 -128 l 1
+ -503.990234375 -288.005859375 l 1
+ -567.969726562 -288.005859375 l 1
+ -567.969726562 -128 l 1
+-423.97265625 -128 m 1
+ -359.96875 -128 l 1
+ -359.96875 -288.005859375 l 1
+ -423.97265625 -288.005859375 l 1
+ -423.97265625 -128 l 1
+-279.9765625 -128 m 1
+ -215.971679688 -128 l 1
+ -215.971679688 -288.005859375 l 1
+ -279.9765625 -288.005859375 l 1
+ -279.9765625 -128 l 1
+-135.979492188 -128 m 1
+ -71.974609375 -128 l 1
+ -71.974609375 -288.005859375 l 1
+ -135.979492188 -288.005859375 l 1
+ -135.979492188 -128 l 1
+EndSplineSet
+Ligature2: "LIGA basics" comma comma comma comma
+EndChar
+
+StartChar: cart.3ticks
+Encoding: 65690 -1 251
+Width: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+-495.989257812 -128 m 1
+ -431.985351562 -128 l 1
+ -431.985351562 -288.005859375 l 1
+ -495.989257812 -288.005859375 l 1
+ -495.989257812 -128 l 1
+-351.9921875 -128 m 1
+ -287.98828125 -128 l 1
+ -287.98828125 -288.005859375 l 1
+ -351.9921875 -288.005859375 l 1
+ -351.9921875 -128 l 1
+-207.995117188 -128 m 1
+ -143.991210938 -128 l 1
+ -143.991210938 -288.005859375 l 1
+ -207.995117188 -288.005859375 l 1
+ -207.995117188 -128 l 1
+EndSplineSet
+Ligature2: "LIGA basics" comma comma comma
+EndChar
+
+StartChar: cart.2ticks
+Encoding: 65691 -1 252
+Width: 0
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+-432.024414062 -288.017578125 m 1
+ -432.024414062 -128 l 1
+ -368.024414062 -128 l 1
+ -368.024414062 -288.017578125 l 1
+ -432.024414062 -288.017578125 l 1
+-271.984375 -288.017578125 m 1
+ -271.984375 -128 l 1
+ -207.984375 -128 l 1
+ -207.984375 -288.017578125 l 1
+ -271.984375 -288.017578125 l 1
+EndSplineSet
+Ligature2: "LIGA basics" comma comma
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 253
+Width: 640
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+320.000976562 320.014648438 m 0
+ 355.35546875 320.014648438 384.015625 291.353515625 384.015625 255.999023438 c 0
+ 384.015625 220.64453125 355.35546875 191.984375 320.000976562 191.984375 c 0
+ 284.646484375 191.984375 255.985351562 220.64453125 255.985351562 255.999023438 c 0
+ 255.985351562 291.353515625 284.646484375 320.014648438 320.000976562 320.014648438 c 0
+EndSplineSet
+MultipleSubs2: "CCMP cartouches" morae.dot cart.hwbody
+Ligature2: "LIGA basics" glyph192
 EndChar
 EndChars
 EndSplineFont

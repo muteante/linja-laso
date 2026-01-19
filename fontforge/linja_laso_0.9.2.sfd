@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759787008
-ModificationTime: 1768141777
+ModificationTime: 1768485366
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -2672,7 +2672,7 @@ Encoding: 166 989509 71
 GlifName: t.olin
 Width: 1000
 GlyphClass: 1
-Flags: W
+Flags: HW
 HStem: 450 100<312.873 407.841 592.159 687.149> 762 100<289.341 407.841 591.025 710.659>
 VStem: 150 100<287.978 411.483 599.791 722.659> 750 100<287.978 411.483 600.179 722.851>
 LayerCount: 2
@@ -2717,7 +2717,6 @@ SplineSet
  175 554 150 604 150 662 c 0
  150 773 239 862 350 862 c 0
 EndSplineSet
-Validated: 1
 MultipleSubs2: "CCMP cartouches" t.olin cart.body
 LCarets2: 3 -75 -75 -75
 Ligature2: "LIGA basics" o l i n
@@ -6825,7 +6824,7 @@ EndChar
 StartChar: t.soko
 Encoding: 230 989569 202
 Width: 1000
-Flags: W
+Flags: HW
 HStem: 150 100<300 450 550 700> 400 100<204 450 550 796> 750 100<389.516 610.484>
 VStem: 450 100<-25 150 250 400>
 LayerCount: 2
@@ -6854,7 +6853,6 @@ SplineSet
  450 400 l 1
  100 400 l 1
 EndSplineSet
-Validated: 1
 LCarets2: 3 -75 -75 -75
 MultipleSubs2: "CCMP cartouches" t.soko cart.body
 Ligature2: "LIGA basics" s o k o
