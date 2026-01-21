@@ -4,7 +4,7 @@ FullName: linja laso
 FamilyName: linja laso
 Weight: Regular
 Copyright: Copyright (c) 2026, mute ante
-Version: 1.1
+Version: 1.1.1
 ItalicAngle: 0
 UnderlinePosition: -62
 UnderlineWidth: 30
@@ -22,25 +22,25 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759787008
-ModificationTime: 1769012196
+ModificationTime: 1769029614
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 59
 VLineGap: 0
 Panose: 2 0 5 3 0 0 0 0 0 0
-OS2TypoAscent: 576
+OS2TypoAscent: 704
 OS2TypoAOffset: 0
-OS2TypoDescent: -64
+OS2TypoDescent: -320
 OS2TypoDOffset: 0
 OS2TypoLinegap: 59
 OS2WinAscent: 552
 OS2WinAOffset: 0
 OS2WinDescent: 39
 OS2WinDOffset: 0
-HheadAscent: 552
+HheadAscent: 704
 HheadAOffset: 0
-HheadDescent: -39
+HheadDescent: -320
 HheadDOffset: 0
 OS2SubXSize: 416
 OS2SubYSize: 448
@@ -83,11 +83,11 @@ ContextSub2: class "CALT colon te spacing" 3 3 3 1
   FClassNames: "All_Others" "colon" "te"
 EndFPST
 ChainSub2: class "CALT cartouches" 3 3 3 1
-  Class: 1319 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.ante n.lipamanka colon.fw
+  Class: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
   Class: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
-  BClass: 1319 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.ante n.lipamanka colon.fw
+  BClass: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
   BClass: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
-  FClass: 1319 space periodcentered zwsp fwsp t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.ante n.lipamanka colon.fw
+  FClass: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
   FClass: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
  1 1 0
   ClsList: 1
@@ -99,14 +99,15 @@ ChainSub2: class "CALT cartouches" 3 3 3 1
   BClassNames: "All_Others" "glyph" "cart"
   FClassNames: "All_Others" "glyph" "cart"
 EndFPST
-LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.1" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
-Encoding: Custom
+LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.1.1" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+Encoding: UnicodeFull
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 168 12 10
+WinInfo: 50 25 10
 BeginPrivate: 5
 BlueShift 1 6
 StdHW 4 [64]
@@ -115,10 +116,10 @@ StemSnapH 32 [7 31 47 54 60 64 80 96 160 191]
 StemSnapV 33 [47 48 62 63 64 66 80 96 159 160]
 EndPrivate
 TeXData: 1 0 0 1048576 524288 349525 838861 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 287 287
+BeginChars: 1114127 293
 
 StartChar: .notdef
-Encoding: 272 -1 0
+Encoding: 1114112 -1 0
 GlifName: _notdef
 Width: 640
 GlyphClass: 1
@@ -137,7 +138,7 @@ EndSplineSet
 EndChar
 
 StartChar: space
-Encoding: 0 32 1
+Encoding: 32 32 1
 GlifName: space
 Width: 320
 GlyphClass: 1
@@ -147,7 +148,7 @@ MultipleSubs2: "CCMP cartouches" space cart.hwbody
 EndChar
 
 StartChar: t.a
-Encoding: 98 989440 2
+Encoding: 989440 989440 2
 GlifName: t.a
 Width: 640
 GlyphClass: 1
@@ -183,7 +184,7 @@ Ligature2: "LIGA basics" a
 EndChar
 
 StartChar: t.akesi
-Encoding: 99 989441 3
+Encoding: 989441 989441 3
 GlifName: t.akesi
 Width: 640
 GlyphClass: 1
@@ -242,7 +243,7 @@ Ligature2: "LIGA basics" a k e s i
 EndChar
 
 StartChar: t.ala
-Encoding: 100 989442 4
+Encoding: 989442 989442 4
 GlifName: t.ala
 Width: 640
 GlyphClass: 1
@@ -271,7 +272,7 @@ Ligature2: "LIGA basics" a l a
 EndChar
 
 StartChar: t.alasa
-Encoding: 101 989443 5
+Encoding: 989443 989443 5
 GlifName: t.alasa
 Width: 640
 GlyphClass: 1
@@ -312,7 +313,7 @@ Ligature2: "LIGA basics" a l a s a
 EndChar
 
 StartChar: t.ale
-Encoding: 102 989444 6
+Encoding: 989444 989444 6
 GlifName: t.ale
 Width: 640
 GlyphClass: 1
@@ -356,7 +357,7 @@ Ligature2: "LIGA basics" a l e
 EndChar
 
 StartChar: t.anpa
-Encoding: 103 989445 7
+Encoding: 989445 989445 7
 GlifName: t.anpa
 Width: 640
 GlyphClass: 1
@@ -387,7 +388,7 @@ Ligature2: "LIGA basics" a n p a
 EndChar
 
 StartChar: t.ante
-Encoding: 104 989446 8
+Encoding: 989446 989446 8
 GlifName: t.ante
 Width: 640
 GlyphClass: 1
@@ -416,7 +417,7 @@ Ligature2: "LIGA basics" a n t e
 EndChar
 
 StartChar: t.anu
-Encoding: 105 989447 9
+Encoding: 989447 989447 9
 GlifName: t.anu
 Width: 640
 GlyphClass: 1
@@ -441,7 +442,7 @@ Ligature2: "LIGA basics" a n u
 EndChar
 
 StartChar: t.awen
-Encoding: 106 989448 10
+Encoding: 989448 989448 10
 GlifName: t.awen
 Width: 640
 GlyphClass: 1
@@ -469,7 +470,7 @@ Ligature2: "LIGA basics" a w e n
 EndChar
 
 StartChar: t.e
-Encoding: 107 989449 11
+Encoding: 989449 989449 11
 GlifName: t.e
 Width: 640
 GlyphClass: 1
@@ -497,7 +498,7 @@ Ligature2: "LIGA basics" e
 EndChar
 
 StartChar: t.en
-Encoding: 108 989450 12
+Encoding: 989450 989450 12
 GlifName: t.en
 Width: 640
 GlyphClass: 1
@@ -527,7 +528,7 @@ Ligature2: "LIGA basics" e n
 EndChar
 
 StartChar: t.esun
-Encoding: 109 989451 13
+Encoding: 989451 989451 13
 GlifName: t.esun
 Width: 640
 GlyphClass: 1
@@ -575,7 +576,7 @@ Ligature2: "LIGA basics" e s u n
 EndChar
 
 StartChar: t.ijo
-Encoding: 110 989452 14
+Encoding: 989452 989452 14
 GlifName: t.ijo
 Width: 640
 GlyphClass: 1
@@ -602,7 +603,7 @@ Ligature2: "LIGA basics" i j o
 EndChar
 
 StartChar: t.ike
-Encoding: 111 989453 15
+Encoding: 989453 989453 15
 GlifName: t.ike
 Width: 640
 GlyphClass: 1
@@ -626,7 +627,7 @@ Ligature2: "LIGA basics" i k e
 EndChar
 
 StartChar: t.ilo
-Encoding: 112 989454 16
+Encoding: 989454 989454 16
 GlifName: t.ilo
 Width: 640
 GlyphClass: 1
@@ -662,7 +663,7 @@ Ligature2: "LIGA basics" i l o
 EndChar
 
 StartChar: t.insa
-Encoding: 113 989455 17
+Encoding: 989455 989455 17
 GlifName: t.insa
 Width: 640
 GlyphClass: 1
@@ -693,7 +694,7 @@ Ligature2: "LIGA basics" i n s a
 EndChar
 
 StartChar: t.jaki
-Encoding: 114 989456 18
+Encoding: 989456 989456 18
 GlifName: t.jaki
 Width: 640
 VWidth: 832
@@ -762,7 +763,7 @@ Ligature2: "LIGA basics" j a k i
 EndChar
 
 StartChar: t.jan
-Encoding: 115 989457 19
+Encoding: 989457 989457 19
 GlifName: t.jan
 Width: 640
 GlyphClass: 1
@@ -797,7 +798,7 @@ Ligature2: "LIGA basics" j a n
 EndChar
 
 StartChar: t.jelo
-Encoding: 116 989458 20
+Encoding: 989458 989458 20
 GlifName: t.jelo
 Width: 640
 GlyphClass: 1
@@ -839,7 +840,7 @@ Ligature2: "LIGA basics" j e l o
 EndChar
 
 StartChar: t.jo
-Encoding: 117 989459 21
+Encoding: 989459 989459 21
 GlifName: t.jo
 Width: 640
 GlyphClass: 1
@@ -876,7 +877,7 @@ Ligature2: "LIGA basics" j o
 EndChar
 
 StartChar: t.kala
-Encoding: 118 989460 22
+Encoding: 989460 989460 22
 GlifName: t.kala
 Width: 640
 GlyphClass: 1
@@ -912,7 +913,7 @@ Ligature2: "LIGA basics" k a l a
 EndChar
 
 StartChar: t.kalama
-Encoding: 119 989461 23
+Encoding: 989461 989461 23
 GlifName: t.kalama
 Width: 640
 GlyphClass: 1
@@ -954,7 +955,7 @@ Ligature2: "LIGA basics" k a l a m a
 EndChar
 
 StartChar: t.kama
-Encoding: 120 989462 24
+Encoding: 989462 989462 24
 GlifName: t.kama
 Width: 640
 GlyphClass: 1
@@ -981,7 +982,7 @@ Ligature2: "LIGA basics" k a m a
 EndChar
 
 StartChar: t.kasi
-Encoding: 121 989463 25
+Encoding: 989463 989463 25
 GlifName: t.kasi
 Width: 640
 GlyphClass: 1
@@ -1018,7 +1019,7 @@ Ligature2: "LIGA basics" k a s i
 EndChar
 
 StartChar: t.ken
-Encoding: 122 989464 26
+Encoding: 989464 989464 26
 GlifName: t.ken
 Width: 640
 GlyphClass: 1
@@ -1056,7 +1057,7 @@ Ligature2: "LIGA basics" k e n
 EndChar
 
 StartChar: t.kepeken
-Encoding: 123 989465 27
+Encoding: 989465 989465 27
 GlifName: t.kepeken
 Width: 640
 GlyphClass: 1
@@ -1102,7 +1103,7 @@ Ligature2: "LIGA basics" k e p e k e n
 EndChar
 
 StartChar: t.kili
-Encoding: 124 989466 28
+Encoding: 989466 989466 28
 GlifName: t.kili
 Width: 640
 GlyphClass: 1
@@ -1154,7 +1155,7 @@ Ligature2: "LIGA basics" k i l i
 EndChar
 
 StartChar: t.kiwen
-Encoding: 125 989467 29
+Encoding: 989467 989467 29
 GlifName: t.kiwen
 Width: 640
 GlyphClass: 1
@@ -1181,7 +1182,7 @@ Ligature2: "LIGA basics" k i w e n
 EndChar
 
 StartChar: t.ko
-Encoding: 126 989468 30
+Encoding: 989468 989468 30
 GlifName: t.ko
 Width: 640
 VWidth: 832
@@ -1246,7 +1247,7 @@ Ligature2: "LIGA basics" k o
 EndChar
 
 StartChar: t.kon
-Encoding: 127 989469 31
+Encoding: 989469 989469 31
 GlifName: t.kon
 Width: 640
 GlyphClass: 1
@@ -1285,7 +1286,7 @@ Ligature2: "LIGA basics" k o n
 EndChar
 
 StartChar: t.kule
-Encoding: 128 989470 32
+Encoding: 989470 989470 32
 GlifName: t.kule
 Width: 640
 GlyphClass: 1
@@ -1321,7 +1322,7 @@ Ligature2: "LIGA basics" k u l e
 EndChar
 
 StartChar: t.kulupu
-Encoding: 129 989471 33
+Encoding: 989471 989471 33
 GlifName: t.kulupu
 Width: 640
 GlyphClass: 1
@@ -1368,7 +1369,7 @@ Ligature2: "LIGA basics" k u l u p u
 EndChar
 
 StartChar: t.kute
-Encoding: 130 989472 34
+Encoding: 989472 989472 34
 GlifName: t.kute
 Width: 640
 GlyphClass: 1
@@ -1400,7 +1401,7 @@ Ligature2: "LIGA basics" k u t e
 EndChar
 
 StartChar: t.la
-Encoding: 131 989473 35
+Encoding: 989473 989473 35
 GlifName: t.la
 Width: 640
 GlyphClass: 1
@@ -1423,7 +1424,7 @@ Ligature2: "LIGA basics" l a
 EndChar
 
 StartChar: t.lape
-Encoding: 132 989474 36
+Encoding: 989474 989474 36
 GlifName: t.lape
 Width: 640
 GlyphClass: 1
@@ -1453,7 +1454,7 @@ Ligature2: "LIGA basics" l a p e
 EndChar
 
 StartChar: t.laso
-Encoding: 133 989475 37
+Encoding: 989475 989475 37
 GlifName: t.laso
 Width: 640
 GlyphClass: 1
@@ -1494,7 +1495,7 @@ Ligature2: "LIGA basics" l a s o
 EndChar
 
 StartChar: t.lawa
-Encoding: 134 989476 38
+Encoding: 989476 989476 38
 GlifName: t.lawa
 Width: 640
 GlyphClass: 1
@@ -1533,7 +1534,7 @@ Ligature2: "LIGA basics" l a w a
 EndChar
 
 StartChar: t.len
-Encoding: 135 989477 39
+Encoding: 989477 989477 39
 GlifName: t.len
 Width: 640
 GlyphClass: 1
@@ -1567,7 +1568,7 @@ Ligature2: "LIGA basics" l e n
 EndChar
 
 StartChar: t.lete
-Encoding: 136 989478 40
+Encoding: 989478 989478 40
 GlifName: t.lete
 Width: 640
 GlyphClass: 1
@@ -1602,7 +1603,7 @@ Ligature2: "LIGA basics" l e t e
 EndChar
 
 StartChar: t.li
-Encoding: 137 989479 41
+Encoding: 989479 989479 41
 GlifName: t.li
 Width: 640
 GlyphClass: 1
@@ -1625,7 +1626,7 @@ Ligature2: "LIGA basics" l i
 EndChar
 
 StartChar: t.lili
-Encoding: 138 989480 42
+Encoding: 989480 989480 42
 GlifName: t.lili
 Width: 640
 GlyphClass: 1
@@ -1647,7 +1648,7 @@ Ligature2: "LIGA basics" l i l i
 EndChar
 
 StartChar: t.linja
-Encoding: 139 989481 43
+Encoding: 989481 989481 43
 GlifName: t.linja
 Width: 640
 GlyphClass: 1
@@ -1681,7 +1682,7 @@ Ligature2: "LIGA basics" l i n j a
 EndChar
 
 StartChar: t.lipu
-Encoding: 140 989482 44
+Encoding: 989482 989482 44
 GlifName: t.lipu
 Width: 640
 GlyphClass: 1
@@ -1708,7 +1709,7 @@ Ligature2: "LIGA basics" l i p u
 EndChar
 
 StartChar: t.loje
-Encoding: 141 989483 45
+Encoding: 989483 989483 45
 GlifName: t.loje
 Width: 640
 GlyphClass: 1
@@ -1742,7 +1743,7 @@ Ligature2: "LIGA basics" l o j e
 EndChar
 
 StartChar: t.lon
-Encoding: 142 989484 46
+Encoding: 989484 989484 46
 GlifName: t.lon
 Width: 640
 GlyphClass: 1
@@ -1769,7 +1770,7 @@ Ligature2: "LIGA basics" l o n
 EndChar
 
 StartChar: t.luka
-Encoding: 143 989485 47
+Encoding: 989485 989485 47
 GlifName: t.luka
 Width: 640
 GlyphClass: 1
@@ -1801,7 +1802,7 @@ Ligature2: "LIGA basics" l u k a
 EndChar
 
 StartChar: t.lukin
-Encoding: 144 989486 48
+Encoding: 989486 989486 48
 GlifName: t.lukin
 Width: 640
 GlyphClass: 1
@@ -1834,7 +1835,7 @@ Ligature2: "LIGA basics" l u k i n
 EndChar
 
 StartChar: t.lupa
-Encoding: 145 989487 49
+Encoding: 989487 989487 49
 GlifName: t.lupa
 Width: 640
 GlyphClass: 1
@@ -1862,7 +1863,7 @@ Ligature2: "LIGA basics" l u p a
 EndChar
 
 StartChar: t.ma
-Encoding: 146 989488 50
+Encoding: 989488 989488 50
 GlifName: t.ma
 Width: 640
 GlyphClass: 1
@@ -1903,7 +1904,7 @@ Ligature2: "LIGA basics" m a
 EndChar
 
 StartChar: t.mama
-Encoding: 147 989489 51
+Encoding: 989489 989489 51
 GlifName: t.mama
 Width: 640
 GlyphClass: 1
@@ -1939,7 +1940,7 @@ Ligature2: "LIGA basics" m a m a
 EndChar
 
 StartChar: t.mani
-Encoding: 148 989490 52
+Encoding: 989490 989490 52
 GlifName: t.mani
 Width: 640
 GlyphClass: 1
@@ -1974,7 +1975,7 @@ Ligature2: "LIGA basics" m a n i
 EndChar
 
 StartChar: t.meli
-Encoding: 149 989491 53
+Encoding: 989491 989491 53
 GlifName: t.meli
 Width: 640
 GlyphClass: 1
@@ -2012,7 +2013,7 @@ Ligature2: "LIGA basics" m e l i
 EndChar
 
 StartChar: t.mi
-Encoding: 150 989492 54
+Encoding: 989492 989492 54
 GlifName: t.mi
 Width: 640
 GlyphClass: 1
@@ -2041,7 +2042,7 @@ Ligature2: "LIGA basics" m i
 EndChar
 
 StartChar: t.mije
-Encoding: 151 989493 55
+Encoding: 989493 989493 55
 GlifName: t.mije
 Width: 640
 GlyphClass: 1
@@ -2077,7 +2078,7 @@ Ligature2: "LIGA basics" m i j e
 EndChar
 
 StartChar: t.moku
-Encoding: 152 989494 56
+Encoding: 989494 989494 56
 GlifName: t.moku
 Width: 640
 GlyphClass: 1
@@ -2118,7 +2119,7 @@ Ligature2: "LIGA basics" m o k u
 EndChar
 
 StartChar: t.moli
-Encoding: 153 989495 57
+Encoding: 989495 989495 57
 GlifName: t.moli
 Width: 640
 GlyphClass: 1
@@ -2167,7 +2168,7 @@ Ligature2: "LIGA basics" m o l i
 EndChar
 
 StartChar: t.monsi
-Encoding: 154 989496 58
+Encoding: 989496 989496 58
 GlifName: t.monsi
 Width: 640
 GlyphClass: 1
@@ -2198,7 +2199,7 @@ Ligature2: "LIGA basics" m o n s i
 EndChar
 
 StartChar: t.mu
-Encoding: 155 989497 59
+Encoding: 989497 989497 59
 GlifName: t.mu
 Width: 640
 GlyphClass: 1
@@ -2248,7 +2249,7 @@ Ligature2: "LIGA basics" m u
 EndChar
 
 StartChar: t.mun
-Encoding: 156 989498 60
+Encoding: 989498 989498 60
 GlifName: t.mun
 Width: 640
 GlyphClass: 1
@@ -2284,7 +2285,7 @@ Ligature2: "LIGA basics" m u n
 EndChar
 
 StartChar: t.musi
-Encoding: 157 989499 61
+Encoding: 989499 989499 61
 GlifName: t.musi
 Width: 640
 GlyphClass: 1
@@ -2330,7 +2331,7 @@ Ligature2: "LIGA basics" m u s i
 EndChar
 
 StartChar: t.mute
-Encoding: 158 989500 62
+Encoding: 989500 989500 62
 GlifName: t.mute
 Width: 640
 GlyphClass: 1
@@ -2362,7 +2363,7 @@ Ligature2: "LIGA basics" m u t e
 EndChar
 
 StartChar: t.nanpa
-Encoding: 159 989501 63
+Encoding: 989501 989501 63
 GlifName: t.nanpa
 Width: 640
 GlyphClass: 1
@@ -2413,7 +2414,7 @@ Ligature2: "LIGA basics" n a n p a
 EndChar
 
 StartChar: t.nasa
-Encoding: 160 989502 64
+Encoding: 989502 989502 64
 GlifName: t.nasa
 Width: 640
 GlyphClass: 1
@@ -2449,7 +2450,7 @@ Ligature2: "LIGA basics" n a s a
 EndChar
 
 StartChar: t.nasin
-Encoding: 161 989503 65
+Encoding: 989503 989503 65
 GlifName: t.nasin
 Width: 640
 GlyphClass: 1
@@ -2478,7 +2479,7 @@ Ligature2: "LIGA basics" n a s i n
 EndChar
 
 StartChar: t.nena
-Encoding: 162 989504 66
+Encoding: 989504 989504 66
 GlifName: t.nena
 Width: 640
 GlyphClass: 1
@@ -2506,7 +2507,7 @@ Ligature2: "LIGA basics" n e n a
 EndChar
 
 StartChar: t.ni
-Encoding: 163 989505 67
+Encoding: 989505 989505 67
 GlifName: t.ni
 Width: 640
 GlyphClass: 1
@@ -2533,7 +2534,7 @@ Ligature2: "LIGA basics" n i
 EndChar
 
 StartChar: t.nimi
-Encoding: 164 989506 68
+Encoding: 989506 989506 68
 GlifName: t.nimi
 Width: 640
 GlyphClass: 1
@@ -2568,7 +2569,7 @@ Ligature2: "LIGA basics" n i m i
 EndChar
 
 StartChar: t.noka
-Encoding: 165 989507 69
+Encoding: 989507 989507 69
 GlifName: t.noka
 Width: 640
 GlyphClass: 1
@@ -2600,7 +2601,7 @@ Ligature2: "LIGA basics" n o k a
 EndChar
 
 StartChar: t.o
-Encoding: 166 989508 70
+Encoding: 989508 989508 70
 GlifName: t.o
 Width: 640
 GlyphClass: 1
@@ -2631,7 +2632,7 @@ Ligature2: "LIGA basics" o
 EndChar
 
 StartChar: t.olin
-Encoding: 167 989509 71
+Encoding: 989509 989509 71
 GlifName: t.olin
 Width: 640
 GlyphClass: 1
@@ -2684,7 +2685,7 @@ Ligature2: "LIGA basics" o l i n
 EndChar
 
 StartChar: t.ona
-Encoding: 168 989510 72
+Encoding: 989510 989510 72
 GlifName: t.ona
 Width: 640
 GlyphClass: 1
@@ -2713,7 +2714,7 @@ Ligature2: "LIGA basics" o n a
 EndChar
 
 StartChar: t.open
-Encoding: 169 989511 73
+Encoding: 989511 989511 73
 GlifName: t.open
 Width: 640
 GlyphClass: 1
@@ -2744,7 +2745,7 @@ Ligature2: "LIGA basics" o p e n
 EndChar
 
 StartChar: t.pakala
-Encoding: 170 989512 74
+Encoding: 989512 989512 74
 GlifName: t.pakala
 Width: 640
 GlyphClass: 1
@@ -2780,7 +2781,7 @@ Ligature2: "LIGA basics" p a k a l a
 EndChar
 
 StartChar: t.pali
-Encoding: 171 989513 75
+Encoding: 989513 989513 75
 GlifName: t.pali
 Width: 640
 GlyphClass: 1
@@ -2821,7 +2822,7 @@ Ligature2: "LIGA basics" p a l i
 EndChar
 
 StartChar: t.palisa
-Encoding: 172 989514 76
+Encoding: 989514 989514 76
 GlifName: t.palisa
 Width: 640
 GlyphClass: 1
@@ -2852,7 +2853,7 @@ Ligature2: "LIGA basics" p a l i s a
 EndChar
 
 StartChar: t.pan
-Encoding: 173 989515 77
+Encoding: 989515 989515 77
 GlifName: t.pan
 Width: 640
 GlyphClass: 1
@@ -2888,7 +2889,7 @@ Ligature2: "LIGA basics" p a n
 EndChar
 
 StartChar: t.pana
-Encoding: 174 989516 78
+Encoding: 989516 989516 78
 GlifName: t.pana
 Width: 640
 GlyphClass: 1
@@ -2936,7 +2937,7 @@ Ligature2: "LIGA basics" p a n a
 EndChar
 
 StartChar: t.pi
-Encoding: 175 989517 79
+Encoding: 989517 989517 79
 GlifName: t.pi
 Width: 640
 GlyphClass: 1
@@ -2960,7 +2961,7 @@ Ligature2: "LIGA basics" p i
 EndChar
 
 StartChar: t.pilin
-Encoding: 176 989518 80
+Encoding: 989518 989518 80
 GlifName: t.pilin
 Width: 640
 GlyphClass: 1
@@ -2995,7 +2996,7 @@ Ligature2: "LIGA basics" p i l i n
 EndChar
 
 StartChar: t.pimeja
-Encoding: 177 989519 81
+Encoding: 989519 989519 81
 GlifName: t.pimeja
 Width: 640
 GlyphClass: 1
@@ -3034,7 +3035,7 @@ Ligature2: "LIGA basics" p i m e j a
 EndChar
 
 StartChar: t.pini
-Encoding: 178 989520 82
+Encoding: 989520 989520 82
 GlifName: t.pini
 Width: 640
 GlyphClass: 1
@@ -3063,7 +3064,7 @@ Ligature2: "LIGA basics" p i n i
 EndChar
 
 StartChar: t.pipi
-Encoding: 179 989521 83
+Encoding: 989521 989521 83
 GlifName: t.pipi
 Width: 640
 GlyphClass: 1
@@ -3119,7 +3120,7 @@ Ligature2: "LIGA basics" p i p i
 EndChar
 
 StartChar: t.poka
-Encoding: 180 989522 84
+Encoding: 989522 989522 84
 GlifName: t.poka
 Width: 640
 GlyphClass: 1
@@ -3150,7 +3151,7 @@ Ligature2: "LIGA basics" p o k a
 EndChar
 
 StartChar: t.poki
-Encoding: 181 989523 85
+Encoding: 989523 989523 85
 GlifName: t.poki
 Width: 640
 GlyphClass: 1
@@ -3176,7 +3177,7 @@ Ligature2: "LIGA basics" p o k i
 EndChar
 
 StartChar: t.pona
-Encoding: 182 989524 86
+Encoding: 989524 989524 86
 GlifName: t.pona
 Width: 640
 GlyphClass: 1
@@ -3200,7 +3201,7 @@ Ligature2: "LIGA basics" p o n a
 EndChar
 
 StartChar: t.pu
-Encoding: 183 989525 87
+Encoding: 989525 989525 87
 GlifName: t.pu
 Width: 640
 GlyphClass: 1
@@ -3252,7 +3253,7 @@ Ligature2: "LIGA basics" p u
 EndChar
 
 StartChar: t.sama
-Encoding: 184 989526 88
+Encoding: 989526 989526 88
 GlifName: t.sama
 Width: 640
 GlyphClass: 1
@@ -3278,7 +3279,7 @@ Ligature2: "LIGA basics" s a m a
 EndChar
 
 StartChar: t.seli
-Encoding: 185 989527 89
+Encoding: 989527 989527 89
 GlifName: t.seli
 Width: 640
 GlyphClass: 1
@@ -3315,7 +3316,7 @@ Ligature2: "LIGA basics" s e l i
 EndChar
 
 StartChar: t.selo
-Encoding: 186 989528 90
+Encoding: 989528 989528 90
 GlifName: t.selo
 Width: 640
 GlyphClass: 1
@@ -3349,7 +3350,7 @@ Ligature2: "LIGA basics" s e l o
 EndChar
 
 StartChar: t.seme
-Encoding: 187 989529 91
+Encoding: 989529 989529 91
 GlifName: t.seme
 Width: 640
 GlyphClass: 1
@@ -3386,7 +3387,7 @@ Ligature2: "LIGA basics" s e m e
 EndChar
 
 StartChar: t.sewi
-Encoding: 188 989530 92
+Encoding: 989530 989530 92
 GlifName: t.sewi
 Width: 640
 GlyphClass: 1
@@ -3432,7 +3433,7 @@ Ligature2: "LIGA basics" s e w i
 EndChar
 
 StartChar: t.sijelo
-Encoding: 189 989531 93
+Encoding: 989531 989531 93
 GlifName: t.sijelo
 Width: 640
 GlyphClass: 1
@@ -3462,7 +3463,7 @@ Ligature2: "LIGA basics" s i j e l o
 EndChar
 
 StartChar: t.sike
-Encoding: 190 989532 94
+Encoding: 989532 989532 94
 GlifName: t.sike
 Width: 640
 GlyphClass: 1
@@ -3499,7 +3500,7 @@ Ligature2: "LIGA basics" s i k e
 EndChar
 
 StartChar: t.sin
-Encoding: 191 989533 95
+Encoding: 989533 989533 95
 GlifName: t.sin
 Width: 640
 GlyphClass: 1
@@ -3531,7 +3532,7 @@ Ligature2: "LIGA basics" s i n
 EndChar
 
 StartChar: t.sina
-Encoding: 192 989534 96
+Encoding: 989534 989534 96
 GlifName: t.sina
 Width: 640
 GlyphClass: 1
@@ -3561,7 +3562,7 @@ Ligature2: "LIGA basics" s i n a
 EndChar
 
 StartChar: t.sinpin
-Encoding: 193 989535 97
+Encoding: 989535 989535 97
 GlifName: t.sinpin
 Width: 640
 GlyphClass: 1
@@ -3592,7 +3593,7 @@ Ligature2: "LIGA basics" s i n p i n
 EndChar
 
 StartChar: t.sitelen
-Encoding: 194 989536 98
+Encoding: 989536 989536 98
 GlifName: t.sitelen
 Width: 640
 GlyphClass: 1
@@ -3634,7 +3635,7 @@ Ligature2: "LIGA basics" s i t e l e n
 EndChar
 
 StartChar: t.sona
-Encoding: 195 989537 99
+Encoding: 989537 989537 99
 GlifName: t.sona
 Width: 640
 GlyphClass: 1
@@ -3676,7 +3677,7 @@ Ligature2: "LIGA basics" s o n a
 EndChar
 
 StartChar: t.soweli
-Encoding: 196 989538 100
+Encoding: 989538 989538 100
 GlifName: t.soweli
 Width: 640
 GlyphClass: 1
@@ -3730,7 +3731,7 @@ Ligature2: "LIGA basics" s o w e l i
 EndChar
 
 StartChar: t.suli
-Encoding: 197 989539 101
+Encoding: 989539 989539 101
 GlifName: t.suli
 Width: 640
 GlyphClass: 1
@@ -3755,7 +3756,7 @@ Ligature2: "LIGA basics" s u l i
 EndChar
 
 StartChar: t.suno
-Encoding: 198 989540 102
+Encoding: 989540 989540 102
 GlifName: t.suno
 Width: 640
 GlyphClass: 1
@@ -3794,7 +3795,7 @@ Ligature2: "LIGA basics" s u n o
 EndChar
 
 StartChar: t.supa
-Encoding: 199 989541 103
+Encoding: 989541 989541 103
 GlifName: t.supa
 Width: 640
 GlyphClass: 1
@@ -3824,7 +3825,7 @@ Ligature2: "LIGA basics" s u p a
 EndChar
 
 StartChar: t.suwi
-Encoding: 200 989542 104
+Encoding: 989542 989542 104
 GlifName: t.suwi
 Width: 640
 GlyphClass: 1
@@ -3862,7 +3863,7 @@ Ligature2: "LIGA basics" s u w i
 EndChar
 
 StartChar: t.tan
-Encoding: 201 989543 105
+Encoding: 989543 989543 105
 GlifName: t.tan
 Width: 640
 GlyphClass: 1
@@ -3895,7 +3896,7 @@ Ligature2: "LIGA basics" t a n
 EndChar
 
 StartChar: t.taso
-Encoding: 202 989544 106
+Encoding: 989544 989544 106
 GlifName: t.taso
 Width: 640
 GlyphClass: 1
@@ -3921,7 +3922,7 @@ Ligature2: "LIGA basics" t a s o
 EndChar
 
 StartChar: t.tawa
-Encoding: 203 989545 107
+Encoding: 989545 989545 107
 GlifName: t.tawa
 Width: 640
 GlyphClass: 1
@@ -3949,7 +3950,7 @@ Ligature2: "LIGA basics" t a w a
 EndChar
 
 StartChar: t.telo
-Encoding: 204 989546 108
+Encoding: 989546 989546 108
 GlifName: t.telo
 Width: 640
 GlyphClass: 1
@@ -3988,7 +3989,7 @@ Ligature2: "LIGA basics" t e l o
 EndChar
 
 StartChar: t.tenpo
-Encoding: 205 989547 109
+Encoding: 989547 989547 109
 GlifName: t.tenpo
 Width: 640
 GlyphClass: 1
@@ -4024,7 +4025,7 @@ Ligature2: "LIGA basics" t e n p o
 EndChar
 
 StartChar: t.toki
-Encoding: 206 989548 110
+Encoding: 989548 989548 110
 GlifName: t.toki
 Width: 640
 GlyphClass: 1
@@ -4066,7 +4067,7 @@ Ligature2: "LIGA basics" t o k i
 EndChar
 
 StartChar: t.tomo
-Encoding: 207 989549 111
+Encoding: 989549 989549 111
 GlifName: t.tomo
 Width: 640
 GlyphClass: 1
@@ -4095,7 +4096,7 @@ Ligature2: "LIGA basics" t o m o
 EndChar
 
 StartChar: t.tu
-Encoding: 208 989550 112
+Encoding: 989550 989550 112
 GlifName: t.tu
 Width: 640
 GlyphClass: 1
@@ -4122,7 +4123,7 @@ Ligature2: "LIGA basics" t u
 EndChar
 
 StartChar: t.unpa
-Encoding: 209 989551 113
+Encoding: 989551 989551 113
 GlifName: t.unpa
 Width: 640
 GlyphClass: 1
@@ -4171,7 +4172,7 @@ Ligature2: "LIGA basics" u n p a
 EndChar
 
 StartChar: t.uta
-Encoding: 210 989552 114
+Encoding: 989552 989552 114
 GlifName: t.uta
 Width: 640
 GlyphClass: 1
@@ -4203,7 +4204,7 @@ Ligature2: "LIGA basics" u t a
 EndChar
 
 StartChar: t.utala
-Encoding: 211 989553 115
+Encoding: 989553 989553 115
 GlifName: t.utala
 Width: 640
 GlyphClass: 1
@@ -4235,7 +4236,7 @@ Ligature2: "LIGA basics" u t a l a
 EndChar
 
 StartChar: t.walo
-Encoding: 212 989554 116
+Encoding: 989554 989554 116
 GlifName: t.walo
 Width: 640
 GlyphClass: 1
@@ -4267,7 +4268,7 @@ Ligature2: "LIGA basics" w a l o
 EndChar
 
 StartChar: t.wan
-Encoding: 213 989555 117
+Encoding: 989555 989555 117
 GlifName: t.wan
 Width: 640
 GlyphClass: 1
@@ -4292,7 +4293,7 @@ Ligature2: "LIGA basics" w a n
 EndChar
 
 StartChar: t.waso
-Encoding: 214 989556 118
+Encoding: 989556 989556 118
 GlifName: t.waso
 Width: 640
 GlyphClass: 1
@@ -4331,7 +4332,7 @@ Ligature2: "LIGA basics" w a s o
 EndChar
 
 StartChar: t.wawa
-Encoding: 215 989557 119
+Encoding: 989557 989557 119
 GlifName: t.wawa
 Width: 640
 GlyphClass: 1
@@ -4368,7 +4369,7 @@ Ligature2: "LIGA basics" w a w a
 EndChar
 
 StartChar: t.weka
-Encoding: 216 989558 120
+Encoding: 989558 989558 120
 GlifName: t.weka
 Width: 640
 GlyphClass: 1
@@ -4404,7 +4405,7 @@ Ligature2: "LIGA basics" w e k a
 EndChar
 
 StartChar: t.wile
-Encoding: 217 989559 121
+Encoding: 989559 989559 121
 GlifName: t.wile
 Width: 640
 GlyphClass: 1
@@ -4442,7 +4443,7 @@ Ligature2: "LIGA basics" w i l e
 EndChar
 
 StartChar: i
-Encoding: 73 105 122
+Encoding: 105 105 122
 GlifName: glyph122
 Width: 320
 VWidth: 576
@@ -4467,10 +4468,11 @@ SplineSet
  133.508789062 400 112.000976562 421.5078125 112.000976562 448 c 0xf0
  112.000976562 474.491210938 133.508789062 496 160.000976562 496 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" i cart.hwbody
 EndChar
 
 StartChar: j
-Encoding: 74 106 123
+Encoding: 106 106 123
 GlifName: glyph123
 Width: 320
 VWidth: -64
@@ -4499,10 +4501,11 @@ SplineSet
  181.5078125 400 160 421.5078125 160 448 c 0xf0
  160 474.491210938 181.5078125 496 208 496 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" j cart.hwbody
 EndChar
 
 StartChar: o
-Encoding: 79 111 124
+Encoding: 111 111 124
 GlifName: glyph124
 Width: 320
 VWidth: -64
@@ -4527,10 +4530,11 @@ SplineSet
  32 231.999023438 l 2
  32 302.911132812 89.087890625 359.999023438 160 359.999023438 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" o cart.hwbody
 EndChar
 
 StartChar: a
-Encoding: 65 97 125
+Encoding: 97 97 125
 GlifName: glyph125
 Width: 320
 VWidth: -64
@@ -4562,10 +4566,11 @@ SplineSet
  64 232 19.999824851 284.571245582 19.999824851 284.862483311 c 0
  19.999824851 286.451372718 66.7126260107 360 160 360 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" a cart.hwbody
 EndChar
 
 StartChar: A
-Encoding: 33 65 126
+Encoding: 65 65 126
 Width: 320
 VWidth: 576
 Flags: W
@@ -4587,10 +4592,11 @@ SplineSet
  28.009765625 0.015625 l 1
  131.998046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" A cart.hwbody
 EndChar
 
 StartChar: B
-Encoding: 34 66 127
+Encoding: 66 66 127
 Width: 320
 VWidth: 576
 Flags: W
@@ -4622,10 +4628,11 @@ SplineSet
  157.401367188 288.004882812 l 2
  201.03515625 288.76171875 236.014648438 324.34765625 236.014648438 367.987304688 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" B cart.hwbody
 EndChar
 
 StartChar: C
-Encoding: 35 67 128
+Encoding: 67 67 128
 Width: 320
 VWidth: 584
 Flags: W
@@ -4649,10 +4656,11 @@ SplineSet
  128.646484375 455.998046875 99.990234375 427.341796875 99.9921875 391.9921875 c 1
  99.953125 391.9921875 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" C cart.hwbody
 EndChar
 
 StartChar: D
-Encoding: 36 68 129
+Encoding: 68 68 129
 Width: 320
 VWidth: 576
 Flags: W
@@ -4682,10 +4690,11 @@ SplineSet
  35.982421875 -0.0009765625 l 1
  35.982421875 511.999023438 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" D cart.hwbody
 EndChar
 
 StartChar: E
-Encoding: 37 69 130
+Encoding: 69 69 130
 Width: 320
 VWidth: 576
 Flags: W
@@ -4709,10 +4718,11 @@ SplineSet
  99.9931640625 0 l 1
  35.9931640625 0 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" E cart.hwbody
 EndChar
 
 StartChar: F
-Encoding: 38 70 131
+Encoding: 70 70 131
 Width: 320
 VWidth: 576
 Flags: W
@@ -4735,10 +4745,11 @@ SplineSet
  36.021484375 0 l 1
  36.021484375 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" F cart.hwbody
 EndChar
 
 StartChar: G
-Encoding: 39 71 132
+Encoding: 71 71 132
 Width: 320
 VWidth: 584
 Flags: W
@@ -4768,10 +4779,11 @@ SplineSet
  35.984375 392.017578125 l 2
  35.994140625 462.654296875 93.353515625 520 163.9921875 520 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" G cart.hwbody
 EndChar
 
 StartChar: H
-Encoding: 40 72 133
+Encoding: 72 72 133
 Width: 320
 VWidth: 576
 Flags: W
@@ -4794,10 +4806,11 @@ SplineSet
  36.005859375 0 l 1
  36.005859375 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" H cart.hwbody
 EndChar
 
 StartChar: I
-Encoding: 41 73 134
+Encoding: 73 73 134
 Width: 320
 VWidth: 576
 Flags: W
@@ -4822,10 +4835,11 @@ SplineSet
  64.001953125 448 l 1
  64.001953125 512 l 1xe0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" I cart.hwbody
 EndChar
 
 StartChar: J
-Encoding: 42 74 135
+Encoding: 74 74 135
 Width: 320
 VWidth: 576
 Flags: W
@@ -4848,10 +4862,11 @@ SplineSet
  100.000976562 511.998046875 l 1
  291.970703125 511.998046875 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" J cart.hwbody
 EndChar
 
 StartChar: K
-Encoding: 43 75 136
+Encoding: 75 75 136
 Width: 320
 VWidth: 576
 Flags: W
@@ -4875,10 +4890,11 @@ SplineSet
  35.9912109375 0 l 1
  35.9912109375 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" K cart.hwbody
 EndChar
 
 StartChar: L
-Encoding: 44 76 137
+Encoding: 76 76 137
 Width: 320
 VWidth: 576
 Flags: W
@@ -4895,10 +4911,11 @@ SplineSet
  292 63.978515625 l 1
  292 -0.021484375 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" L cart.hwbody
 EndChar
 
 StartChar: M
-Encoding: 45 77 138
+Encoding: 77 77 138
 Width: 320
 VWidth: 576
 Flags: W
@@ -4922,10 +4939,11 @@ SplineSet
  27.998046875 0.0166015625 l 1
  27.998046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" M cart.hwbody
 EndChar
 
 StartChar: N
-Encoding: 46 78 139
+Encoding: 78 78 139
 Width: 320
 VWidth: 576
 Flags: W
@@ -4948,10 +4966,11 @@ SplineSet
  36.005859375 0 l 1
  36.005859375 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" N cart.hwbody
 EndChar
 
 StartChar: O
-Encoding: 47 79 140
+Encoding: 79 79 140
 Width: 320
 VWidth: 576
 Flags: W
@@ -4979,10 +4998,11 @@ SplineSet
  35.9921875 384.01171875 l 2
  35.998046875 454.651367188 93.359375 512 164 512 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" O cart.hwbody
 EndChar
 
 StartChar: P
-Encoding: 48 80 141
+Encoding: 80 80 141
 Width: 320
 VWidth: 576
 Flags: W
@@ -5009,10 +5029,11 @@ SplineSet
  100.00390625 447.999023438 l 1
  100.00390625 288.002929688 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" P cart.hwbody
 EndChar
 
 StartChar: Q
-Encoding: 49 81 142
+Encoding: 81 81 142
 Width: 320
 VWidth: 584
 Flags: W
@@ -5046,10 +5067,11 @@ SplineSet
  32.0009765625 391.9921875 l 2
  32.0009765625 462.637695312 89.3642578125 520 160.008789062 520 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" Q cart.hwbody
 EndChar
 
 StartChar: R
-Encoding: 50 82 143
+Encoding: 82 82 143
 Width: 320
 VWidth: 576
 Flags: W
@@ -5079,10 +5101,11 @@ SplineSet
  35.98046875 0 l 1
  35.98046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" R cart.hwbody
 EndChar
 
 StartChar: S
-Encoding: 51 83 144
+Encoding: 83 83 144
 Width: 320
 VWidth: 576
 Flags: W
@@ -5111,10 +5134,11 @@ SplineSet
  227.989257812 151.99609375 l 2
  227.9921875 187.345703125 199.334960938 216 163.983398438 216 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" S cart.hwbody
 EndChar
 
 StartChar: T
-Encoding: 52 84 145
+Encoding: 84 84 145
 Width: 320
 VWidth: 576
 Flags: W
@@ -5135,10 +5159,11 @@ SplineSet
  36 448 l 1
  36 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" T cart.hwbody
 EndChar
 
 StartChar: U
-Encoding: 53 85 146
+Encoding: 85 85 146
 Width: 320
 VWidth: 576
 Flags: W
@@ -5159,10 +5184,11 @@ SplineSet
  100 127.991210938 l 2
  99.99609375 92.6328125 128.65234375 63.978515625 164.01171875 63.978515625 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" U cart.hwbody
 EndChar
 
 StartChar: V
-Encoding: 54 86 147
+Encoding: 86 86 147
 Width: 320
 VWidth: 576
 Flags: W
@@ -5179,10 +5205,11 @@ SplineSet
  196.013671875 0.0166015625 l 1
  132.009765625 0.0166015625 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" V cart.hwbody
 EndChar
 
 StartChar: W
-Encoding: 55 87 148
+Encoding: 87 87 148
 Width: 320
 VWidth: 576
 Flags: W
@@ -5206,10 +5233,11 @@ SplineSet
  92.001953125 0.0166015625 l 1
  27.998046875 0.0166015625 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" W cart.hwbody
 EndChar
 
 StartChar: X
-Encoding: 56 88 149
+Encoding: 88 88 149
 Width: 320
 VWidth: 576
 Flags: W
@@ -5231,10 +5259,11 @@ SplineSet
  129.56640625 256.0078125 l 1
  27.998046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" X cart.hwbody
 EndChar
 
 StartChar: Y
-Encoding: 57 89 150
+Encoding: 89 89 150
 Width: 320
 VWidth: 576
 Flags: W
@@ -5254,10 +5283,11 @@ SplineSet
  132.009765625 249.888671875 l 1
  27.998046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" Y cart.hwbody
 EndChar
 
 StartChar: Z
-Encoding: 58 90 151
+Encoding: 90 90 151
 Width: 320
 VWidth: 576
 Flags: W
@@ -5277,10 +5307,11 @@ SplineSet
  36.00390625 447.99609375 l 1
  36.00390625 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" Z cart.hwbody
 EndChar
 
 StartChar: b
-Encoding: 66 98 152
+Encoding: 98 98 152
 Width: 320
 VWidth: 576
 Flags: W
@@ -5308,10 +5339,11 @@ SplineSet
  31.998046875 -0.0009765625 l 1x7c
  31.998046875 511.999023438 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" b cart.hwbody
 EndChar
 
 StartChar: c
-Encoding: 67 99 153
+Encoding: 99 99 153
 Width: 320
 VWidth: 584
 Flags: W
@@ -5335,10 +5367,11 @@ SplineSet
  31.9990234375 227.999023438 l 2
  31.9990234375 301.127929688 90.87109375 359.999023438 163.999023438 359.999023438 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" c cart.hwbody
 EndChar
 
 StartChar: d
-Encoding: 68 100 154
+Encoding: 100 100 154
 Width: 320
 VWidth: 576
 Flags: W
@@ -5366,10 +5399,11 @@ SplineSet
  224.000976562 511.999023438 l 1
  287.999023438 511.999023438 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" d cart.hwbody
 EndChar
 
 StartChar: e
-Encoding: 69 101 155
+Encoding: 101 101 155
 Width: 320
 VWidth: 576
 Flags: W
@@ -5398,10 +5432,11 @@ SplineSet
  32 232 l 2
  32 302.64453125 89.3544921875 360 160 360 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" e cart.hwbody
 EndChar
 
 StartChar: f
-Encoding: 70 102 156
+Encoding: 102 102 156
 Width: 320
 VWidth: 576
 Flags: W
@@ -5428,10 +5463,11 @@ SplineSet
  87.9970703125 412 l 2
  87.9970703125 471.60546875 136.389648438 520 195.995117188 520 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" f cart.hwbody
 EndChar
 
 StartChar: g
-Encoding: 71 103 157
+Encoding: 103 103 157
 Width: 320
 VWidth: 584
 Flags: W
@@ -5465,10 +5501,11 @@ SplineSet
  32.001953125 248 l 2
  32.001953125 310.047851562 81.9541015625 360 144.001953125 360 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" g cart.hwbody
 EndChar
 
 StartChar: h
-Encoding: 72 104 158
+Encoding: 104 104 158
 Width: 320
 VWidth: 576
 Flags: W
@@ -5491,10 +5528,11 @@ SplineSet
  31.9990234375 -0.0009765625 l 1
  32.0009765625 511.999023438 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" h cart.hwbody
 EndChar
 
 StartChar: k
-Encoding: 75 107 159
+Encoding: 107 107 159
 Width: 320
 VWidth: 576
 Flags: W
@@ -5516,10 +5554,11 @@ SplineSet
  31.998046875 -0 l 1
  31.998046875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" k cart.hwbody
 EndChar
 
 StartChar: l
-Encoding: 76 108 160
+Encoding: 108 108 160
 Width: 320
 VWidth: 576
 Flags: W
@@ -5540,10 +5579,11 @@ SplineSet
  63.9970703125 448 l 1
  63.9970703125 512 l 1xe0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" l cart.hwbody
 EndChar
 
 StartChar: m
-Encoding: 77 109 161
+Encoding: 109 109 161
 Width: 320
 VWidth: 576
 Flags: W
@@ -5575,10 +5615,11 @@ SplineSet
  88 308.33203125 l 1
  88.1826171875 336.920898438 111.41015625 360 140 360 c 0xdc
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" m cart.hwbody
 EndChar
 
 StartChar: n
-Encoding: 78 110 162
+Encoding: 110 110 162
 Width: 320
 VWidth: 576
 Flags: W
@@ -5601,10 +5642,11 @@ SplineSet
  32 -0.0009765625 l 1
  32 351.999023438 l 1xb8
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" n cart.hwbody
 EndChar
 
 StartChar: p
-Encoding: 80 112 163
+Encoding: 112 112 163
 Width: 320
 VWidth: 576
 Flags: W
@@ -5632,10 +5674,11 @@ SplineSet
  95.9970703125 -64.0009765625 l 1
  31.9990234375 -64.0009765625 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" p cart.hwbody
 EndChar
 
 StartChar: q
-Encoding: 81 113 164
+Encoding: 113 113 164
 Width: 320
 VWidth: 584
 Flags: W
@@ -5663,10 +5706,11 @@ SplineSet
  288 351.999023438 l 1xb8
  287.999023438 -64.0009765625 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" q cart.hwbody
 EndChar
 
 StartChar: r
-Encoding: 82 114 165
+Encoding: 114 114 165
 Width: 320
 VWidth: 576
 Flags: W
@@ -5690,10 +5734,11 @@ SplineSet
  95.998046875 324.001953125 l 1
  117.1328125 346.192382812 146.961914062 360 179.99609375 360 c 0xd0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" r cart.hwbody
 EndChar
 
 StartChar: s
-Encoding: 83 115 166
+Encoding: 115 115 166
 Width: 320
 VWidth: 576
 Flags: W
@@ -5724,10 +5769,11 @@ SplineSet
  70.5986328125 144 23.998046875 190.600585938 23.998046875 248 c 0
  23.998046875 305.397460938 70.599609375 351.998046875 127.998046875 351.998046875 c 2
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" s cart.hwbody
 EndChar
 
 StartChar: t
-Encoding: 84 116 167
+Encoding: 116 116 167
 Width: 320
 VWidth: 576
 Flags: W
@@ -5754,10 +5800,11 @@ SplineSet
  87.9970703125 352 l 1
  87.9970703125 448 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" t cart.hwbody
 EndChar
 
 StartChar: u
-Encoding: 85 117 168
+Encoding: 117 117 168
 Width: 320
 VWidth: 576
 Flags: W
@@ -5780,10 +5827,11 @@ SplineSet
  288.001953125 352 l 1
  288.001953125 0 l 1x78
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" u cart.hwbody
 EndChar
 
 StartChar: v
-Encoding: 86 118 169
+Encoding: 118 118 169
 Width: 320
 VWidth: 576
 Flags: W
@@ -5800,10 +5848,11 @@ SplineSet
  127.998046875 -0 l 1
  32 352 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" v cart.hwbody
 EndChar
 
 StartChar: w
-Encoding: 87 119 170
+Encoding: 119 119 170
 Width: 320
 VWidth: 576
 Flags: W
@@ -5830,10 +5879,11 @@ SplineSet
  70.6982421875 -0 l 1
  35.34375 111.014648438 16.0009765625 229.33203125 16.0009765625 352 c 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" w cart.hwbody
 EndChar
 
 StartChar: x
-Encoding: 88 120 171
+Encoding: 120 120 171
 Width: 320
 VWidth: 576
 Flags: W
@@ -5855,10 +5905,11 @@ SplineSet
  123.259765625 176 l 1
  23.998046875 352 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" x cart.hwbody
 EndChar
 
 StartChar: y
-Encoding: 89 121 172
+Encoding: 121 121 172
 Width: 320
 VWidth: 576
 Flags: W
@@ -5880,10 +5931,11 @@ SplineSet
  125.515625 99.287109375 l 1
  24 352 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" y cart.hwbody
 EndChar
 
 StartChar: z
-Encoding: 90 122 173
+Encoding: 122 122 173
 Width: 320
 VWidth: 576
 Flags: W
@@ -5904,10 +5956,11 @@ SplineSet
  32.001953125 288 l 1
  32.001953125 352 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" z cart.hwbody
 EndChar
 
 StartChar: zero
-Encoding: 16 48 174
+Encoding: 48 48 174
 Width: 320
 VWidth: 584
 Flags: W
@@ -5938,10 +5991,11 @@ SplineSet
  32.0009765625 392 l 2
  32.0009765625 462.912109375 89.0888671875 520 160.000976562 520 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" zero cart.hwbody
 EndChar
 
 StartChar: one
-Encoding: 17 49 175
+Encoding: 49 49 175
 Width: 320
 VWidth: 576
 Flags: W
@@ -5965,10 +6019,11 @@ SplineSet
  36.009765625 415.994140625 l 1
  131.9921875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" one cart.hwbody
 EndChar
 
 StartChar: two
-Encoding: 18 50 176
+Encoding: 50 50 176
 Width: 320
 VWidth: 584
 Flags: W
@@ -5996,10 +6051,11 @@ SplineSet
  212.626953125 323.450195312 l 2
  220.125976562 334.189453125 223.99609375 346.938476562 223.99609375 360.000976562 c 2
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" two cart.hwbody
 EndChar
 
 StartChar: three
-Encoding: 19 51 177
+Encoding: 51 51 177
 Width: 320
 VWidth: 584
 Flags: W
@@ -6037,10 +6093,11 @@ SplineSet
  96 368.002929688 l 1
  32.001953125 368.002929688 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" three cart.hwbody
 EndChar
 
 StartChar: four
-Encoding: 20 52 178
+Encoding: 52 52 178
 Width: 320
 VWidth: 576
 Flags: W
@@ -6066,10 +6123,11 @@ SplineSet
  35.994140625 192.02734375 l 1
  98.7861328125 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" four cart.hwbody
 EndChar
 
 StartChar: five
-Encoding: 21 53 179
+Encoding: 53 53 179
 Width: 320
 VWidth: 576
 Flags: HW
@@ -6094,10 +6152,11 @@ SplineSet
  159.999023438 320.034179688 l 2
  230.697265625 320.0390625 288.006835938 262.724609375 288.006835938 192.026367188 c 2
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" five cart.hwbody
 EndChar
 
 StartChar: six
-Encoding: 22 54 180
+Encoding: 54 54 180
 Width: 320
 VWidth: 576
 Flags: W
@@ -6125,10 +6184,11 @@ SplineSet
  96.00390625 120.0078125 l 2
  96.00390625 84.6666918754 124.647000682 56.0160860219 159.986252783 56.0039100229 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" six cart.hwbody
 EndChar
 
 StartChar: seven
-Encoding: 23 55 181
+Encoding: 55 55 181
 Width: 320
 VWidth: 576
 Flags: W
@@ -6145,10 +6205,11 @@ SplineSet
  36 448 l 1
  36 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" seven cart.hwbody
 EndChar
 
 StartChar: eight
-Encoding: 24 56 182
+Encoding: 56 56 182
 Width: 320
 VWidth: 584
 Flags: W
@@ -6187,10 +6248,11 @@ SplineSet
  45.780975023 322.188459759 31.9982775641 358.583264967 31.9980468625 391.984228783 c 0
  31.9980468625 462.676757778 89.3072429287 519.984375 160 519.984375 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" eight cart.hwbody
 EndChar
 
 StartChar: nine
-Encoding: 25 57 183
+Encoding: 57 57 183
 Width: 320
 VWidth: 584
 Flags: W
@@ -6218,10 +6280,11 @@ SplineSet
  223.978515625 392 l 2
  223.978515625 427.342096962 195.335421221 455.991726865 159.996169144 456.003902477 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" nine cart.hwbody
 EndChar
 
 StartChar: cart.start
-Encoding: 239 989584 184
+Encoding: 989584 989584 184
 Width: 320
 Flags: W
 HStem: -160 64<249.949 319.999> 608 64<249.949 319.999>
@@ -6245,7 +6308,7 @@ Ligature2: "LIGA basics" bracketleft
 EndChar
 
 StartChar: cart.end
-Encoding: 240 989585 185
+Encoding: 989585 989585 185
 Width: 320
 Flags: W
 HStem: -160 64<0.000976562 70.084> 608 64<0.000976562 70.084>
@@ -6269,7 +6332,7 @@ Ligature2: "LIGA basics" bracketright
 EndChar
 
 StartChar: cart.body
-Encoding: 241 989586 186
+Encoding: 989586 989586 186
 Width: 0
 Flags: W
 HStem: -160 64<-639.965 0.0351562> 608 64<-639.965 0.0351562>
@@ -6292,7 +6355,7 @@ EndSplineSet
 EndChar
 
 StartChar: morae.dot
-Encoding: 242 989596 187
+Encoding: 989596 989596 187
 Width: 320
 Flags: W
 HStem: 191.989 128.03<120.478 199.523>
@@ -6306,10 +6369,11 @@ SplineSet
  224.015625 220.650390625 195.35546875 191.989257812 160 191.989257812 c 0
  124.645507812 191.989257812 95.984375 220.650390625 95.984375 256.004882812 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" morae.dot cart.hwbody
 EndChar
 
 StartChar: morae.colon
-Encoding: 243 989597 188
+Encoding: 989597 989597 188
 Width: 320
 Flags: HW
 HStem: 79.9697 128.03<120.477 199.522> 304 128.03<120.477 199.522>
@@ -6328,10 +6392,11 @@ SplineSet
  224.015625 108.629882812 195.354492188 79.9697265625 160 79.9697265625 c 0
  124.64453125 79.9697265625 95.984375 108.629882812 95.984375 143.985351562 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" morae.colon cart.hwbody
 EndChar
 
 StartChar: bracketleft
-Encoding: 59 91 189
+Encoding: 91 91 189
 Width: 320
 VWidth: 576
 Flags: W
@@ -6351,10 +6416,11 @@ SplineSet
  287.997070312 512 l 1
  287.997070312 448 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" bracketleft cart.hwbody
 EndChar
 
 StartChar: bracketright
-Encoding: 61 93 190
+Encoding: 93 93 190
 Width: 320
 VWidth: 576
 Flags: W
@@ -6374,10 +6440,11 @@ SplineSet
  224.001953125 447.999023438 l 1
  32.0029296875 448 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" bracketright cart.hwbody
 EndChar
 
 StartChar: zwsp
-Encoding: 96 8203 191
+Encoding: 8203 8203 191
 Width: 0
 Flags: W
 LayerCount: 2
@@ -6387,7 +6454,7 @@ MultipleSubs2: "CCMP cartouches" cart.zwsp
 EndChar
 
 StartChar: glyph192
-Encoding: 14 46 192
+Encoding: 46 46 192
 Width: 320
 VWidth: 0
 Flags: W
@@ -6402,10 +6469,11 @@ SplineSet
  208 13.490234375 186.509765625 -8 160 -8 c 0
  133.490234375 -8 112 13.490234375 112 40 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" glyph192 cart.hwbody
 EndChar
 
 StartChar: colon
-Encoding: 26 58 193
+Encoding: 58 58 193
 Width: 320
 Flags: W
 HStem: -8 96<126.059 193.941> 208 96<126.059 193.941>
@@ -6424,10 +6492,11 @@ SplineSet
  208 13.490234375 186.509765625 -8 160 -8 c 0
  133.490234375 -8 112 13.490234375 112 40 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" colon cart.hwbody
 EndChar
 
 StartChar: t.namako
-Encoding: 218 989560 194
+Encoding: 989560 989560 194
 Width: 640
 Flags: W
 HStem: 0.0234375 63.9805<193.183 279.908> 492.009 20G<304 368>
@@ -6468,7 +6537,7 @@ Ligature2: "LIGA basics" n a m a k o
 EndChar
 
 StartChar: t.kin
-Encoding: 219 989561 195
+Encoding: 989561 989561 195
 Width: 640
 Flags: W
 VStem: 288.013 64<-16 56.5615 167.408 240 296 528>
@@ -6506,7 +6575,7 @@ Ligature2: "LIGA basics" k i n
 EndChar
 
 StartChar: t.oko
-Encoding: 220 989562 196
+Encoding: 989562 989562 196
 Width: 640
 Flags: W
 HStem: 0.0136719 21G<489.249 538.321> 491.998 20G<489.249 538.321>
@@ -6541,7 +6610,7 @@ Ligature2: "LIGA basics" o k o
 EndChar
 
 StartChar: t.kipisi
-Encoding: 221 989563 197
+Encoding: 989563 989563 197
 Width: 640
 Flags: W
 HStem: 64 96<430.059 497.94> 352 96<142.059 209.941>
@@ -6571,7 +6640,7 @@ Ligature2: "LIGA basics" k i p i s i
 EndChar
 
 StartChar: t.leko
-Encoding: 222 989564 198
+Encoding: 989564 989564 198
 Width: 640
 Flags: W
 HStem: 0.0146484 64.0039<127.99 511.99> 128.015 64.0039<255.966 383.974> 320.026 64.0039<255.966 383.974> 448.019 63.9795<127.99 511.99>
@@ -6605,7 +6674,7 @@ Ligature2: "LIGA basics" l e k o
 EndChar
 
 StartChar: t.monsuta
-Encoding: 223 989565 199
+Encoding: 989565 989565 199
 Width: 640
 Flags: W
 HStem: 332.019 20G<149.082 172.086 467.899 490.898>
@@ -6635,7 +6704,7 @@ Ligature2: "LIGA basics" m o n s u t a
 EndChar
 
 StartChar: t.tonsi
-Encoding: 224 989566 200
+Encoding: 989566 989566 200
 Width: 640
 Flags: W
 HStem: 82.6855 61.3145<263.101 288 352 376.899> 400 64<262.27 377.73>
@@ -6672,7 +6741,7 @@ Ligature2: "LIGA basics" t o n s i
 EndChar
 
 StartChar: t.jasima
-Encoding: 225 989567 201
+Encoding: 989567 989567 201
 Width: 640
 Flags: W
 HStem: 45.9688 64<382.73 480.679> 178.031 64<159.322 257.295> 269.969 64<382.917 480.679> 402.031 64<159.322 257.295>
@@ -6716,7 +6785,7 @@ Ligature2: "LIGA basics" j a s i m a
 EndChar
 
 StartChar: t.soko
-Encoding: 227 989569 202
+Encoding: 989569 989569 202
 Width: 640
 Flags: W
 HStem: 96.0107 64<192.007 288.008 352.008 448.007> 256 64<130.686 288.008 352.008 509.313> 480 64<249.263 390.735>
@@ -6753,7 +6822,7 @@ Ligature2: "LIGA basics" s o k o
 EndChar
 
 StartChar: t.kijetesantakalu
-Encoding: 226 989568 203
+Encoding: 989568 989568 203
 Width: 640
 Flags: W
 HStem: -32.001 64.0039<122.002 160.121 224.004 282.469> 160.011 64.0039<122.002 160.049> 267.962 72.0146<327.791 360.632> 299.964 72.042<415.791 433.698 433.747 448.632> 480.007 64.0039<345.993 448.019>
@@ -6828,7 +6897,7 @@ Ligature2: "LIGA basics" k i j e t e s a n t a k a l u
 EndChar
 
 StartChar: t.meso
-Encoding: 228 989570 204
+Encoding: 989570 989570 204
 Width: 640
 Flags: W
 HStem: 0.0195312 21G<128.001 192.001 448 512> 208.01 96<286.073 353.955> 492 20G<128.001 192.001 448 512>
@@ -6858,7 +6927,7 @@ Ligature2: "LIGA basics" m e s o
 EndChar
 
 StartChar: t.epiku
-Encoding: 229 989571 205
+Encoding: 989571 989571 205
 Width: 640
 Flags: W
 HStem: 15.9902 64.0039<258.243 381.788> 352.005 21G<288.009 352.009>
@@ -6897,7 +6966,7 @@ Ligature2: "LIGA basics" e p i k u
 EndChar
 
 StartChar: t.kokosila
-Encoding: 230 989572 206
+Encoding: 989572 989572 206
 Width: 640
 Flags: W
 HStem: -16.001 64.001<261.747 377.67> 303.999 64<262.35 376.961> 357.895 21G<179.341 226.274 413.764 460.697>
@@ -6950,7 +7019,7 @@ Ligature2: "LIGA basics" k o k o s i l a
 EndChar
 
 StartChar: t.lanpan
-Encoding: 231 989573 207
+Encoding: 989573 989573 207
 Width: 640
 Flags: W
 HStem: -31.9834 64.0039<153.212 230.787> 48.082 96.0059<381.003 448.879> 192.006 64.0039<368.423 463.583> 288.012 64.0771<279.274 358.258> 480.072 64.0049<280.876 358.076>
@@ -6995,7 +7064,7 @@ Ligature2: "LIGA basics" l a n p a n
 EndChar
 
 StartChar: t.n
-Encoding: 232 989574 208
+Encoding: 989574 989574 208
 Width: 640
 Flags: W
 HStem: 167.981 64.0039<281.207 358.783>
@@ -7025,7 +7094,7 @@ Ligature2: "LIGA basics" n
 EndChar
 
 StartChar: t.misikeke
-Encoding: 233 989575 209
+Encoding: 989575 989575 209
 Width: 640
 Flags: W
 HStem: -16 64<276.241 363.758> 224 64<240 400> 464 64<276.241 363.758>
@@ -7060,7 +7129,7 @@ Ligature2: "LIGA basics" m i s i k e k e
 EndChar
 
 StartChar: t.ku
-Encoding: 234 989576 210
+Encoding: 989576 989576 210
 Width: 640
 Flags: W
 HStem: 0.015625 63.9844<176 288 353.971 464> 111.983 96<366.065 433.935> 448.021 63.9785<176.004 328.041>
@@ -7101,7 +7170,7 @@ Ligature2: "LIGA basics" k u
 EndChar
 
 StartChar: t.pake
-Encoding: 245 989600 211
+Encoding: 989600 989600 211
 Width: 640
 Flags: W
 HStem: 0 21G<287.988 351.988> 448.008 64<96 287.988 351.988 544>
@@ -7125,7 +7194,7 @@ Ligature2: "LIGA basics" p a k e
 EndChar
 
 StartChar: t.apeja
-Encoding: 246 989601 212
+Encoding: 989601 989601 212
 Width: 640
 Flags: W
 HStem: -31.9893 64.0039<286.393 353.607> 128.021 63.9795<286.392 353.608> 320.011 64.0039<110.393 177.607 462.393 529.606> 332 20G<290.543 349.457> 480.021 63.9795<110.392 177.608 462.392 529.608>
@@ -7176,7 +7245,7 @@ Ligature2: "LIGA basics" a p e j a
 EndChar
 
 StartChar: t.majuna
-Encoding: 247 989602 213
+Encoding: 989602 989602 213
 Width: 640
 Flags: W
 HStem: 128 64<64 223.998 416 575.998>
@@ -7216,7 +7285,7 @@ Ligature2: "LIGA basics" m a j u n a
 EndChar
 
 StartChar: t.powe
-Encoding: 248 989603 214
+Encoding: 989603 989603 214
 Width: 640
 Flags: W
 HStem: 96 64<64 576>
@@ -7248,7 +7317,7 @@ Ligature2: "LIGA basics" p o w e
 EndChar
 
 StartChar: morae.dotdot
-Encoding: 273 -1 215
+Encoding: 1114113 -1 215
 Width: 640
 Flags: W
 HStem: 191.984 128.03<168.465 247.509 392.496 471.54>
@@ -7272,7 +7341,7 @@ Ligature2: "LIGA basics" glyph192 glyph192
 EndChar
 
 StartChar: morae.dotdotdot
-Encoding: 274 -1 216
+Encoding: 1114114 -1 216
 Width: 640
 Flags: W
 HStem: 191.984 128.03<88.4787 167.523 280.478 359.522 472.477 551.521>
@@ -7301,7 +7370,7 @@ Ligature2: "LIGA basics" glyph192 glyph192 glyph192
 EndChar
 
 StartChar: exclam
-Encoding: 1 33 217
+Encoding: 33 33 217
 Width: 320
 Flags: W
 HStem: 0 96<126.059 193.941>
@@ -7320,10 +7389,11 @@ SplineSet
  192.001953125 136 l 1
  128.001953125 136 l 1xa0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" exclam cart.hwbody
 EndChar
 
 StartChar: quotedbl
-Encoding: 2 34 218
+Encoding: 34 34 218
 Width: 320
 Flags: W
 HStem: 392 128<63.9961 127.996 191.996 255.996>
@@ -7342,10 +7412,11 @@ SplineSet
  255.99609375 392 l 1
  191.99609375 392 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" quotedbl cart.hwbody
 EndChar
 
 StartChar: numbersign
-Encoding: 3 35 219
+Encoding: 35 35 219
 Width: 320
 Flags: W
 HStem: 136 64<24 64.002 128.002 192.002 256.002 296> 328 64<24 64.002 128.002 192.002 256.002 296>
@@ -7388,10 +7459,11 @@ SplineSet
  64.001953125 8 l 1
  64.001953125 136 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" numbersign cart.hwbody
 EndChar
 
 StartChar: dollar
-Encoding: 4 36 220
+Encoding: 36 36 220
 Width: 320
 Flags: W
 HStem: 0 21G<127.995 191.994> 359.999 21G<223.984 287.988>
@@ -7427,10 +7499,11 @@ SplineSet
  72.7878028236 250.237162512 31.990234375 300.348095421 31.990234375 359.997070312 c 0
  31.990234375 419.645146944 72.7856363298 469.760788577 127.995117188 483.97264132 c 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" dollar cart.hwbody
 EndChar
 
 StartChar: percent
-Encoding: 5 37 221
+Encoding: 37 37 221
 Width: 320
 Flags: W
 HStem: 0 120<197.835 274.165> 408 120<45.8361 122.167>
@@ -7454,10 +7527,11 @@ SplineSet
  296 26.86328125 269.13671875 0 236 0 c 0
  202.86328125 0 176 26.86328125 176 60 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" percent cart.hwbody
 EndChar
 
 StartChar: ampersand
-Encoding: 6 38 222
+Encoding: 38 38 222
 Width: 320
 Flags: W
 HStem: 0 64<118.94 186.773> 464 64<96.1527 151.851>
@@ -7499,10 +7573,11 @@ SplineSet
  169.583007812 64 178.7265625 65.8701171875 187.087890625 69.267578125 c 1
  118.607421875 210.2421875 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" ampersand cart.hwbody
 EndChar
 
 StartChar: quotesingle
-Encoding: 7 39 223
+Encoding: 39 39 223
 Width: 320
 Flags: W
 HStem: 392 128<128.002 192.002>
@@ -7516,10 +7591,11 @@ SplineSet
  192.001953125 392 l 1
  128.001953125 392 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" quotesingle cart.hwbody
 EndChar
 
 StartChar: parenleft
-Encoding: 8 40 224
+Encoding: 40 40 224
 Width: 320
 Flags: W
 HStem: -8.52441 21G<170.515 216.284>
@@ -7535,10 +7611,11 @@ SplineSet
  124.745117188 47.8095703125 64.0009765625 148.727539062 64.0009765625 264.002929688 c 0
  64.0009765625 379.278320312 124.745117188 480.196289062 216.284179688 536.530273438 c 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" parenleft cart.hwbody
 EndChar
 
 StartChar: parenright
-Encoding: 9 41 225
+Encoding: 41 41 225
 Width: 320
 Flags: W
 HStem: -8.52441 21G<99.4171 157.494>
@@ -7554,10 +7631,11 @@ SplineSet
  200.015625 356.224609375 151.418945312 436.9609375 78.185546875 482.028320312 c 1
  111.724609375 536.530273438 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" parenright cart.hwbody
 EndChar
 
 StartChar: asterisk
-Encoding: 10 42 226
+Encoding: 42 42 226
 Width: 320
 Flags: W
 VStem: 128.001 64<264 344 440 520>
@@ -7584,10 +7662,11 @@ SplineSet
  128.000976562 440 l 1
  128.000976562 520 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" asterisk cart.hwbody
 EndChar
 
 StartChar: plus
-Encoding: 11 43 227
+Encoding: 43 43 227
 Width: 320
 Flags: W
 HStem: 231.998 64.0039<32.0078 127.99 191.994 288>
@@ -7609,10 +7688,11 @@ SplineSet
  127.990234375 296.001953125 l 1
  127.990234375 392.0078125 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" plus cart.hwbody
 EndChar
 
 StartChar: comma
-Encoding: 12 44 228
+Encoding: 44 44 228
 Width: 320
 Flags: W
 HStem: -24 112<119.999 152>
@@ -7626,10 +7706,11 @@ SplineSet
  119.999023438 -24 l 1
  119.999023438 88 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" comma cart.hwbody
 EndChar
 
 StartChar: hyphen
-Encoding: 13 45 229
+Encoding: 45 45 229
 Width: 320
 Flags: W
 HStem: 232 64<32 288>
@@ -7642,10 +7723,11 @@ SplineSet
  288 232 l 1
  32 232 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" hyphen cart.hwbody
 EndChar
 
 StartChar: slash
-Encoding: 15 47 230
+Encoding: 47 47 230
 Width: 320
 Flags: W
 HStem: 0 21G<24 100.789> 492 20G<219.354 296>
@@ -7658,10 +7740,11 @@ SplineSet
  24 0 l 1
  227.294921875 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" slash cart.hwbody
 EndChar
 
 StartChar: less
-Encoding: 28 60 231
+Encoding: 60 60 231
 Width: 320
 Flags: W
 LayerCount: 2
@@ -7677,10 +7760,11 @@ SplineSet
  32.072265625 298.471679688 l 1
  288.076171875 394.471679688 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" less cart.hwbody
 EndChar
 
 StartChar: equal
-Encoding: 29 61 232
+Encoding: 61 61 232
 Width: 320
 VWidth: 576
 Flags: W
@@ -7699,10 +7783,11 @@ SplineSet
  288 160 l 1
  32 160 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" equal cart.hwbody
 EndChar
 
 StartChar: greater
-Encoding: 30 62 233
+Encoding: 62 62 233
 Width: 320
 VWidth: 576
 Flags: W
@@ -7719,10 +7804,11 @@ SplineSet
  32.0009765625 318.120117188 l 1
  32.0009765625 386.471679688 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" greater cart.hwbody
 EndChar
 
 StartChar: question
-Encoding: 31 63 234
+Encoding: 63 63 234
 Width: 320
 VWidth: 592
 Flags: W
@@ -7751,10 +7837,11 @@ SplineSet
  125.522676253 0.03710667993 103.984372307 21.4710823932 103.984372307 48.0455513778 c 0xf4
  103.984372307 74.5595621228 125.483934003 96.04296875 152 96.04296875 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" question cart.hwbody
 EndChar
 
 StartChar: at
-Encoding: 32 64 235
+Encoding: 64 64 235
 Width: 320
 VWidth: 584
 Flags: W
@@ -7783,10 +7870,11 @@ SplineSet
  32 509.01953125 l 1
  52.0048828125 516.091796875 73.5859375 520 96 520 c 0x78
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" at cart.hwbody
 EndChar
 
 StartChar: semicolon
-Encoding: 27 59 236
+Encoding: 59 59 236
 Width: 320
 VWidth: 576
 Flags: W
@@ -7806,10 +7894,11 @@ SplineSet
  119.999023438 -32 l 1
  119.999023438 80 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" semicolon cart.hwbody
 EndChar
 
 StartChar: backslash
-Encoding: 60 92 237
+Encoding: 92 92 237
 Width: 320
 Flags: W
 HStem: 0 21G<219.211 296> 492 20G<24 100.646>
@@ -7822,10 +7911,11 @@ SplineSet
  24 512 l 1
  92.705078125 512 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" backslash cart.hwbody
 EndChar
 
 StartChar: asciicircum
-Encoding: 62 94 238
+Encoding: 94 94 238
 Width: 320
 VWidth: 576
 Flags: W
@@ -7843,10 +7933,11 @@ SplineSet
  196.943359375 511.852539062 l 1
  292.943359375 255.848632812 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" asciicircum cart.hwbody
 EndChar
 
 StartChar: underscore
-Encoding: 63 95 239
+Encoding: 95 95 239
 Width: 320
 VWidth: 576
 Flags: W
@@ -7860,10 +7951,11 @@ SplineSet
  288 0 l 1
  32 0 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" underscore cart.hwbody
 EndChar
 
 StartChar: grave
-Encoding: 64 96 240
+Encoding: 96 96 240
 Width: 320
 VWidth: 584
 Flags: W
@@ -7878,10 +7970,11 @@ SplineSet
  114.745117188 520 l 1
  250.508789062 384.235351562 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" grave cart.hwbody
 EndChar
 
 StartChar: braceleft
-Encoding: 91 123 241
+Encoding: 123 123 241
 Width: 320
 VWidth: 576
 Flags: W
@@ -7923,10 +8016,11 @@ SplineSet
  115.201171875 387.547851562 112 401.68359375 112 416 c 0
  112 469.01953125 154.981445312 512 208 512 c 2xe8
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" braceleft cart.hwbody
 EndChar
 
 StartChar: bar
-Encoding: 92 124 242
+Encoding: 124 124 242
 Width: 320
 VWidth: 576
 Flags: W
@@ -7941,10 +8035,11 @@ SplineSet
  192.001953125 0 l 1
  128.001953125 0 l 1
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" bar cart.hwbody
 EndChar
 
 StartChar: braceright
-Encoding: 93 125 243
+Encoding: 125 125 243
 Width: 320
 VWidth: 576
 Flags: W
@@ -7986,10 +8081,11 @@ SplineSet
  32 512 l 1
  112 512 l 2xf0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" braceright cart.hwbody
 EndChar
 
 StartChar: asciitilde
-Encoding: 94 126 244
+Encoding: 126 126 244
 Width: 320
 VWidth: 576
 Flags: W
@@ -8016,45 +8112,56 @@ SplineSet
  32 234 l 2
  32 280.392578125 69.607421875 318 116 318 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" asciitilde cart.hwbody
 EndChar
 
 StartChar: font.version
-Encoding: 275 -1 245
+Encoding: 1114115 -1 245
 Width: 640
-Flags: W
-HStem: 0.00195312 21G<64 575.998> 480 32<96 128 224 256>
-VStem: 64 32<320 480> 128 32<320 352> 192 32<320 352>
+Flags: HW
+HStem: -63.998 21G<128 639.998> 416 32<160 192 288 320>
+VStem: 128 32<256 416> 192 32<256 288> 256 32<256 288>
 CounterMasks: 1 38
 LayerCount: 2
 Fore
 SplineSet
-160 352 m 1
- 160 320 l 1
- 192 320 l 1
- 192 352 l 1
- 160 352 l 1
-224 480 m 1
- 224 320 l 1
- 256 320 l 1
- 256 480 l 1
- 224 480 l 1
-96 480 m 1
- 96 320 l 1
- 128 320 l 1
- 128 480 l 1
- 96 480 l 1
 64 512 m 1
- 575.998046875 512 l 1
- 575.998046875 0.001953125 l 1
  64 0.001953125 l 1
+ 575.998046875 0.001953125 l 1
+ 575.998046875 512 l 1
  64 512 l 1
+96 480 m 1
+ 128 480 l 1
+ 128 320 l 1
+ 96 320 l 1
+ 96 480 l 1
+224 480 m 1
+ 256 480 l 1
+ 256 320 l 1
+ 224 320 l 1
+ 224 480 l 1
+352 480 m 1
+ 384 480 l 1
+ 384 320 l 1
+ 352 320 l 1
+ 352 480 l 1
+160 352 m 1
+ 192 352 l 1
+ 192 320 l 1
+ 160 320 l 1
+ 160 352 l 1
+288 352 m 1
+ 320 352 l 1
+ 320 320 l 1
+ 288 320 l 1
+ 288 352 l 1
 EndSplineSet
-LCarets2: 10 64 64 64 64 64 64 64 64 64 64
+LCarets2: 10 128 128 128 128 128 128 128 128 128 128
 Ligature2: "LIGA basics" f o n t v e r s i o n
 EndChar
 
 StartChar: fwsp
-Encoding: 97 12288 246
+Encoding: 12288 12288 246
 Width: 640
 Flags: W
 LayerCount: 2
@@ -8064,14 +8171,14 @@ Ligature2: "LIGA basics" space space
 EndChar
 
 StartChar: cart.zwsp
-Encoding: 276 -1 247
+Encoding: 1114116 -1 247
 Width: 0
 Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: cart.hwbody
-Encoding: 277 -1 248
+Encoding: 1114117 -1 248
 Width: 0
 Flags: HW
 HStem: -160 64<-320.001 0> 608 64<-320.001 -0.000976562>
@@ -8094,7 +8201,7 @@ EndSplineSet
 EndChar
 
 StartChar: cart.1tick
-Encoding: 244 989598 249
+Encoding: 989598 989598 249
 Width: 0
 Flags: W
 HStem: -286.587 160.001<-352 -288>
@@ -8112,7 +8219,7 @@ Ligature2: "LIGA basics" comma
 EndChar
 
 StartChar: cart.4ticks
-Encoding: 278 -1 250
+Encoding: 1114118 -1 250
 Width: 0
 HStem: -288.006 160.006<-567.97 -503.99 -423.973 -359.969 -279.977 -215.972 -135.979 -71.9746>
 VStem: -567.97 63.9795<-288.006 -128> -423.973 64.0039<-288.006 -128> -279.977 64.0049<-288.006 -128> -135.979 64.0049<-288.006 -128>
@@ -8140,11 +8247,12 @@ SplineSet
  -567.969726562 -288.005859375 l 1
  -567.969726562 -128 l 1
 EndSplineSet
+Ligature2: "LIGA basics" cart.1tick cart.1tick cart.1tick cart.1tick
 Ligature2: "LIGA basics" comma comma comma comma
 EndChar
 
 StartChar: cart.3ticks
-Encoding: 279 -1 251
+Encoding: 1114119 -1 251
 Width: 0
 HStem: -288.006 160.006<-495.989 -431.985 -351.992 -287.988 -207.995 -143.991>
 VStem: -495.989 64.0039<-288.006 -128> -351.992 64.0039<-288.006 -128> -207.995 64.0039<-288.006 -128>
@@ -8168,11 +8276,12 @@ SplineSet
  -495.989257812 -288.005859375 l 1
  -495.989257812 -128 l 1
 EndSplineSet
+Ligature2: "LIGA basics" cart.1tick cart.1tick cart.1tick
 Ligature2: "LIGA basics" comma comma comma
 EndChar
 
 StartChar: cart.2ticks
-Encoding: 280 -1 252
+Encoding: 1114120 -1 252
 Width: 0
 HStem: -288.018 160.018<-432.024 -368.024 -271.984 -207.984>
 VStem: -432.024 64<-288.018 -128> -271.984 64<-288.018 -128>
@@ -8190,12 +8299,13 @@ SplineSet
  -368.024414062 -288.017578125 l 1
  -432.024414062 -288.017578125 l 1
 EndSplineSet
+Ligature2: "LIGA basics" cart.1tick cart.1tick
 LCarets2: 1 0
 Ligature2: "LIGA basics" comma comma
 EndChar
 
 StartChar: periodcentered
-Encoding: 95 183 253
+Encoding: 183 183 253
 Width: 640
 Flags: W
 HStem: 191.984 128.03<280.479 359.523>
@@ -8214,7 +8324,7 @@ Ligature2: "LIGA basics" glyph192
 EndChar
 
 StartChar: cart.5ticks
-Encoding: 281 -1 254
+Encoding: 1114121 -1 254
 Width: 0
 Flags: W
 HStem: -287.999 160<-576 -512 -464 -400 -352 -288 -240 -176 -128.001 -64.001>
@@ -8248,11 +8358,12 @@ SplineSet
  -288 -287.999023438 l 1
  -352 -287.999023438 l 1
 EndSplineSet
+Ligature2: "LIGA basics" cart.1tick cart.1tick cart.1tick cart.1tick cart.1tick
 Ligature2: "LIGA basics" comma comma comma comma comma
 EndChar
 
 StartChar: t.ni.left
-Encoding: 235 989577 255
+Encoding: 989577 989577 255
 Width: 640
 HStem: 223.997 64.0049<175.986 576>
 LayerCount: 2
@@ -8275,7 +8386,7 @@ Ligature2: "LIGA ni directions-1" t.ni less
 EndChar
 
 StartChar: t.ni.up
-Encoding: 236 989578 256
+Encoding: 989578 989578 256
 Width: 640
 HStem: -0 21G<287.997 352.002>
 VStem: 287.997 64.0049<0 400.013>
@@ -8299,7 +8410,7 @@ Ligature2: "LIGA ni directions-1" t.ni asciicircum
 EndChar
 
 StartChar: t.ni.right
-Encoding: 237 989579 257
+Encoding: 989579 989579 257
 Width: 640
 HStem: 223.998 64.0039<64 464.013>
 LayerCount: 2
@@ -8322,7 +8433,7 @@ Ligature2: "LIGA ni directions-1" t.ni greater
 EndChar
 
 StartChar: t.sewi.secular
-Encoding: 238 989580 258
+Encoding: 989580 989580 258
 Width: 640
 HStem: 255.996 64.0059<128.012 512.004> 368.002 96<286.068 353.95>
 VStem: 64.0078 64.0039<96.002 255.996> 272.009 96<382.061 449.943> 512.004 64.0039<96.002 255.996>
@@ -8349,7 +8460,7 @@ Ligature2: "LIGA alternates" t.sewi zero two
 EndChar
 
 StartChar: t.linluwi
-Encoding: 249 989604 259
+Encoding: 989604 989604 259
 Width: 640
 HStem: -15.9941 64.0039<110.385 176.912 463.078 529.607> 63.9966 64.0168<246.689 251.315 251.36 388.63> 144.017 63.9795<110.383 171.788 468.204 529.609> 304.01 64.0059<292.211 347.785> 464.021 63.9785<286.392 353.609>
 VStem: 31.9951 64.0059<62.395 129.619> 191.981 256.027<64.6069 127.418> 208.005 64.0039<382.546 449.625> 367.991 64.0039<382.544 449.623> 543.991 64.0039<62.3925 129.616>
@@ -8403,7 +8514,7 @@ Ligature2: "LIGA basics" l i n l u w i
 EndChar
 
 StartChar: t.kiki
-Encoding: 250 989605 260
+Encoding: 989605 989605 260
 Width: 640
 HStem: 0 64<138.299 501.701> 96 48<279.723 360.277>
 LayerCount: 2
@@ -8432,7 +8543,7 @@ Ligature2: "LIGA basics" k i k i
 EndChar
 
 StartChar: t.su
-Encoding: 251 989606 261
+Encoding: 989606 989606 261
 Width: 640
 HStem: -0.00390625 64.0039<176.004 365.274 429.762 464.025> 320.003 63.9961<237.633 402.653> 448 64.0039<176.004 464.025>
 VStem: 112 64.0039<64 219.46 349.775 448> 464.025 63.9805<64 284.423 349.76 448>
@@ -8466,7 +8577,7 @@ Ligature2: "LIGA basics" s u
 EndChar
 
 StartChar: t.isipin
-Encoding: 252 989607 262
+Encoding: 989607 989607 262
 Width: 640
 HStem: -16 64<246.34 361.66> 192 64<204.104 403.894 495.341 576> 304 64<246.526 360.774>
 VStem: 112 63.999<118.34 191.259> 271.999 64<416.002 544> 431.999 64.001<118.931 192>
@@ -8513,7 +8624,7 @@ Ligature2: "LIGA basics" i s i p i n
 EndChar
 
 StartChar: t.kamalawala
-Encoding: 253 989608 263
+Encoding: 989608 989608 263
 Width: 640
 HStem: -16 64<248.59 391.41> 192 64<32 65.5102 134.059 195.765 286.222 353.778 444.235 505.941 574.49 607.998>
 VStem: 64.4929 64.1656<256 308.376> 511.341 64.1656<256 308.376>
@@ -8573,7 +8684,7 @@ Ligature2: "LIGA basics" k a m a l a w a l a
 EndChar
 
 StartChar: t.kapesi
-Encoding: 254 989609 264
+Encoding: 989609 989609 264
 Width: 640
 HStem: 0 64.0039<241.035 398.965> 320 64<212.646 287.999 351.999 427.354>
 VStem: 287.999 64<244.646 320 384 459.354>
@@ -8616,7 +8727,7 @@ Ligature2: "LIGA basics" k a p e s i
 EndChar
 
 StartChar: t.melome
-Encoding: 255 989610 265
+Encoding: 989610 989610 265
 Width: 640
 HStem: 200.002 64<219.77 286.298 353.703 420.233> 335.996 64<216.8 286.3 353.704 423.204> 480 64<247.008 392.99>
 VStem: 47.999 64<-32 343.517> 144.002 64<126.049 191.474 261.948 327.201> 431.999 63.999<126.029 191.471 262.203 327.2> 527.999 64<-32 343.516>
@@ -8673,7 +8784,7 @@ Ligature2: "LIGA basics" m e l o m e
 EndChar
 
 StartChar: t.mijomi
-Encoding: 256 989611 266
+Encoding: 989611 989611 266
 Width: 640
 HStem: 0 160<64.083 128.083 512.084 576.083> 96 64<64 64.083 128.083 240.881 399.115 512.084> 328.006 64<219.768 286.296 353.7 420.231> 464 64<216.798 286.298 353.702 423.202>
 VStem: 64.083 64<0 96> 144 64<254.053 319.478 389.953 455.205> 431.996 64<254.033 319.475 390.072 455.204> 512.084 64<0 96>
@@ -8732,7 +8843,7 @@ Ligature2: "LIGA basics" m i j o m i
 EndChar
 
 StartChar: t.misa
-Encoding: 257 989612 267
+Encoding: 989612 989612 267
 Width: 640
 HStem: -0 64<159.34 264.738> 128.002 63.998<246.067 361.637> 296 80<273.759 334.241> 328 80<369.759 430.241> 448 64.002<246.905 502.064>
 VStem: 48 64<111.339 208.529> 112 64.0508<284.577 377.678> 264 80<305.759 366.241> 360 80<337.759 398.241> 528 64<344.754 422.788>
@@ -8779,7 +8890,7 @@ Ligature2: "LIGA basics" m i s a
 EndChar
 
 StartChar: t.nimisin
-Encoding: 258 989613 268
+Encoding: 989613 989613 268
 Width: 640
 HStem: 128 64<209.803 430.197> 192 64<32 112 528 608> 256 64<209.803 430.197> 352 96<288 352>
 VStem: 32 80<192 256> 144 64<193.804 254.197> 288 64<352 448> 432 64<193.804 254.197> 528 80<192 256>
@@ -8825,7 +8936,7 @@ Ligature2: "LIGA basics" n i m i s i n
 EndChar
 
 StartChar: t.nja
-Encoding: 259 989614 269
+Encoding: 989614 989614 269
 Width: 640
 HStem: -24 64.001<259.468 380.531> 88.001 48<250.484 293.565 346.435 389.516> 328.001 63.999<259.468 380.531>
 VStem: 64 48<344 446.312> 112 64<123.469 244.532> 200 48<138.485 176.289> 296 48<138.369 168.001> 392 48<138.485 176.289> 464 64<123.469 244.532> 528 48<344 446.312>
@@ -8880,7 +8991,7 @@ Ligature2: "LIGA basics" n j a
 EndChar
 
 StartChar: t.oke
-Encoding: 260 989615 270
+Encoding: 989615 989615 270
 Width: 640
 LayerCount: 2
 Fore
@@ -8898,7 +9009,7 @@ Ligature2: "LIGA basics" o k e
 EndChar
 
 StartChar: t.omekapo
-Encoding: 261 989616 271
+Encoding: 989616 989616 271
 Width: 640
 HStem: -15.998 63.9932<322.802 465.606> 272.003 63.9814<322.83 465.616>
 VStem: 32 63.7363<-16.3943 46.1833 273.818 336.394> 368 64<384 528> 527.994 64.0059<107.119 212.855>
@@ -8946,7 +9057,7 @@ Ligature2: "LIGA basics" o m e k a p o
 EndChar
 
 StartChar: t.puwa
-Encoding: 262 989617 272
+Encoding: 989617 989617 272
 Width: 640
 HStem: 32 64<149.198 496.423> 448 64<271.339 368.66>
 VStem: 47.999 64<132.241 220.256> 159.999 64<316.358 400.66> 415.999 64<302.984 400.66> 527.999 64<126.954 209.102>
@@ -8987,7 +9098,7 @@ Ligature2: "LIGA basics" p u w a
 EndChar
 
 StartChar: t.san
-Encoding: 263 989618 273
+Encoding: 989618 989618 273
 Width: 640
 HStem: 64 64<63.999 575.999> 224 64<63.999 575.999> 384 64<63.998 575.999>
 CounterMasks: 1 e0
@@ -9015,7 +9126,7 @@ Ligature2: "LIGA basics" s a n
 EndChar
 
 StartChar: t.taki
-Encoding: 264 989619 274
+Encoding: 989619 989619 274
 Width: 640
 Flags: W
 HStem: -16 64<247.043 364.087> 224 64<274.821 365.179> 464 64<274.167 391.486>
@@ -9052,7 +9163,7 @@ Ligature2: "LIGA basics" t a k i
 EndChar
 
 StartChar: t.te
-Encoding: 265 989620 275
+Encoding: 989620 989620 275
 Width: 640
 Flags: W
 HStem: 512 64<384 640>
@@ -9074,7 +9185,7 @@ Ligature2: "LIGA basics" t e
 EndChar
 
 StartChar: t.to
-Encoding: 266 989621 276
+Encoding: 989621 989621 276
 Width: 640
 Flags: W
 HStem: -64 64<0 256>
@@ -9096,7 +9207,7 @@ Ligature2: "LIGA basics" t o
 EndChar
 
 StartChar: t.unu
-Encoding: 267 989622 277
+Encoding: 989622 989622 277
 Width: 640
 HStem: -0 64.0039<241.036 398.966> 480 64<272.131 372.861>
 VStem: 256.001 63.998<328.605 407.395> 431.999 64.002<314.126 420.861>
@@ -9138,7 +9249,7 @@ Ligature2: "LIGA basics" u n u
 EndChar
 
 StartChar: t.usawi
-Encoding: 268 989623 278
+Encoding: 989623 989623 278
 Width: 640
 HStem: 24 64<217.697 310.293> 208 64<293.814 346.176> 320 64<259.464 380.527>
 VStem: 111.995 64<129.702 236.531> 223.995 64<157.745 202.181> 287.995 64<416.001 543.999> 351.995 64<129.702 202.181> 463.995 64<102.836 236.531>
@@ -9185,7 +9296,7 @@ Ligature2: "LIGA basics" u s a w i
 EndChar
 
 StartChar: t.wa
-Encoding: 269 989624 279
+Encoding: 989624 989624 279
 Width: 640
 HStem: -16 56<230.08 281.775 358.215 409.911>
 VStem: 159.995 64<45.9039 160> 287.995 64<45.9039 144 208 528> 415.995 64<45.9039 160>
@@ -9222,7 +9333,7 @@ Ligature2: "LIGA basics" w a
 EndChar
 
 StartChar: t.wuwojiti
-Encoding: 270 989625 280
+Encoding: 989625 989625 280
 Width: 640
 HStem: 0 21G<89.2578 129.257 510.739 550.742> 492 20G<89.2578 129.255 510.741 550.742>
 LayerCount: 2
@@ -9260,7 +9371,7 @@ Ligature2: "LIGA basics" w u w o j i t i
 EndChar
 
 StartChar: t.yupekosi
-Encoding: 271 989626 281
+Encoding: 989626 989626 281
 Width: 640
 Flags: W
 HStem: -15.8291 63.8789<298.156 338.925> 197.014 63.7861<286.124 302.055 302.056 313.311 313.313 364.279> 216.213 63.5801<233.424 271.079> 491.43 20G<447.087 511.088>
@@ -9743,12 +9854,13 @@ SplineSet
 417.846900783 325.571047323 m 1
  418.422253368 326.338519854 418.380159046 326.362593877 417.846900783 325.571047323 c 1
 EndSplineSet
+LCarets2: 7 0 0 0 0 0 0 0
 MultipleSubs2: "CCMP cartouches" t.yupekosi cart.body
 Ligature2: "LIGA basics" y u p e k o s i
 EndChar
 
 StartChar: t.te.fw
-Encoding: 282 -1 282
+Encoding: 1114122 -1 282
 Width: 640
 HStem: 416 64<224 479.999>
 VStem: 160 64<32 416>
@@ -9766,7 +9878,7 @@ EndSplineSet
 EndChar
 
 StartChar: t.to.fw
-Encoding: 283 -1 283
+Encoding: 1114123 -1 283
 Width: 640
 HStem: 32.001 64<160 416>
 VStem: 416 63.999<96.001 480.001>
@@ -9784,7 +9896,7 @@ EndSplineSet
 EndChar
 
 StartChar: n.lipamanka
-Encoding: 285 -1 284
+Encoding: 1114124 -1 284
 Width: 640
 HStem: -32 64.0049<121.976 160.13 224 272.039> 240.01 72.0302<316.025 360.625> 263.957 72.0302<404.025 448.624> 432.018 64.0039<401.238 448.014> 479.984 64.0039<230.972 317.188>
 VStem: 32.0361 64.0898<57.2349 134.966> 96.0293 64.0771<307.002 409.046> 160.13 63.8701<32.0283 80.0023 111.966 160.037> 308.195 72.0496<259.631 292.439> 396.195 72.0496<283.579 316.385> 448.014 63.9805<400.016 432.018> 479.992 64.0039<-32 71.9562 120.013 208.004>
@@ -9879,7 +9991,7 @@ Ligature2: "LIGA basics" l i p a m a n k a
 EndChar
 
 StartChar: n.ante
-Encoding: 284 -1 285
+Encoding: 1114125 -1 285
 Width: 640
 HStem: -8.00879 21G<82.1183 131.171 309.65 330.296 508.797 557.851>
 LayerCount: 2
@@ -9913,7 +10025,7 @@ Ligature2: "LIGA alternates" t.ante nine nine
 EndChar
 
 StartChar: colon.fw
-Encoding: 286 -1 286
+Encoding: 1114126 -1 286
 Width: 640
 Flags: HW
 HStem: 79.9697 128.03<120.477 199.522> 304 128.03<120.477 199.522>
@@ -9935,6 +10047,75 @@ EndSplineSet
 Substitution2: "SS03 colon te spacing" morae.colon
 Ligature2: "LIGA basics" colon
 MultipleSubs2: "CCMP cartouches" morae.colon cart.hwbody
+EndChar
+
+StartChar: glyph287
+Encoding: 989590 989590 287
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: glyph288
+Encoding: 989591 989591 288
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: glyph289
+Encoding: 989592 989592 289
+Width: 0
+VWidth: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uF1995
+Encoding: 989589 989589 290
+Width: 0
+Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: uni300C
+Encoding: 12300 12300 291
+Width: 640
+Flags: W
+HStem: 512 64<384 640>
+VStem: 320 64<128 512>
+LayerCount: 2
+Fore
+SplineSet
+320 576 m 1
+ 640 576 l 1
+ 640 512 l 1
+ 384 512 l 1
+ 384 128 l 1
+ 320 128 l 1
+ 320 576 l 1
+EndSplineSet
+EndChar
+
+StartChar: uni300D
+Encoding: 12301 12301 292
+Width: 640
+Flags: W
+HStem: -64 64<0 256>
+VStem: 256 64<0 384>
+LayerCount: 2
+Fore
+SplineSet
+320 -64 m 1
+ -0 -64 l 1
+ -0 0 l 1
+ 256 0 l 1
+ 256 384 l 1
+ 320 384 l 1
+ 320 -64 l 1
+EndSplineSet
 EndChar
 EndChars
 EndSplineFont
