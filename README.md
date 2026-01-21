@@ -1,6 +1,6 @@
 # linja laso
 (laso pi mute ante li pali e linja ni e lipu ni)
-### current version: 1.1.1
+### current version: 1.1.2
 ![specimen of v1.1](specimens/1.1.png)
 
 this is a little font i'm making, based on a grid and with sharp edges! More about [how](https://github.com/cvni1981/linja-laso/wiki).
