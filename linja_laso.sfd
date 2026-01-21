@@ -4,7 +4,7 @@ FullName: linja laso
 FamilyName: linja laso
 Weight: Regular
 Copyright: Copyright (c) 2026, mute ante
-Version: 1.1.1
+Version: 1.1.2
 ItalicAngle: 0
 UnderlinePosition: -62
 UnderlineWidth: 30
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759787008
-ModificationTime: 1769029614
+ModificationTime: 1769033019
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -66,11 +66,11 @@ Lookup: 2 0 0 "CCMP cartouches" { "CCMP cartouches"  } ['stch' ('DFLT' <'dflt' >
 MarkAttachClasses: 1
 DEI: 91125
 ContextSub2: class "CALT colon te spacing" 3 3 3 1
-  Class: 8 colon.fw
+  Class: 14 morae.colon.hw
   Class: 4 t.te
-  BClass: 8 colon.fw
+  BClass: 14 morae.colon.hw
   BClass: 4 t.te
-  FClass: 8 colon.fw
+  FClass: 14 morae.colon.hw
   FClass: 4 t.te
  2 0 0
   ClsList: 1 2
@@ -83,11 +83,11 @@ ContextSub2: class "CALT colon te spacing" 3 3 3 1
   FClassNames: "All_Others" "colon" "te"
 EndFPST
 ChainSub2: class "CALT cartouches" 3 3 3 1
-  Class: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
+  Class: 1781 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante morae.colon.hw
   Class: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
-  BClass: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
+  BClass: 1781 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante morae.colon.hw
   BClass: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
-  FClass: 1775 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante colon.fw
+  FClass: 1781 space exclam quotedbl numbersign dollar percent ampersand quotesingle parenleft parenright asterisk plus comma hyphen glyph192 slash zero one two three four five six seven eight nine colon semicolon less equal greater question at A B C D E F G H I J K L M N O P Q R S T U V W X Y Z bracketleft backslash bracketright asciicircum underscore grave a b c d e f g h i j k l m n o p q r s t u v w x y z braceleft bar braceright asciitilde periodcentered zwsp fwsp uni300C uni300D t.a t.akesi t.ala t.alasa t.ale t.anpa t.ante t.anu t.awen t.e t.en t.esun t.ijo t.ike t.ilo t.insa t.jaki t.jan t.jelo t.jo t.kala t.kalama t.kama t.kasi t.ken t.kepeken t.kili t.kiwen t.ko t.kon t.kule t.kulupu t.kute t.la t.lape t.laso t.lawa t.len t.lete t.li t.lili t.linja t.lipu t.loje t.lon t.luka t.lukin t.lupa t.ma t.mama t.mani t.meli t.mi t.mije t.moku t.moli t.monsi t.mu t.mun t.musi t.mute t.nanpa t.nasa t.nasin t.nena t.ni t.nimi t.noka t.o t.olin t.ona t.open t.pakala t.pali t.palisa t.pan t.pana t.pi t.pilin t.pimeja t.pini t.pipi t.poka t.poki t.pona t.pu t.sama t.seli t.selo t.seme t.sewi t.sijelo t.sike t.sin t.sina t.sinpin t.sitelen t.sona t.soweli t.suli t.suno t.supa t.suwi t.tan t.taso t.tawa t.telo t.tenpo t.toki t.tomo t.tu t.unpa t.uta t.utala t.walo t.wan t.waso t.wawa t.weka t.wile t.namako t.kin t.oko t.kipisi t.leko t.monsuta t.tonsi t.jasima t.kijetesantakalu t.soko t.meso t.epiku t.kokosila t.lanpan t.n t.misikeke t.ku t.ni.left t.ni.up t.ni.right t.sewi.secular morae.dot morae.colon t.pake t.apeja t.majuna t.powe t.linluwi t.kiki t.su t.isipin t.kamalawala t.kapesi t.melome t.mijomi t.misa t.nimisin t.nja t.oke t.omekapo t.puwa t.san t.taki t.te t.to t.unu t.usawi t.wa t.wuwojiti t.yupekosi morae.dotdot morae.dotdotdot n.lipamanka n.ante morae.colon.hw
   FClass: 101 cart.start cart.body cart.zwsp cart.hwbody cart.1tick cart.4ticks cart.3ticks cart.2ticks cart.5ticks
  1 1 0
   ClsList: 1
@@ -99,7 +99,7 @@ ChainSub2: class "CALT cartouches" 3 3 3 1
   BClassNames: "All_Others" "glyph" "cart"
   FClassNames: "All_Others" "glyph" "cart"
 EndFPST
-LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.1.1" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.1.2" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: UnicodeFull
 Compacted: 1
 UnicodeInterp: none
@@ -107,7 +107,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 50 25 10
+WinInfo: 0 25 10
 BeginPrivate: 5
 BlueShift 1 6
 StdHW 4 [64]
@@ -116,7 +116,7 @@ StemSnapH 32 [7 31 47 54 60 64 80 96 160 191]
 StemSnapV 33 [47 48 62 63 64 66 80 96 159 160]
 EndPrivate
 TeXData: 1 0 0 1048576 524288 349525 838861 1048576 349525 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 1114127 293
+BeginChars: 1114127 294
 
 StartChar: .notdef
 Encoding: 1114112 -1 0
@@ -2280,6 +2280,7 @@ SplineSet
  64.6767578125 377.130859375 86.8251953125 414.26953125 116 444.592773438 c 0
  165.499023438 496.036132812 235.043945312 527.999023438 312 527.999023438 c 0
 EndSplineSet
+LCarets2: 2 0 0
 MultipleSubs2: "CCMP cartouches" t.mun cart.body
 Ligature2: "LIGA basics" m u n
 EndChar
@@ -4297,24 +4298,24 @@ Encoding: 989556 989556 118
 GlifName: t.waso
 Width: 640
 GlyphClass: 1
-Flags: HW
+Flags: W
 HStem: 127.988 63.9795<272.003 451.05> 232 96<110.06 177.942> 264 96<238.059 305.941>
 VStem: 96.001 96<246.059 313.941> 207.999 64.0039<-16.0088 127.988> 224 96<278.059 345.941>
 LayerCount: 2
 Fore
 SplineSet
-298.634765625 535.983398438 m 1
+298.634765625 535.983398438 m 1x98
  527.995117188 191.967773438 l 1
  527.995117188 127.98828125 l 1
  272.002929688 127.98828125 l 1
  272.002929688 -16.0087890625 l 1
  207.999023438 -16.0087890625 l 1
- 207.999023438 191.967773438 l 1x98
+ 207.999023438 191.967773438 l 1
  256.013671875 191.967773438 l 1
  271.978515625 191.967773438 l 1
  451.049804688 191.967773438 l 1
  245.395507812 500.474609375 l 1
- 298.634765625 535.983398438 l 1
+ 298.634765625 535.983398438 l 1x98
 96.0009765625 280 m 0
  96.0009765625 306.509765625 117.491210938 328 144.000976562 328 c 0
  170.510742188 328 192.000976562 306.509765625 192.000976562 280 c 0
@@ -6130,7 +6131,9 @@ StartChar: five
 Encoding: 53 53 179
 Width: 320
 VWidth: 576
-Flags: HW
+Flags: W
+HStem: -7.98438 64.0039<121.932 198.051> 256.03 63.9697<95.998 198.065> 448.024 63.998<95.998 287.998>
+VStem: 31.9951 64.0029<81.9433 120 320 448.024> 223.993 64.0029<81.9389 230.093>
 LayerCount: 2
 Fore
 SplineSet
@@ -6374,8 +6377,8 @@ EndChar
 
 StartChar: morae.colon
 Encoding: 989597 989597 188
-Width: 320
-Flags: HW
+Width: 640
+Flags: W
 HStem: 79.9697 128.03<120.477 199.522> 304 128.03<120.477 199.522>
 VStem: 95.9844 128.031<104.463 183.507 328.493 407.538>
 LayerCount: 2
@@ -6392,7 +6395,8 @@ SplineSet
  224.015625 108.629882812 195.354492188 79.9697265625 160 79.9697265625 c 0
  124.64453125 79.9697265625 95.984375 108.629882812 95.984375 143.985351562 c 0
 EndSplineSet
-MultipleSubs2: "CCMP cartouches" morae.colon cart.hwbody
+Ligature2: "LIGA basics" colon
+MultipleSubs2: "CCMP cartouches" morae.colon.hw cart.hwbody
 EndChar
 
 StartChar: bracketleft
@@ -8118,10 +8122,8 @@ EndChar
 StartChar: font.version
 Encoding: 1114115 -1 245
 Width: 640
-Flags: HW
-HStem: -63.998 21G<128 639.998> 416 32<160 192 288 320>
-VStem: 128 32<256 416> 192 32<256 288> 256 32<256 288>
-CounterMasks: 1 38
+Flags: W
+HStem: 332 20G<160 192 288 320>
 LayerCount: 2
 Fore
 SplineSet
@@ -8141,9 +8143,17 @@ SplineSet
  224 320 l 1
  224 480 l 1
 352 480 m 1
- 384 480 l 1
- 384 320 l 1
+ 448 480 l 1
+ 448 384 l 1
+ 384 384 l 1
+ 384 352 l 1
+ 448 352 l 1
+ 448 320 l 1
  352 320 l 1
+ 352 416 l 1
+ 416 416 l 1
+ 416 448 l 1
+ 352 448 l 1
  352 480 l 1
 160 352 m 1
  192 352 l 1
@@ -8156,7 +8166,7 @@ SplineSet
  288 320 l 1
  288 352 l 1
 EndSplineSet
-LCarets2: 10 128 128 128 128 128 128 128 128 128 128
+LCarets2: 10 192 192 192 192 192 192 192 192 192 192
 Ligature2: "LIGA basics" f o n t v e r s i o n
 EndChar
 
@@ -8180,7 +8190,7 @@ EndChar
 StartChar: cart.hwbody
 Encoding: 1114117 -1 248
 Width: 0
-Flags: HW
+Flags: W
 HStem: -160 64<-320.001 0> 608 64<-320.001 -0.000976562>
 LayerCount: 2
 Fore
@@ -8580,7 +8590,7 @@ StartChar: t.isipin
 Encoding: 989607 989607 262
 Width: 640
 HStem: -16 64<246.34 361.66> 192 64<204.104 403.894 495.341 576> 304 64<246.526 360.774>
-VStem: 112 63.999<118.34 191.259> 271.999 64<416.002 544> 431.999 64.001<118.931 192>
+VStem: 112 63.999<118.34 191.259> 271.999 64<416.002 544> 431.999 64.001<118.34 192>
 LayerCount: 2
 Fore
 SplineSet
@@ -10024,10 +10034,10 @@ MultipleSubs2: "CCMP cartouches" n.ante cart.body
 Ligature2: "LIGA alternates" t.ante nine nine
 EndChar
 
-StartChar: colon.fw
+StartChar: morae.colon.hw
 Encoding: 1114126 -1 286
-Width: 640
-Flags: HW
+Width: 320
+Flags: W
 HStem: 79.9697 128.03<120.477 199.522> 304 128.03<120.477 199.522>
 VStem: 95.9844 128.031<104.463 183.507 328.493 407.538>
 LayerCount: 2
@@ -10044,16 +10054,15 @@ SplineSet
  224.015625 108.629882812 195.354492188 79.9697265625 160 79.9697265625 c 0
  124.64453125 79.9697265625 95.984375 108.629882812 95.984375 143.985351562 c 0
 EndSplineSet
+MultipleSubs2: "CCMP cartouches" morae.colon.hw cart.hwbody
 Substitution2: "SS03 colon te spacing" morae.colon
-Ligature2: "LIGA basics" colon
-MultipleSubs2: "CCMP cartouches" morae.colon cart.hwbody
 EndChar
 
 StartChar: glyph287
 Encoding: 989590 989590 287
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -10061,7 +10070,7 @@ StartChar: glyph288
 Encoding: 989591 989591 288
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -10069,14 +10078,14 @@ StartChar: glyph289
 Encoding: 989592 989592 289
 Width: 0
 VWidth: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
 StartChar: uF1995
 Encoding: 989589 989589 290
 Width: 0
-Flags: HW
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -10115,6 +10124,28 @@ SplineSet
  256 384 l 1
  320 384 l 1
  320 -64 l 1
+EndSplineSet
+EndChar
+
+StartChar: uniFF1A
+Encoding: 65306 65306 293
+Width: 640
+Flags: W
+HStem: 79.9697 128.03<120.477 199.522> 304 128.03<120.477 199.522>
+VStem: 95.9844 128.031<104.463 183.507 328.493 407.538>
+LayerCount: 2
+Fore
+SplineSet
+95.984375 368.015625 m 0
+ 95.984375 403.370117188 124.64453125 432.030273438 160 432.030273438 c 0
+ 195.354492188 432.030273438 224.015625 403.370117188 224.015625 368.015625 c 0
+ 224.015625 332.661132812 195.354492188 304 160 304 c 0
+ 124.64453125 304 95.984375 332.661132812 95.984375 368.015625 c 0
+95.984375 143.985351562 m 0
+ 95.984375 179.33984375 124.64453125 208 160 208 c 0
+ 195.354492188 208 224.015625 179.33984375 224.015625 143.985351562 c 0
+ 224.015625 108.629882812 195.354492188 79.9697265625 160 79.9697265625 c 0
+ 124.64453125 79.9697265625 95.984375 108.629882812 95.984375 143.985351562 c 0
 EndSplineSet
 EndChar
 EndChars
