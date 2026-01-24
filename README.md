@@ -22,3 +22,4 @@ any and all quibbles may be sent to muteante@gmail.com
 - toki pona radicals
 - tuki tiki
 - vertical version
+- helvetica, discord and ligature-less versions
