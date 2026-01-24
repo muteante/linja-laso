@@ -17,9 +17,9 @@ any and all quibbles may be sent to muteante@gmail.com
 **recommended line height for body text: 160%**
 
 ### will (hopefully soon) have:
+- helvetica and ligature-less versions
 - nimi ku lili ale
 - personal glyphs (priority on those who Need them to be identified)
 - toki pona radicals
 - tuki tiki
 - vertical version
-- helvetica, discord and ligature-less versions
