@@ -30,3 +30,4 @@ And 3 versions:
 * toki pona radicals
 * tuki tiki
 * vertical version
+
