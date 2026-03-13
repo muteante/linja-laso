@@ -5,7 +5,7 @@
 
 this is a little font i'm making, based on a grid and with sharp edges! More about [how](https://github.com/cvni1981/linja-laso/wiki).
 
-Features 2 weights: regular (closer to linja lipamanka) and medium (thickness based on nasin-nanpa).
+Features 2 weights: regular (a tad thicker than linja lipamanka) and medium (closer to nasin-nanpa).
 
 And 3 versions:
 * **Regular** automatically combines latin into sitelen pona
