@@ -4,7 +4,7 @@ FullName: linja laso
 FamilyName: linja laso
 Weight: Regular
 Copyright: Copyright (c) 2026, mute ante
-Version: 1.2
+Version: 1.2.1
 ItalicAngle: 0
 UnderlinePosition: -74
 UnderlineWidth: 36
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1759787008
-ModificationTime: 1773445230
+ModificationTime: 1773493015
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -102,14 +102,14 @@ ChainSub2: class "CALT cartouches" 3 3 3 1
   BClassNames: "All_Others" "glyph" "cart"
   FClassNames: "All_Others" "glyph" "cart"
 EndFPST
-LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.2" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "FontForge 2.0 : linja laso : 6-10-2025" "" "Version 1.2.1" "" "" "" "" "" "" "" "This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 168 12 10
+WinInfo: 0 12 10
 BeginPrivate: 5
 BlueShift 1 7
 StdHW 4 [77]
@@ -190,67 +190,46 @@ Encoding: 102 989441 3
 GlifName: t.akesi
 Width: 768
 GlyphClass: 1
-Flags: W
+Flags: HW
 HStem: -16 64<336.591 431.408> 112 64<159.999 240 305.586 462.412 528 607.999> 240 64<159.999 240 303.999 463.999 528 607.999> 368 64<159.999 240 305.586 462.412 528 607.999> 496 64<336.591 431.408> 560 112<216.401 295.597 472.401 551.597>
 VStem: 199.999 112<576.402 655.598> 240 63.999<79.5859 112 176 240 304 368 432 464.414> 455.999 112<576.402 655.598> 463.999 64.001<79.5859 112 176 240 304 368 432 464.414>
 LayerCount: 2
 Fore
 SplineSet
-305.585875991 432 m 1xf8
- 462.412213869 432 l 1
- 455.039338728 468.601787418 422.836835813 496 384 496 c 0
- 345.162308431 496 312.958949758 468.601787418 305.585875991 432 c 1xf8
-303.999023438 304 m 1xf140
- 463.999023438 304 l 1
- 463.999023438 368 l 1
- 303.999023438 368 l 1
- 303.999023438 304 l 1xf140
-303.999023438 176 m 1
- 463.999023438 176 l 1
- 463.999023438 240 l 1
- 303.999023438 240 l 1
- 303.999023438 176 l 1
-305.585932052 112 m 1
- 312.959112996 75.3988235942 345.162406864 48 384 48 c 0
- 422.836737381 48 455.039175494 75.3988235942 462.412157809 112 c 1
- 305.585932052 112 l 1
-199.999023438 616 m 0xf6
+199.999023438 616 m 0
  199.999023438 646.927734375 225.0703125 672 255.999023438 672 c 0
  286.926757812 672 311.999023438 646.927734375 311.999023438 616 c 0
- 311.999023438 585.071289062 286.926757812 560 255.999023438 560 c 0
- 225.0703125 560 199.999023438 585.071289062 199.999023438 616 c 0xf6
-455.999023438 616 m 0xf480
+ 311.999023438 585.072265625 286.926757812 560 255.999023438 560 c 0
+ 225.0703125 560 199.999023438 585.072265625 199.999023438 616 c 0
+455.999023438 616 m 0
  455.999023438 646.927734375 481.071289062 672 511.999023438 672 c 0
  542.926757812 672 567.999023438 646.927734375 567.999023438 616 c 0
- 567.999023438 585.071289062 542.926757812 560 511.999023438 560 c 0
- 481.071289062 560 455.999023438 585.071289062 455.999023438 616 c 0xf480
-159.999023438 112 m 1
- 159.999023438 176 l 1
- 240 176 l 1
- 240 240 l 1
- 159.999023438 240 l 1
- 159.999023438 304 l 1
- 240 304 l 1
- 240 368 l 1
- 159.999023438 368 l 1
- 159.999023438 432 l 1
- 240.870851894 432 l 1
- 248.781980441 504.191482389 309.63354742 560 384 560 c 0
- 458.365542241 560 519.217896092 504.191482389 527.129135547 432 c 1
- 607.999023438 432 l 1
- 607.999023438 368 l 1
- 528 368 l 1
- 528 304 l 1
- 607.999023438 304 l 1
- 607.999023438 240 l 1
- 528 240 l 1
- 528 176 l 1xf940
- 607.999023438 176 l 1
- 607.999023438 112 l 1
- 527.129116627 112 l 1
- 519.217799075 39.8092772393 458.36548296 -16 384 -16 c 0
- 309.633606701 -16 248.782077457 39.8092772393 240.870870814 112 c 1
- 159.999023438 112 l 1
+ 567.999023438 585.072265625 542.926757812 560 511.999023438 560 c 0
+ 481.071289062 560 455.999023438 585.072265625 455.999023438 616 c 0
+159.999023438 320 m 1
+ 159.999023438 384 l 1
+ 607.999023438 384 l 1
+ 607.999023438 320 l 1
+ 159.999023438 320 l 1
+159.999023438 160 m 1
+ 159.999023438 224 l 1
+ 607.999023438 224 l 1
+ 607.999023438 160 l 1
+ 159.999023438 160 l 1
+384 560 m 0
+ 463.775390625 560 528 495.776367188 528 416 c 2
+ 528 128 l 2
+ 528 48.224609375 463.775390625 -16 384 -16 c 0
+ 304.223632812 -16 240 48.224609375 240 128 c 2
+ 240 416 l 2
+ 240 495.776367188 304.223632812 560 384 560 c 0
+384 496.000976562 m 0
+ 339.6796875 496.000976562 303.999023438 460.3203125 303.999023438 416 c 2
+ 303.999023438 128 l 2
+ 303.999023438 83.6806640625 339.6796875 48 384 48 c 0
+ 428.319335938 48 463.999023438 83.6806640625 463.999023438 128 c 2
+ 463.999023438 416 l 2
+ 463.999023438 460.3203125 428.319335938 496.000976562 384 496.000976562 c 0
 EndSplineSet
 LCarets2: 4 -58 -58 -58 -58
 MultipleSubs2: "CCMP cartouches" t.akesi cart.body
@@ -1132,43 +1111,52 @@ Encoding: 126 989465 27
 GlifName: t.kepeken
 Width: 768
 GlyphClass: 1
-Flags: W
+Flags: HW
 HStem: 0.000976562 21G<175.999 240 560 624> 256 61.7317<330.633 368 432 469.366> 384.001 64<175.999 368 432 624> 608.001 64<175.999 368 432 624>
 VStem: 111.999 64<448.001 608.001> 368 64<315.182 384.001 448.001 608.001> 560 64<0.000976562 165.366> 624 63.999<448.001 608.001>
 LayerCount: 2
 Fore
 SplineSet
-175.999023438 608.000976562 m 1xfc
- 175.999023438 448.000976562 l 1
- 368 448.000976562 l 1
- 368 608.000976562 l 1
- 175.999023438 608.000976562 l 1xfc
-432 608.000976562 m 1
- 432 448.000976562 l 1
- 624 448.000976562 l 1
- 624 608.000976562 l 1xfd
- 432 608.000976562 l 1
+111.999023438 640 m 1
+ 687.999023438 640 l 1
+ 687.999023438 352.000976562 l 1
+ 431.999023438 352.000976562 l 1
+ 432 280.000976562 l 1
+ 368 280.000976562 l 1
+ 367.999023438 352.000976562 l 1
+ 111.999023438 352.000976562 l 1
+ 111.999023438 640 l 1
+175.999023438 576 m 1
+ 175.999023438 416 l 1
+ 367.999023438 416 l 1
+ 367.999023438 576 l 1
+ 175.999023438 576 l 1
+431.999023438 576 m 1
+ 431.999023438 416 l 1
+ 623.999023438 416 l 1
+ 623.999023438 576 l 1
+ 431.999023438 576 l 1
+399.999023438 288.000976562 m 0
+ 523.7109375 288.000976562 624 187.712890625 624 64.0009765625 c 1
+ 559.999023438 64.0009765625 l 1
+ 559.999023438 152.366210938 488.365234375 224 399.999023438 224 c 0
+ 311.633789062 224 240 152.366210938 240 64.0009765625 c 1
+ 175.999023438 64.0009765625 l 1
+ 175.999023438 187.712890625 276.287109375 288.000976562 399.999023438 288.000976562 c 0
+175.999023438 0.0009765625 m 1
+ 175.999023438 96 l 1
+ 240 96 l 1
+ 240 0.0009765625 l 1
+ 175.999023438 0.0009765625 l 1
+560 0 m 1
+ 560 64.0009765625 l 1
+ 624 64.0009765625 l 1
+ 624 0 l 1
+ 560 0 l 1
 63.9990234375 160.000976562 m 1
  116.4296875 196.702148438 l 1
- 176.487127429 110.906329342 l 1
- 183.456278839 216.981779108 264.264317317 302.893984628 368 317.731703037 c 1
- 368 384.000976562 l 1
- 111.999023438 384.000976562 l 1
- 111.999023438 672.000976562 l 1
- 687.999023438 672.000976562 l 1
- 687.999023438 384.000976562 l 1xfd
- 432 384.000976562 l 1
- 432 317.731426708 l 1
- 540.55287005 302.20374167 623.999518574 208.847437224 623.999999998 96.0009765625 c 2
- 624 96 l 1
- 624 0.0009765625 l 1
- 560 0.0009765625 l 1
- 560 96 l 2xfe
- 559.999023438 184.365234375 488.365234375 256 399.999023438 256 c 0
- 311.633789062 256 240 184.365234375 240 96 c 2
- 240 0.0009765625 l 1
+ 228.4296875 36.703125 l 1
  176 0.0009765625 l 1
- 175.999023438 0.00237163890733 l 1
  63.9990234375 160.000976562 l 1
 EndSplineSet
 LCarets2: 6 0 0 0 0 0 0
@@ -2171,35 +2159,39 @@ GlifName: t.moku
 Width: 768
 GlyphClass: 1
 Flags: W
-HStem: 0 21G<178 256.001 576 640.001> 272 64<348.012 483.988> 384 64<347.322 484.679> 576 64<259.201 572.8>
-VStem: 192 64<111.602 178.611> 576 64.001<0.000976562 178.612>
+HStem: 0 21G<192 256.001 576 640.001> 272 64<348.012 483.988> 368 64<348.04 483.96> 592 64<256 576>
+VStem: 192 64.001<0 0.00237163 111.602 178.612 525.42 592> 576 64.001<0.000976562 178.612 525.42 592>
 LayerCount: 2
 Fore
 SplineSet
+256 592 m 1
+ 256 503.693359375 327.694335938 432 416 432 c 0
+ 504.306640625 432 576 503.693359375 576 592 c 1
+ 256 592 l 1
+192 656 m 1
+ 640 656 l 1
+ 640 592 l 2
+ 640 468.37109375 539.62890625 368 416 368 c 0
+ 292.37109375 368 192 468.37109375 192 592 c 2
+ 192 656 l 1
 80 160 m 1
  132.4296875 196.701171875 l 1
  192 111.601986864 l 1
- 192 112 l 2
+ 192 112 l 1
+ 192.000000002 112.000976562 l 2
  192.000000002 235.712441834 292.288411458 336 416 336 c 0
- 539.711588542 336 639.999472227 235.712441834 639.999999998 112.000976562 c 2
+ 539.711588542 336 639.999472227 235.712441834 639.999999998 112.000976562 c 1
+ 640.000976562 112.000976562 l 1
  640.000976562 0.0009765625 l 1
  576 0.0009765625 l 1
  576 112 l 2
  575.999023438 200.365234375 504.365234375 272 416 272 c 0
- 327.635091146 272 256.000527778 200.365762152 256.000000003 112.000976562 c 2
+ 327.635091146 272 256.000527778 200.365762152 256.000000003 112.000976562 c 1
+ 256.000976562 112.000976562 l 1
  256.000976562 0 l 1
  192 0 l 1
+ 192 0.00237163110673 l 1
  80 160 l 1
-259.201171875 576 m 1
- 274.026367188 502.96875 338.59375 448 416 448 c 0
- 493.407226562 448 557.974609375 502.96875 572.799804688 576 c 1
- 259.201171875 576 l 1
-192 640 m 1
- 640 640 l 1
- 640 608 l 2
- 640 484.288085938 539.711914062 384 416 384 c 0
- 292.288085938 384 192 484.288085938 192 608 c 2
- 192 640 l 1
 EndSplineSet
 LCarets2: 3 -58 -58 -58
 MultipleSubs2: "CCMP cartouches" t.moku cart.body
@@ -8373,8 +8365,8 @@ Encoding: 282 -1 245
 Width: 768
 VWidth: 704
 Flags: HW
-HStem: -64 21G<128 768> 528 48<176 224 368 415.998 560 608 656 704>
-VStem: 128 48<288 528> 224 47.998<288.002 336> 319.998 48.002<288.002 336> 415.998 144.002<384 528> 415.998 48.002<288.002 336> 608 48<432 528> 704 64<288 528>
+HStem: -128 21G<192 832> 464 48<240 288 432 479.998 624 672 720 768>
+VStem: 192 48<224 464> 288 47.998<224.002 272> 383.998 48.002<224.002 272> 479.998 144.002<320 464> 479.998 48.002<224.002 272> 672 48<368 464> 768 64<224 464>
 LayerCount: 2
 Fore
 SplineSet
@@ -8401,13 +8393,23 @@ SplineSet
  448 448 l 1
  448 592 l 1
  304 592 l 1
+591.998046875 592 m 1
+ 591.998046875 352 l 1
+ 639.998046875 352 l 1
+ 639.998046875 592 l 1
+ 591.998046875 592 l 1
 207.998046875 400 m 1
  207.998046875 352.001953125 l 1
  255.998046875 352.001953125 l 1
  255.998046875 400 l 1
  207.998046875 400 l 1
+495.998046875 400 m 1
+ 495.998046875 352 l 1
+ 543.998046875 352 l 1
+ 543.998046875 400 l 1
+ 495.998046875 400 l 1
 EndSplineSet
-LCarets2: 10 525 525 525 525 525 525 525 525 525 525
+LCarets2: 10 589 589 589 589 589 589 589 589 589 589
 Ligature2: "LIGA basics" f o n t v e r s i o n
 EndChar
 
@@ -8416,6 +8418,7 @@ Encoding: 97 12288 246
 Width: 768
 Flags: W
 LayerCount: 2
+Ligature2: "LIGA basics" z z
 Ligature2: "LIGA basics" bar
 MultipleSubs2: "CCMP cartouches" fwsp cart.body
 Ligature2: "LIGA basics" space space
@@ -10337,32 +10340,32 @@ EndChar
 
 StartChar: glyph287
 Encoding: 246 989590 286
-Width: 768
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: glyph288
 Encoding: 247 989591 287
-Width: 768
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: glyph289
 Encoding: 248 989592 288
-Width: 768
+Width: 0
 VWidth: 0
-Flags: W
+Flags: HW
 LayerCount: 2
 EndChar
 
 StartChar: uF1995
 Encoding: 245 989589 289
-Width: 768
-Flags: W
+Width: 0
+Flags: HW
 LayerCount: 2
 EndChar
 
